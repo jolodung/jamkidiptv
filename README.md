@@ -38,7 +38,7 @@ http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="Lokal",indosiar
 https://delivery.macan.network/stream/id_indosiar/playlist.m3u8?token=rqvntc0&v=20200807
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="Lokal",O Channel vidio
-https://etslive-2-vidio-com.akamaized.net/exp=1656784446~acl=/vp9/9211_stream.mpd!/vp9/9211/*!/vp9/*/9211_stream.mpd!/vp9/*/9211/*~hmac=8edb7f89377c698b247440ed3870d92883a83ec45b33f2c486ec08a8cb92cb54/vp9/9211_stream.mpd
+https://rmue2hq1pcliv.vcdn.cloud/2658ebb8ec145450bc7894e6022249de/1657139085737/as9xexm/as9xexm@720p.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png" group-title="Lokal" ,SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
