@@ -387,7 +387,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1657088014~acl=/hls-p/ingest_6685_
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LeU1dbK9Xyni61LXCXcPRL8WouY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/cf3faa.png" group-title="SPORT", CHAMPIONS 2
 https://etslive-2-vidio-com.akamaized.net/exp=1657088347~acl=/hls-b/ingest_6686_*/*~hmac=5a880a2eff15163950b09ce13d0b51ca0fe14ef07d11b9d146a919e5d81ee53f/hls-b/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DAwYfgtwzenPVwfK-rX3D9g9Zbo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/aac5ba.png" group-title="SPORT", CHAMPIONS 3
-https://lnk.ec/shareext@champ3
+https://etslive-2-vidio-com.akamaized.net/exp=1657088525~acl=/hls-b/ingest_6786_*/*~hmac=7f589cccc2a54901764d6492797837e9d0f409f713259ac91ad944108ca74f39/hls-b/ingest_6786_720p/index.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://i.imgur.com/4J586mw.png" group-title="SPORT",Champions TV 4
 https://lnk.ec/shareext@juara4
 
