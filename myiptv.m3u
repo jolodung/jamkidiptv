@@ -383,7 +383,7 @@ http://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:0 tvg-id="BeInSports3Indonesia.qa" tvg-name="beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="SPORT",BeIN Sport 3
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j1Td_vKLU91XmBThzTZX1KAPj2M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/340ff7.png" group-title="SPORT",CHAMPIONS 1
-https://etslive-2-vidio-com.akamaized.net/exp=1657065231~acl=/hls-b/ingest_6686_*/*~hmac=8946a8c1666615766b2656d61f90ea63ae2ae191e32eceb2937f1307cd45b54c/hls-b/ingest_6686_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1657088014~acl=/hls-p/ingest_6685_*/*~hmac=84b0111a34b6213e4add6b26aa3959263ba50b56e45fd6681dbffcc791d594e4/hls-p/ingest_6685_720p/index.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LeU1dbK9Xyni61LXCXcPRL8WouY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/cf3faa.png" group-title="SPORT", CHAMPIONS 2
 https://etslive-2-vidio-com.akamaized.net/exp=1657065231~acl=/hls-b/ingest_6686_*/*~hmac=8946a8c1666615766b2656d61f90ea63ae2ae191e32eceb2937f1307cd45b54c/hls-b/ingest_6686_480p/index.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DAwYfgtwzenPVwfK-rX3D9g9Zbo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/aac5ba.png" group-title="SPORT", CHAMPIONS 3
