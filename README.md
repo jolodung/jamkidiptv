@@ -473,7 +473,7 @@ http://182.50.65.213:8888/udp/239.239.0.33:3001
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SPORT",IN: Sony Ten 2
 http://yashraj-mod-06.in1.bitmana.io//live.php?c=Ten_2&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN: Ten 3" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="SPORT"",IN: Ten 3
-http://jessicatv.site:8080/FM10020/4d136785/16621
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/98863.ts
 #EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title=" SPORT", Ten 4 HD Telugu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001065&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDQ0NDI3Njg0IiwiaXNlIjp0cnVlLCJqdGkiOiI0OWNmNTJkNy02MzRiLTQyOGUtYTA1OS01NGVlZTBlMjc3MTEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjU2NjUwMTM5LCJuYW1lIjoiWXV2YSBLcmlzaG5hbiIsImlhdCI6MTY1NjU2MzczOSwiZW50IjpbeyJiaWQiOjEwMDAwMDEwMzUsImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyJ9XSwiaXNzIjoiVFROIn0.OIKf1QenbagsLj8WeUPtTyAPWae_gtaHE2gep3TS_H8
