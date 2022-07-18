@@ -300,6 +300,8 @@ http://iptvtree.net:8080/rhaddaoui90/58b4b54325/50687
 
 #EXTINF:-1 tvg-id="" tvg-name="IT: Disney+ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b341cdf0d98a2fe1de2fac22cb03efab.png" group-title="Kids",IT: Disney+ Nature
 http://iptvtree.net:8080/rhaddaoui90/58b4b54325/169950
+#EXTINF:-1,UK: Disney Channel
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/271.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Kids" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/cartoonnetwork.png",Cartoon Network Asia
