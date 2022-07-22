@@ -2,8 +2,8 @@
 http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png", DIKASIH INFO MAZEE
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/chunklist_w311866903.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/0yRKskF7/MUSIC-INDIA.png" group-title="Music", Asololeee
-http://stariptv.org:8080/hamza2022/123456/99334
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/0yRKskF7/MUSIC-INDIA.png" group-title="Music", MALEO
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/0yRKskF7/MUSIC-INDIA.png" group-title="Music",Music India
@@ -35,7 +35,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="Lokal",indosiar
-https://delivery.macan.network/stream/id_indosiar/playlist.m3u8?token=rqvntc0&v=20200807
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="Lokal",O Channel vidio
 https://etslive-2-vidio-com.akamaized.net/exp=1656784446~acl=/vp9/9211_stream.mpd!/vp9/9211/*!/vp9/*/9211_stream.mpd!/vp9/*/9211/*~hmac=8edb7f89377c698b247440ed3870d92883a83ec45b33f2c486ec08a8cb92cb54/vp9/9211_stream.mpd
 
@@ -536,130 +536,44 @@ https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272308
 #EXTINF: -1 group-title="SPORT", DUBAI SPORT3
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272309
 #EXTINF:-1,BEIN SPORT EXTRA 1 HD
-http://stariptv.org:8080/basma2022/123456/15721
+http://megatv.me:5890/ali/12345/123720
 #EXTINF:-1,BEIN SPORT EXTRA 2 HD
-http://stariptv.org:8080/basma2022/123456/15722
+http://megatv.me:5890/ali/12345/123722
 #EXTINF:-1, BEIN SPORT 1 HD
-http://stariptv.org:8080/basma2022/123456/15560
+http://megatv.me:5890/ali/12345/145126
 #EXTINF:-1, BEIN SPORT 2 HD
-http://stariptv.org:8080/basma2022/123456/15559
+http://megatv.me:5890/ali/12345/145128
 #EXTINF:-1, BEIN SPORT 3 HD
-http://stariptv.org:8080/basma2022/123456/15558
+http://megatv.me:5890/ali/12345/145127
 #EXTINF:-1, BEIN SPORT 4 HD
-http://stariptv.org:8080/basma2022/123456/15557
-#EXTINF:-1, BEIN SPORT 5 HD
-http://stariptv.org:8080/basma2022/123456/15556
-#EXTINF:-1, BEIN SPORT 6 HD
-http://stariptv.org:8080/basma2022/123456/15555
-#EXTINF:-1, BEIN SPORT 7 HD
-http://stariptv.org:8080/basma2022/123456/15720
-#EXTINF:-1,BEIN SPORT 1 EN HD
-http://stariptv.org:8080/basma2022/123456/112461
-#EXTINF:-1,BEIN SPORT 2 EN HD
-http://stariptv.org:8080/basma2022/123456/112462
-#EXTINF:-1,BEIN SPORT 3 EN HD
-http://stariptv.org:8080/basma2022/123456/112463
-#EXTINF:-1,BEIN SPORT 1 FR HD
-http://stariptv.org:8080/basma2022/123456/112464
-#EXTINF:-1,BEIN SPORT 2 FR HD
-http://stariptv.org:8080/basma2022/123456/112465
-#EXTINF:-1,BEIN SPORT 3 FR HD
-http://stariptv.org:8080/basma2022/123456/112466
-#EXTINF:-1,BEIN SPORT NEWS HD
-http://stariptv.org:8080/basma2022/123456/22185
-#EXTINF:-1,BEIN SPORT HD
-http://stariptv.org:8080/basma2022/123456/22186
-#EXTINF:-1,BEIN SPORT 1 PREMIUM HQ
-http://stariptv.org:8080/basma2022/123456/2762
-#EXTINF:-1,BEIN SPORT 2 PREMIUM HQ
-http://stariptv.org:8080/basma2022/123456/2763
-#EXTINF:-1,BEIN SPORT 3 PREMIUM HQ
-http://stariptv.org:8080/basma2022/123456/2766
-#EXTINF:-1,BEIN SPORT 1 XTRA HQ
-http://stariptv.org:8080/basma2022/123456/132027
-#EXTINF:-1,BEIN SPORT 2 XTRA HQ
-http://stariptv.org:8080/basma2022/123456/132028
-#EXTINF:-1,BEIN SPORT 1 HQ
-http://stariptv.org:8080/basma2022/123456/2755
-#EXTINF:-1,BEIN SPORT 2 HQ
-http://stariptv.org:8080/basma2022/123456/2756
-#EXTINF:-1,BEIN SPORT 3 HQ
-http://stariptv.org:8080/basma2022/123456/2757
-#EXTINF:-1,BEIN SPORT 4 HQ
-http://stariptv.org:8080/basma2022/123456/2758
-#EXTINF:-1,BEIN SPORT 5 HQ
-http://stariptv.org:8080/basma2022/123456/2759
-#EXTINF:-1,BEIN SPORT 6 HQ
-http://stariptv.org:8080/basma2022/123456/2760
-#EXTINF:-1,BEIN SPORT 7 HQ
-http://stariptv.org:8080/basma2022/123456/2761
-#EXTINF:-1 ,SPORT 1 HD
-http://stariptv.org:8080/basma2022/123456/15560
-#EXTINF:-1 ,SPORT 2 HD
-http://stariptv.org:8080/basma2022/123456/15559
-#EXTINF:-1 ,SPORT 3 HD
-http://stariptv.org:8080/basma2022/123456/15558
-#EXTINF:-1 ,SPORT 4 HD
-http://stariptv.org:8080/basma2022/123456/15557
+http://megatv.me:5890/ali/12345/145129
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 PREMIUM SD" tvg-logo="http://caballerotv.com:5890/images/664e959174fde9763f371b9988aa84e0.png" group-title="SPORT",beIN SPORTS 1 PREMIUM SD
+http://megatv.me:5890/ali/12345/98223
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 PREMIUM SD" tvg-logo="http://caballerotv.com:5890/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="SPORT",beIN SPORTS 2 PREMIUM SD
+http://megatv.me:5890/ali/12345/98224
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 PREMIUM SD" tvg-logo="http://caballerotv.com:5890/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="SPORT"beIN SPORTS 3 PREMIUM SD
+http://megatv.me:5890/ali/12345/98229
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://showflix.art:5890/images/9bf1fe5edcd55b12291930b8aecd5d66.png" group-title="SPORT",beIN SPORTS 1 SD
+http://megatv.me:5890/ali/12345/35
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://showflix.art:5890/images/c57174675a461d1c41ec9d6b934efe22.png" group-title="SPORT",beIN SPORTS 2 SD
+http://megatv.me:5890/ali/12345/36
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://showflix.art:5890/images/a8996d70bbeff41beb408580908519e3.png" group-title="SPORT",beIN SPORTS 3 SD
+http://megatv.me:5890/ali/12345/37
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://showflix.art:5890/images/9c01d43a879e30fbc3779fc2fd210de2.png" group-title="SPORT",beIN SPORTS 4 SD
+http://megatv.me:5890/ali/12345/38
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 5 SD" tvg-logo="http://showflix.art:5890/images/eb65cc982d454336ad382866398e85e6.png" group-title="SPORT",beIN SPORTS 5 SD
+http://megatv.me:5890/ali/12345/39
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 6 SD" tvg-logo="http://caballerotv.com:5890/images/34528f5a08d39074433cde07d40feb16.png" group-title="SPORT",beIN SPORTS 6 SD
+http://megatv.me:5890/ali/12345/40
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 7 SD" tvg-logo="http://caballerotv.com:5890/images/0fdddd8893a8e7f323b6fe2bdcbd415b.png" group-title="SPORTS ",beIN SPORTS 7 SD
+http://megatv.me:5890/ali/12345/41
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 1 ENGLISH SD" tvg-logo="http://showflix.org:5890/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="SPORTS ",beIN SPORTS 1 ENGLISH SD
+http://megatv.me:5890/ali/12345/25
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 2 ENGLISH SD" tvg-logo="http://showflix.org:5890/images/a733f8868555620556c53ff670fcb934.png" group-title="SPORTS ",beIN SPORTS 2 ENGLISH SD
+http://megatv.me:5890/ali/12345/14
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 3 ENGLISH SD" tvg-logo="http://showflix.org:5890/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="SPORTS ",beIN SPORTS 3 ENGLISH SD
+http://megatv.me:5890/ali/12345/44
 
-#EXTINF:-1 ,SPORT 1 PREMIUM HQ
-http://stariptv.org:8080/basma2022/123456/2762
-#EXTINF:-1 ,SPORT 2 PREMIUM HQ
-http://stariptv.org:8080/basma2022/123456/2763
-#EXTINF:-1 ,SPORT 3 PREMIUM HQ
-http://stariptv.org:8080/basma2022/123456/2766
-
-#EXTINF:-1 ,SPORT 1 HQ
-http://stariptv.org:8080/basma2022/123456/2755
-#EXTINF:-1 ,SPORT 2 HQ
-http://stariptv.org:8080/basma2022/123456/2756
-#EXTINF:-1 ,SPORT 3 HQ
-http://stariptv.org:8080/basma2022/123456/2757
-#EXTINF:-1 ,SPORT 4 HQ
-http://stariptv.org:8080/basma2022/123456/2758
-
-#EXTINF:-1 ,SPORT 1 PREMIUM FHD
-http://stariptv.org:8080/basma2022/123456/141563
-#EXTINF:-1 ,SPORT 2 PREMIUM FHD
-http://stariptv.org:8080/basma2022/123456/141564
-#EXTINF:-1 ,SPORT 3 PREMIUM FHD
-http://stariptv.org:8080/basma2022/123456/141565
-#EXTINF:-1 ,SPORT Sports HD1 FHD
-http://stariptv.org:8080/basma2022/123456/141566
-#EXTINF:-1 ,SPORT Sports HD2 FHD
-http://stariptv.org:8080/basma2022/123456/141567
-#EXTINF:-1 ,SPORT Sports HD3 FHD
-http://stariptv.org:8080/basma2022/123456/141568
-#EXTINF:-1 ,SPORT Sports HD4 FHD
-http://stariptv.org:8080/basma2022/123456/141569
-#EXTINF:-1 ,SPORT Sports HD5 FHD
-http://stariptv.org:8080/basma2022/123456/141570
-#EXTINF:-1 ,SPORT Sports HD6 FHD
-http://stariptv.org:8080/basma2022/123456/141571
-#EXTINF:-1 ,SPORT Sports HD7 FHD
-http://stariptv.org:8080/basma2022/123456/141572
-
-http://93.152.174.144:4000/play/a00f/index.m3u8
-#EXTINF:-1,BEIN SPORT 1 PREMIUM FHD
-http://stariptv.org:8080/basma2022/123456/141563
-#EXTINF:-1,BEIN SPORT 2 PREMIUM FHD
-http://stariptv.org:8080/basma2022/123456/141564
-#EXTINF:-1,BEIN SPORT 3 PREMIUM FHD
-http://stariptv.org:8080/basma2022/123456/141565
-#EXTINF:-1,BEIN  SPORTS 1 FHD
-http://stariptv.org:8080/basma2022/123456/141566
-#EXTINF:-1,BEIN SPORT 2 FHD
-http://stariptv.org:8080/basma2022/123456/141567
-#EXTINF:-1,BEIN SPORT 3 FHD
-http://stariptv.org:8080/basma2022/123456/141568
-#EXTINF:-1,BEIN SPORT 4 FHD
-http://stariptv.org:8080/basma2022/123456/141569
-#EXTINF:-1,BEIN SPORT 5 FHD
-http://stariptv.org:8080/basma2022/123456/141570
-#EXTINF:-1,BEIN SPORT 6 FHD
-http://stariptv.org:8080/basma2022/123456/141571
-#EXTINF:-1,BEIN SPORT 7 FHD
-http://stariptv.org:8080/basma2022/123456/141572
 
 
 
