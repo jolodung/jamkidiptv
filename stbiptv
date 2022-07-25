@@ -32,7 +32,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="Lokal", INDOSIAR
-http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1658755448~acl=/vp9/9317_stream.mpd!/vp9/9317/*!/vp9/*/9317_stream.mpd!/vp9/*/9317/*~hmac=e69d91b7994632d3f42e9d37c3afecd431b323c6a0b982113e79ead4ec93b56c/vp9/9317_stream.mpd
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="Lokal",indosiar
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
