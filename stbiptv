@@ -32,7 +32,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="Lokal", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1658755448~acl=/vp9/9317_stream.mpd!/vp9/9317/*!/vp9/*/9317_stream.mpd!/vp9/*/9317/*~hmac=e69d91b7994632d3f42e9d37c3afecd431b323c6a0b982113e79ead4ec93b56c/vp9/9317_stream.mpd
+http://139.99.61.103:8080/SmileTv/GunakanBijak/3
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="Lokal",indosiar
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
@@ -468,14 +468,14 @@ http://iptvtree.net:8080/Fullitalia/52806fdf/287793
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 
 #EXTINF:-1 tvg-id="" tvg-name="IN:  Sony Six SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORT",IN:  Sony Six SD
-http://familyplus.me:8080/live/mazen1/123456/72073.ts
+http://pprotv.com:80/live/ahmed75/75ahmed/60000.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="USA1: Sony Ten 1 Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="SPORT", Sony Ten 1
 #EXTINF:-1 tvg-id="TenHD.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJ9MvN6YTDr4j_2cd_uwFanfKgyYqAF9jjQ&usqp=CAU" group-title="SPORT",SONY TEN 1 HD
-http://182.50.65.213:8888/udp/239.239.0.33:3001
+http://starshare.live:8080/live/imran007/imran007/9402.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SPORT",IN: Sony Ten 2
-http://yashraj-mod-06.in1.bitmana.io//live.php?c=Ten_2&q=1200&e=junk.m3u8
+http://starshare.live:8080/live/imran007/imran007/9403.ts
 #EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN: Ten 3" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="SPORT"",IN: Ten 3
-http://quality-restream.com:8080/Miglioriptv/9meicgdec6/56191
+http://starshare.live:8080/live/imran007/imran007/9404.ts
 #EXTINF: -1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title=" SPORT", Ten 4 HD Telugu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001065&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxNDQ0NDI3Njg0IiwiaXNlIjp0cnVlLCJqdGkiOiI0OWNmNTJkNy02MzRiLTQyOGUtYTA1OS01NGVlZTBlMjc3MTEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjU2NjUwMTM5LCJuYW1lIjoiWXV2YSBLcmlzaG5hbiIsImlhdCI6MTY1NjU2MzczOSwiZW50IjpbeyJiaWQiOjEwMDAwMDEwMzUsImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyJ9XSwiaXNzIjoiVFROIn0.OIKf1QenbagsLj8WeUPtTyAPWae_gtaHE2gep3TS_H8
@@ -535,45 +535,34 @@ https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272307
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272308
 #EXTINF: -1 group-title="SPORT", DUBAI SPORT3
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272309
-#EXTINF:-1,BEIN SPORT EXTRA 1 HD
-http://megatv.me:5890/ali/12345/123720
-#EXTINF:-1,BEIN SPORT EXTRA 2 HD
-http://megatv.me:5890/ali/12345/123722
-#EXTINF:-1, BEIN SPORT 1 HD
-http://megatv.me:5890/ali/12345/145126
-#EXTINF:-1, BEIN SPORT 2 HD
-http://megatv.me:5890/ali/12345/145128
-#EXTINF:-1, BEIN SPORT 3 HD
-http://megatv.me:5890/ali/12345/145127
-#EXTINF:-1, BEIN SPORT 4 HD
-http://megatv.me:5890/ali/12345/145129
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 PREMIUM SD" tvg-logo="http://caballerotv.com:5890/images/664e959174fde9763f371b9988aa84e0.png" group-title="SPORT",beIN SPORTS 1 PREMIUM SD
-http://megatv.me:5890/ali/12345/98223
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 PREMIUM SD" tvg-logo="http://caballerotv.com:5890/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="SPORT",beIN SPORTS 2 PREMIUM SD
-http://megatv.me:5890/ali/12345/98224
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 PREMIUM SD" tvg-logo="http://caballerotv.com:5890/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="SPORT"beIN SPORTS 3 PREMIUM SD
-http://megatv.me:5890/ali/12345/98229
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://showflix.art:5890/images/9bf1fe5edcd55b12291930b8aecd5d66.png" group-title="SPORT",beIN SPORTS 1 SD
-http://megatv.me:5890/ali/12345/35
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://showflix.art:5890/images/c57174675a461d1c41ec9d6b934efe22.png" group-title="SPORT",beIN SPORTS 2 SD
-http://megatv.me:5890/ali/12345/36
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://showflix.art:5890/images/a8996d70bbeff41beb408580908519e3.png" group-title="SPORT",beIN SPORTS 3 SD
-http://megatv.me:5890/ali/12345/37
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://showflix.art:5890/images/9c01d43a879e30fbc3779fc2fd210de2.png" group-title="SPORT",beIN SPORTS 4 SD
-http://megatv.me:5890/ali/12345/38
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 5 SD" tvg-logo="http://showflix.art:5890/images/eb65cc982d454336ad382866398e85e6.png" group-title="SPORT",beIN SPORTS 5 SD
-http://megatv.me:5890/ali/12345/39
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 6 SD" tvg-logo="http://caballerotv.com:5890/images/34528f5a08d39074433cde07d40feb16.png" group-title="SPORT",beIN SPORTS 6 SD
-http://megatv.me:5890/ali/12345/40
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 7 SD" tvg-logo="http://caballerotv.com:5890/images/0fdddd8893a8e7f323b6fe2bdcbd415b.png" group-title="SPORTS ",beIN SPORTS 7 SD
-http://megatv.me:5890/ali/12345/41
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 1 ENGLISH SD" tvg-logo="http://showflix.org:5890/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="SPORTS ",beIN SPORTS 1 ENGLISH SD
-http://megatv.me:5890/ali/12345/25
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 2 ENGLISH SD" tvg-logo="http://showflix.org:5890/images/a733f8868555620556c53ff670fcb934.png" group-title="SPORTS ",beIN SPORTS 2 ENGLISH SD
-http://megatv.me:5890/ali/12345/14
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="beIN SPORTS 3 ENGLISH SD" tvg-logo="http://showflix.org:5890/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="SPORTS ",beIN SPORTS 3 ENGLISH SD
-http://megatv.me:5890/ali/12345/44
-
+#EXTINF:-1,|BN| BEIN SPORT  1 FHD
+http://starshare.live:8080/live/imran007/imran007/4466.ts
+#EXTINF:-1,|AR| BEIN SPORT 6 (HD)
+http://starshare.live:8080/live/imran007/imran007/4467.ts
+#EXTINF:-1,|AR| BEIN SPORT  1 HD
+http://starshare.live:8080/live/imran007/imran007/4468.ts
+#EXTINF:-1,|AR| BEIN SPORT  2 HD
+http://starshare.live:8080/live/imran007/imran007/4469.ts
+#EXTINF:-1,|AR| BEIN SPORT 3 HD
+http://starshare.live:8080/live/imran007/imran007/4470.ts
+#EXTINF:-1,|AR| BEIN SPORT 4 HD
+http://starshare.live:8080/live/imran007/imran007/4471.ts
+#EXTINF:-1,|AR| BEIN SPORT 5 HD
+http://starshare.live:8080/live/imran007/imran007/4472.ts
+#EXTINF:-1,|AR| BEIN SPORT 6 HD
+http://starshare.live:8080/live/imran007/imran007/4473.ts
+#EXTINF:-1,|AR| BEIN SPORT 7 HD
+http://starshare.live:8080/live/imran007/imran007/4474.ts
+#EXTINF:-1,|AR| BEIN SPORT 7 (HD)
+http://starshare.live:8080/live/imran007/imran007/4475.ts
+#EXTINF:-1,|AR| BEIN SPORT 1
+http://starshare.live:8080/live/imran007/imran007/4476.ts
+#EXTINF:-1,|AR| BEIN SPORT  2-SD
+http://starshare.live:8080/live/imran007/imran007/4477.ts
+#EXTINF:-1,|AR| BEIN SPORT 5-SD
+http://starshare.live:8080/live/imran007/imran007/4478.ts
+#EXTINF:-1,|AR| BEIN SPORT 2
+http://starshare.live:8080/live/imran007/imran007/4479.ts
 
 
 
