@@ -585,7 +585,12 @@ http://gbox.goldeniptv.com:25461/123321/123321/140972
 http://gbox.goldeniptv.com:25461/123321/123321/140973
 #EXTINF:-1,CH: MySports 9 FHD
 http://gbox.goldeniptv.com:25461/123321/123321/140974
-
+#EXTINF:-1,USA: beIN SPORTS CONNECT 7
+http://gbox.goldeniptv.com:25461/123321/123321/144372
+#EXTINF:-1,USA: beIN SPORTS CONNECT 6
+http://gbox.goldeniptv.com:25461/123321/123321/144373
+#EXTINF:-1,USA: beIN SPORTS CONNECT 4
+http://gbox.goldeniptv.com:25461/123321/123321/144374
 
 
 
