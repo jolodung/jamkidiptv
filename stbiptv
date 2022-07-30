@@ -571,7 +571,20 @@ http://gbox.goldeniptv.com:25461/123321/123321/133205
 http://gbox.goldeniptv.com:25461/123321/123321/133204
 #EXTINF:-1,PL:  ELEVEN SPORTS 4 hd
 http://gbox.goldeniptv.com:25461/123321/123321/133203
-
+#EXTINF:-1,CH: MySports 2 FHD
+http://gbox.goldeniptv.com:25461/123321/123321/140968
+#EXTINF:-1,CH: MySports 4 FHD
+http://gbox.goldeniptv.com:25461/123321/123321/140969
+#EXTINF:-1,CH: MySports 5 FHD
+http://gbox.goldeniptv.com:25461/123321/123321/140970
+#EXTINF:-1,CH: MySports 6 HD
+http://gbox.goldeniptv.com:25461/123321/123321/140971
+#EXTINF:-1,CH: MySports 7 FHD
+http://gbox.goldeniptv.com:25461/123321/123321/140972
+#EXTINF:-1,CH: MySports 8 FHD
+http://gbox.goldeniptv.com:25461/123321/123321/140973
+#EXTINF:-1,CH: MySports 9 FHD
+http://gbox.goldeniptv.com:25461/123321/123321/140974
 
 
 
