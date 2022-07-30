@@ -2,7 +2,7 @@
 http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png", DIKASIH INFO MAZEE
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/chunklist_w311866903.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/0yRKskF7/MUSIC-INDIA.png" group-title="Music", MALEO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8kXG2vyn/maleo.jpg"group-title="Music", MALEO
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 
