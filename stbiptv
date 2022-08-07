@@ -32,7 +32,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="Lokal", INDOSIAR
-http://139.99.61.103:8080/SmileTv/GunakanBijak/3
+http://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="Lokal",indosiar
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
