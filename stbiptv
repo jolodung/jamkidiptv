@@ -32,15 +32,14 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="Lokal", INDOSIAR
-http://210.247.248.113:25461/SmileTv/GunakanBijak/3
-
-#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="Lokal",indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1660307991~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=02425874d78cd4c8988af5b027c0c25213b03b620cc075fd9c21b01f16750dd9/vp9/205_stream.mpd
-#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="Lokal",O Channel vidio
-https://etslive-2-vidio-com.akamaized.net/exp=1656784446~acl=/vp9/9211_stream.mpd!/vp9/9211/*!/vp9/*/9211_stream.mpd!/vp9/*/9211/*~hmac=8edb7f89377c698b247440ed3870d92883a83ec45b33f2c486ec08a8cb92cb54/vp9/9211_stream.mpd
-
+http://tvn.x10.mx/vidio/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png" group-title="Lokal" ,SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="Lokal",O Channel vidio
+http://tvn.x10.mx/vidio/master-13.m3u8
+
+
 
 #EXTINF:-1,Mentari
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
@@ -439,13 +438,13 @@ http://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:0 tvg-id="BeInSports3Indonesia.qa" tvg-name="beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="SPORT",BeIN Sport 3
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j1Td_vKLU91XmBThzTZX1KAPj2M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/340ff7.png" group-title="SPORT",CHAMPIONS 1
-https://stream-cdn.mncnow.id/live/eds/SPOTV-HD/sa_hls_vmx/SPOTV-HD.m3u8
+http://tvn.x10.mx/vidio/master-7.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LeU1dbK9Xyni61LXCXcPRL8WouY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/cf3faa.png" group-title="SPORT", CHAMPIONS 2
-http://tvlive.my.id:25461/kevin/kevin/33
+http://tvn.x10.mx/vidio/master-8.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DAwYfgtwzenPVwfK-rX3D9g9Zbo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/aac5ba.png" group-title="SPORT", CHAMPIONS 3
-http://tvlive.my.id:25461/kevin/kevin/34
+http://tvn.x10.mx/vidio/master-9.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://i.imgur.com/4J586mw.png" group-title="SPORT",Champions TV 4
-https://lnk.ec/shareext@juara4
+http://tvn.x10.mx/vidio/master-10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="SPORT",Champions TV Goal
 https://tvn10.xyz/vidio/master-10.m3u8
