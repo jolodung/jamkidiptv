@@ -501,11 +501,11 @@ http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/179
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU" , Astro SUPER SPORT 1
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU" , Astro SUPER SPORT 2
-http://172.96.140.34:9138/stream/live/c20415.m3u8
+http://syok.tv:2082/588007/588007/125
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtBTRgSJx-6CGMPy9RnOFLek6eOR1iZzsmw&usqp=CAU" , Astro SUPER SPORT 3
-http://172.96.140.34:9138/stream/live/c20416.m3u8
+http://syok.tv:2082/588007/588007/126
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU" , Astro SUPER SPORT 4
-http://172.96.140.34:9138/stream/live/c20417.m3u8
+http://syok.tv:2082/588007/588007/127
 #EXTINF:-1 tvg-id="AstroSupersport5.my" tvg-name="ASSP5(b)Astro SuperSports 5 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/07/XZTxBeMtA1docKO.jpg" group-title="SPORT", Astro SuperSports 5 HD
 http://w.nasvpn.xyz:8080/live/best/best/13550.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH: PPTV 36" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6fc40c06c8cb2f00cc6d940e2ad1b702.svg" group-title="SPORT",TH: PPTV 36
