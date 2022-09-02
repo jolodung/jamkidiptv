@@ -573,13 +573,39 @@ http://mag.d60.co:2082/buzz_268444/MDmaKynE/191791
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/191788
 #EXTINF:-1 tvg-logo="https://ibb.co/KLjg9MB.png" group-title="SPORT",True Premiere HD3
 http://mag.d60.co:2082/buzz_268444/MDmaKynE/191784
+#EXTINF:-1,beIN Sports 1 4K
+http://195.154.242.24:8009/play/a05n/index.m3u8
+#EXTINF:-1,beIN Sports 2 4K
+http://195.154.242.24:8009/play/a05o/index.m3u8
+#EXTINF:-1,beIN Sports 3 4K
+http://195.154.242.24:8009/play/a05p/index.m3u8
+#EXTINF:-1,beIN Sports 4 4K
+http://195.154.242.24:8009/play/a05q/index.m3u8
+#EXTINF:-1,beIN Sports 5 4K
+http://195.154.242.24:8009/play/a05r/index.m3u8
+#EXTINF:-1,beIN Sports 6 4K
+http://195.154.242.24:8009/play/a05s/index.m3u8
+#EXTINF:-1,beIN Sports 7 4K
+http://195.154.242.24:8009/play/a05t/index.m3u8
+#EXTINF:-1,beIN Sports English 1 4K
+http://195.154.242.24:8009/play/a05x/index.m3u8
+#EXTINF:-1,beIN Sports English 2 4K
+http://195.154.242.24:8009/play/a05y/index.m3u8
+#EXTINF:-1,beIN Sports French 1 4K
+http://195.154.242.24:8009/play/a05z/index.m3u8
+#EXTINF:-1,beIN Sports French 2 4K
+http://195.154.242.24:8009/play/a060/index.m3u8
+#EXTINF:-1,beIN Sports HD
+http://195.154.242.24:8009/play/a062/index.m3u8
+#EXTINF:-1,beIN Sports News HD
+http://195.154.242.24:8009/play/a061/index.m3u8
+#EXTINF:-1,beIN Sports Premium 1 4K
+http://195.154.242.24:8009/play/a05u/index.m3u8
+#EXTINF:-1,beIN Sports Premium 2 4K
+http://195.154.242.24:8009/play/a05v/index.m3u8
+#EXTINF:-1,beIN Sports Premium 3 4K
+http://195.154.242.24:8009/play/a05w/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="SPORT",beIN Sports 1
-http://new-pro.tv:8080/mazen1/123456/271516
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="SPORT",beIN Sports 2
-http://new-pro.tv:8080/mazen1/123456/271518
 
 
 #EXTINF: -1 group-title="SPORT", DUBAI SPORT1
