@@ -539,20 +539,7 @@ https://delta31tatasky.akamaized.net/out/i/41.mpd
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,Liverpool FC TV HD UK
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/9844
-#EXTINF:-1,Fox Sports 501 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141764
-#EXTINF:-1,Fox Sports 502 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141763
-#EXTINF:-1,Fox Sports 503 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141762
-#EXTINF:-1,Fox Sports 504 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141761
-#EXTINF:-1,Fox Sports 505 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141760
-#EXTINF:-1,Fox Sports 506 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141759
-#EXTINF:-1,Fox Sports 507 AU
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/141758
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="SPORT",SBS Sports
 http://ye23.win/iptv/sbs5.1.php?id=S02
 #EXTINF:-1 group-title="SPORT",Motors TV HD
@@ -676,66 +663,91 @@ http://93.152.174.144:4000/play/bein1fr/index.m3u8
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 ,beIN Sports 3 French ðŸ‡«ðŸ‡·
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 ,ESPN USA ðŸ‡ºðŸ‡¸
-http://69.164.224.53:80/ESPN/mpegts
-
-#EXTINF:-1 ,110_Max sport 1 ðŸ‡§ðŸ‡¬
-http://83.228.88.114:8000/play/a04c
-#EXTINF:-1 ,MAX sport 1 ðŸ‡§ðŸ‡¬
-http://79.124.72.70:8000/play/a01j
-#EXTINF:-1 ,MAX sport 2 ðŸ‡§ðŸ‡¬
-http://79.124.72.70:8000/play/a00x
-#EXTINF:-1 ,MAX sport 4 ðŸ‡§ðŸ‡¬
-http://79.124.72.70:8000/play/a07n
-#EXTINF:-1 ,Diema Sport ðŸ‡§ðŸ‡¬
-http://79.124.72.70:8000/play/a004
-#EXTINF:-1 ,Diema Sport 2 ðŸ‡§ðŸ‡¬
-http://79.124.72.70:8000/play/a01l
-#EXTINF:-1 ,Diema Sport 3 ðŸ‡§ðŸ‡¬
-http://79.124.72.70:8000/play/a07o
-#EXTINF:-1 ,NOVA SPORT ðŸ‡§ðŸ‡¬
-http://79.124.72.70:8000/play/a015
-#EXTINF:-1 ,O2 TV SPORT HD ðŸ‡¨ðŸ‡¿
-http://84.42.140.148:8880/hdmi
-#EXTINF:-1 group-title="SPORTS",Star S Hin 1 HD
-http://103.127.92.38:81/play/starsp1
-#EXTINF:-1 group-title="SPORTS",Star Spo 1 HD
-http://103.127.92.38:81/play/starsp1hd
-#EXTINF:-1 group-title="SPORTS",Star Spo 2 HD
-http://103.127.92.38:81/play/starsp2
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/l7gSBMN.png",Star Sports 1
-http://208.86.19.13:81/710.stream/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Bdjk5RJ.png",Star Sports 2
-http://208.86.19.13:81/715.stream/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Star Sports 3-v
-http://103.127.92.38:81/play/starsp3
-#EXTINF:-1 group-title="SPORTS",Star Sports Select 1HD
-http://103.127.92.38:81/play/select1
-#EXTINF:-1 group-title="SPORTS",Star Sports Select 2 HD
-http://103.127.92.38:81/play/select2
-#EXTINF:-1 group-title="SPORTS",SUPPER SPORTS
-http://208.86.19.13:81/725.stream/index.m3u8
-#EXTINF:-1 group-title="SPORTS",SWISS SPORT TV ðŸ‡¨ðŸ‡­
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:-1 group-title="SPORTS",Ten 1 HD-V
-http://103.127.92.38:81/play/ten1
-#EXTINF:-1 group-title="SPORTS",Ten Cricket-D
-http://103.127.92.38:81/play/tencricket
-#EXTINF:-1 group-title="SPORTS",Tigo Sports HD
-http://190.83.119.67:8000/play/a0sn/index.m3u8
-#EXTINF:-1 group-title="SPORTS",TURKMENISTAN SPORTS ðŸ‡¹ðŸ‡·
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="SPORTS",TVRI SPORT ðŸ‡¹ðŸ‡·
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| Star Sports 1
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76561
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| Star Sports 1 HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76568
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| Star Sports 3
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76563
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png",|IN| Star Sports 3 HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76570
+#EXTINF:-1,beIN Sports Premium 1 (HD)
+http://txm.flysat.live:2089/152030359948492/152023174081415/216522
+#EXTINF:-1,beIN Sports Premium 1 (FHD)
+http://txm.flysat.live:2089/152030359948492/152023174081415/216521
+#EXTINF:-1,beIN Sports Premium 2 (SD)
+http://txm.flysat.live:2089/152030359948492/152023174081415/216520
+#EXTINF:-1,beIN Sports Premium 2 (HD)
+http://txm.flysat.live:2089/152030359948492/152023174081415/216519
+#EXTINF:-1,beIN Sports Premium 2 (FHD)
+http://txm.flysat.live:2089/152030359948492/152023174081415/216518
+#EXTINF:-1,beIN Sports Premium 3 (SD)
+http://txm.flysat.live:2089/152030359948492/152023174081415/216517
+#EXTINF:-1,beIN Sports Premium 3 (HD)
+http://txm.flysat.live:2089/152030359948492/152023174081415/216516
+#EXTINF:-1,beIN Sports Premium 3 (FHD)
+http://txm.flysat.live:2089/152030359948492/152023174081415/216515
+#EXTINF:-1,beIN Sports 1 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216514
+#EXTINF:-1,beIN Sports 1 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216513
+#EXTINF:-1,beIN Sports 1 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216512
+#EXTINF:-1,beIN Sports 2 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216511
+#EXTINF:-1,beIN Sports 2 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216510
+#EXTINF:-1,beIN Sports 2 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216509
+#EXTINF:-1,beIN Sports 3 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216508
+#EXTINF:-1,beIN Sports 3 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216507
+#EXTINF:-1,beIN Sports 3 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216506
+#EXTINF:-1,beIN Sports 4 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216505
+#EXTINF:-1,beIN Sports 4 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216504
+#EXTINF:-1,beIN Sports 4 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216503
+#EXTINF:-1,beIN Sports 5 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216502
+#EXTINF:-1,beIN Sports 5 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216501
+#EXTINF:-1,beIN Sports 5 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216500
+#EXTINF:-1,beIN Sports 6 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216499
+#EXTINF:-1,beIN Sports 6 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216498
+#EXTINF:-1,beIN Sports 6 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216497
+#EXTINF:-1,beIN Sports 7 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216496
+#EXTINF:-1,beIN Sports 7 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216495
+#EXTINF:-1,beIN Sports 7 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216494
+#EXTINF:-1,beIN Sports Xtra 1 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216493
+#EXTINF:-1,beIN Sports Xtra 1 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216492
+#EXTINF:-1,beIN Sports Xtra 11 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216491
+#EXTINF:-1,beIN Sports Xtra 2 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216490
+#EXTINF:-1,beIN Sports Xtra 2 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216489
+#EXTINF:-1,beIN Sports Xtra 22 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216488
+#EXTINF:-1,beIN Sports English 1 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216487
+#EXTINF:-1,beIN Sports English 1 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216486
+#EXTINF:-1,beIN Sports English 1 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216485
+#EXTINF:-1,beIN Sports English 2 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216484
+#EXTINF:-1,beIN Sports English 2 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216483
+#EXTINF:-1,beIN Sports English 2 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216482
+#EXTINF:-1,beIN Sports English 3 SD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216481
+#EXTINF:-1,beIN Sports English 3 HD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216480
+#EXTINF:-1,beIN Sports English 3 FHD
+http://txm.flysat.live:2089/152030359948492/152023174081415/216479
