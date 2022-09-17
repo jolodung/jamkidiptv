@@ -536,9 +536,25 @@ https://delta31tatasky.akamaized.net/out/i/41.mpd
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,Liverpool FC TV HD UK
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/9844
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title=" SPORT",SBSsport_KR
+https://apichvod19.seezntv.com/OTM/10420_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+http://mytv.dothome.co.kr/ch/catv/241.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title=" SPORT",MBC sports_KR
+https://apichvod19.seezntv.com/OTM/10430_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+http://mytv.dothome.co.kr/ch/catv/242.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title=" SPORT",Kbsn(sport)_KR
+https://apichvod19.seezntv.com/OTM/10410_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+http://mytv.dothome.co.kr/ch/catv/243.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title=" SPORT",SPOTV.1(KR)
+https://apichvod19.seezntv.com/OTM/10070_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+http://mytv.dothome.co.kr/ch/catv/244.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title=" SPORT",SPOTV.2(KR)
+https://apichvod19.seezntv.com/OTM/11990_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+http://mytv.dothome.co.kr/ch/catv/245.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title=" SPORT",SkySports(Korea)
+https://apichvod19.seezntv.com/OTM/10440_L.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+http://mytv.dothome.co.kr/ch/catv/246.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="SPORT",SBS Sports
-http://ye23.win/iptv/sbs5.1.php?id=S02
 #EXTINF:-1 group-title="SPORT",Motors TV HD
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",CN: CCTV
@@ -549,46 +565,45 @@ http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=yst
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="SPORT" , BT Sport 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="SPORT", BT Sport 3
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co/KLjg9MB.png" group-title="SPORT",True Premiere HD1
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/191791
-#EXTINF:-1 tvg-logo="https://ibb.co/KLjg9MB.png" group-title="SPORT",True Premiere HD2
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/191788
-#EXTINF:-1 tvg-logo="https://ibb.co/KLjg9MB.png" group-title="SPORT",True Premiere HD3
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/191784
-#EXTINF:-1,beIN Sports 1 4K
-http://195.154.242.24:8009/play/a05n/index.m3u8
-#EXTINF:-1,beIN Sports 2 4K
-http://195.154.242.24:8009/play/a05o/index.m3u8
-#EXTINF:-1,beIN Sports 3 4K
-http://195.154.242.24:8009/play/a05p/index.m3u8
-#EXTINF:-1,beIN Sports 4 4K
-http://195.154.242.24:8009/play/a05q/index.m3u8
-#EXTINF:-1,beIN Sports 5 4K
-http://195.154.242.24:8009/play/a05r/index.m3u8
-#EXTINF:-1,beIN Sports 6 4K
-http://195.154.242.24:8009/play/a05s/index.m3u8
-#EXTINF:-1,beIN Sports 7 4K
-http://195.154.242.24:8009/play/a05t/index.m3u8
-#EXTINF:-1,beIN Sports English 1 4K
-http://195.154.242.24:8009/play/a05x/index.m3u8
-#EXTINF:-1,beIN Sports English 2 4K
-http://195.154.242.24:8009/play/a05y/index.m3u8
-#EXTINF:-1,beIN Sports French 1 4K
-http://195.154.242.24:8009/play/a05z/index.m3u8
-#EXTINF:-1,beIN Sports French 2 4K
-http://195.154.242.24:8009/play/a060/index.m3u8
-#EXTINF:-1,beIN Sports HD
-http://195.154.242.24:8009/play/a062/index.m3u8
-#EXTINF:-1,beIN Sports News HD
-http://195.154.242.24:8009/play/a061/index.m3u8
-#EXTINF:-1,beIN Sports Premium 1 4K
-http://195.154.242.24:8009/play/a05u/index.m3u8
-#EXTINF:-1,beIN Sports Premium 2 4K
-http://195.154.242.24:8009/play/a05v/index.m3u8
-#EXTINF:-1,beIN Sports Premium 3 4K
-http://195.154.242.24:8009/play/a05w/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_1 HD[ENG]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_1 HD[Thai]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115759
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_2.HD[ENG]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_2 HD.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_3HD.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115510
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_3 HD[ENG]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115511
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Premier_Football_4 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115513
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_4 HD.TH
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115768
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_5 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115515
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport 1HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115531
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport 2HD 
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport 3HD 
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115537
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport1 [THAI]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115532
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport2 [THAI]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115535
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport3 [THAI]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115538
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport5 [THAI]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115541
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport6 [THAI]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115542
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport 7 [ENG]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115798
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",TrueSport 7 [THAI]
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115799
+
 
 
 
@@ -600,14 +615,7 @@ https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272307
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272308
 #EXTINF: -1 group-title="SPORT", DUBAI SPORT3
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272309
-#EXTINF:-1 ,ELEVEN SPORTS 1 ðŸ‡µðŸ‡¹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1 ,ELEVEN SPORTS 2 ðŸ‡µðŸ‡¹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#EXTINF:-1 ,ELEVEN SPORTS 3 ðŸ‡µðŸ‡¹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1 ,ELEVEN SPORTS 4 ðŸ‡µðŸ‡¹
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+
 #EXTINF:-1 ,NOVA Sport 3 ðŸ‡¨ðŸ‡¿
 http://84.42.140.147:8890/hdmi
 #EXTINF:-1 ,beIN Sports 1 ðŸ‡¶ðŸ‡¦
