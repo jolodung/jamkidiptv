@@ -708,10 +708,7 @@ http://mytv.dothome.co.kr/ch/catv/246.php
 
 #EXTINF:-1 group-title="SPORT",Motors TV HD
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",CN: CCTV
-http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="CN: CCTV 5+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",CN: CCTV 5+
-http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
+
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg"group-title="SPORT" , BT Sport 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="SPORT" , BT Sport 2
@@ -730,7 +727,7 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115510
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115511
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_4 HD
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115513
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_4 HD.TH
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_4 HD
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115768
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title=" SPORT",Premier_Football_5 HD
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115515
