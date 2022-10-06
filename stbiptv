@@ -42,15 +42,14 @@ http://203.77.246.50:5000/udp/239.1.3.68:5000
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="Lokal", INDOSIAR
 https://serveranitv.000webhostapp.com/warning.mp4
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="Lokal",INDOSIAR
-http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/01.m3u8
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="Lokal",INDOSIAR Liga1
 http://203.77.246.50:5000/udp/239.1.1.110:5000
 
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png" group-title="Lokal" ,SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="Lokal",O Channel vidio
 http://tvlive.my.id:25461/kevin/kevin/21
 
@@ -609,9 +608,9 @@ http://103.226.232.199:8008/play/a090/index.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="SPORT",TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 1
-http://syok.tv:2082/12345/54321/2551
+http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 2
-http://syok.tv:2082/12345/54321/2552
+http://iptvid.my.id/hmm/useetl2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
