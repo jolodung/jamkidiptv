@@ -1,20 +1,14 @@
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","welcome to JAMKID STB"
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png", DIKASIH INFO MAZEE
-http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/chunklist_w311866903.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8kXG2vyn/maleo.jpg"group-title="Music", MALEO
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/0yRKskF7/MUSIC-INDIA.png" group-title="Music",Music India
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png", MTV
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
+#EXTINF:-1  tvg-name="RCTI #" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180606/sq/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f759dc581.1376201515283157656462.jpg" group-title="TV LOKAL",RCTI #
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -25,7 +19,8 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="Lokal",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
+#EXTINF:-1  tvg-name="MNC TV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Lokal",MNC TV #
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="Lokal",iNewsTV
@@ -93,6 +88,10 @@ https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="Lokal",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20400813_ico.png?ts=1655398296" group-title="Musik",POP MUSIK
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8kXG2vyn/maleo.jpg"group-title="Music", MALEO
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 
 
