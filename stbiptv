@@ -1,13 +1,18 @@
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
-http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
-
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="Lokal",RCTI
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="Lokal",MNC TV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Lokal",GTV
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1  tvg-name="RCTI #" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180606/sq/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f759dc581.1376201515283157656462.jpg" group-title="TV LOKAL",RCTI #
+#EXTINF:-1  tvg-name="RCTI #" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180606/sq/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f759dc581.1376201515283157656462.jpg" group-title="TV LOKAL",RCTI 
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
@@ -19,13 +24,10 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="Lokal",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1  tvg-name="MNC TV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Lokal",MNC TV #
+#EXTINF:-1  tvg-name="MNC TV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Lokal",MNC TV 
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="Lokal",iNewsTV
-https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Lokal",INEWS TV(kv)
+
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Lokal",iNEWS
 http://103.186.200.4:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="Lokal", INDOSIAR
 http://103.186.200.4:8000/play/a006
@@ -36,8 +38,8 @@ http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/2.ts
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="Lokal",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="Lokal",INDOSIAR Liga1
-http://203.77.246.50:5000/udp/239.1.1.110:5000
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="Lokal",INDOSIAR
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
 
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png" group-title="Lokal" ,SCTV
@@ -96,17 +98,10 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/61/SIMPANG5tv.png" group-title="Lokal",Simpang5 TV
-http://122.248.43.138:1935/ch4/myStream/live.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/bflix.png",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Cinemax.ph.png",Cinemax Asia
-# EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-# https://link.zozotv.xyz:443/707070/707070/107 remarked on 15.01.2022
-# https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8 remarked on 15.01.2022
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -122,8 +117,7 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtbc_kr.png" group-title="Lokal",  JTBC
-http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0ZYQbB.png" group-title="Knowledge",Discovery Channel Southeast Asia
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
@@ -259,218 +253,7 @@ http://rr1.dens.tv/h/h21/index.m3u8
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
 #EXTINF:-1  tvg-id="" tvg-name="ID: Fox Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c85ad235530bb281fd6f98305aabd244.png" group-title="Movies"  Fox Movies Action
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
-#EXTINF:-1,Ant-Man and the Wasp (2018)
-http://tvlive.my.id:25461/movie/kevin/kevin/228.mkv
-#EXTINF:-1,Black Panther (2018)
-http://tvlive.my.id:25461/movie/kevin/kevin/229.mkv
-#EXTINF:-1,Deadpool 2 (2018)
-http://tvlive.my.id:25461/movie/kevin/kevin/230.mp4
-#EXTINF:-1,Dragon Ball Super Broly (2018)
-http://tvlive.my.id:25461/movie/kevin/kevin/231.mp4
-#EXTINF:-1,Venom (2018)
-http://tvlive.my.id:25461/movie/kevin/kevin/232.mkv
-#EXTINF:-1,He Wont Kill, She Wont Die (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/233.mkv
-#EXTINF:-1,Kingdom Live Action (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/234.mkv
-#EXTINF:-1,Spider-Man: Far From Home (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/235.mkv
-#EXTINF:-1,The Odd Family Zombie On Sale (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/236.mp4
-#EXTINF:-1,Captain America: Civil War (2016)
-http://tvlive.my.id:25461/movie/kevin/kevin/237.mkv
-#EXTINF:-1,Ip Man (2008)
-http://tvlive.my.id:25461/movie/kevin/kevin/238.mp4
-#EXTINF:-1,Iron Man 2 (2010)
-http://tvlive.my.id:25461/movie/kevin/kevin/239.mkv
-#EXTINF:-1,The Hunger Games (2012)
-http://tvlive.my.id:25461/movie/kevin/kevin/240.mp4
-#EXTINF:-1,The Incredible Hulk (2008)
-http://tvlive.my.id:25461/movie/kevin/kevin/241.mkv
-#EXTINF:-1,Independence Day (1996)
-http://tvlive.my.id:25461/movie/kevin/kevin/242.mp4
-#EXTINF:-1,Godzilla: King of the Monsters (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/108.mp4
-#EXTINF:-1,Warkop DKI Reborn (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/109.mkv
-#EXTINF:-1,3 Dara 2 (2018)
-http://tvlive.my.id:25461/movie/kevin/kevin/110.mkv
-#EXTINF:-1,Warkop DKI: Salah Masuk (1992)
-http://tvlive.my.id:25461/movie/kevin/kevin/111.mp4
-#EXTINF:-1,Akhir Kisah Cinta Si Doel (2020)
-http://tvlive.my.id:25461/movie/kevin/kevin/112.mkv
-#EXTINF:-1,Ambulance (2022)
-http://tvlive.my.id:25461/movie/kevin/kevin/113.mp4
-#EXTINF:-1,Ant-Man (2015)
-http://tvlive.my.id:25461/movie/kevin/kevin/114.mkv
-#EXTINF:-1,Armageddon Tales (2021)
-http://tvlive.my.id:25461/movie/kevin/kevin/115.mp4
-#EXTINF:-1,Avengers: Endgame (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/116.mkv
-#EXTINF:-1,Avengers: Infinity War (2018)
-http://tvlive.my.id:25461/movie/kevin/kevin/117.mp4
-#EXTINF:-1,Batman v Superman: Dawn of Justice (2016)
-http://tvlive.my.id:25461/movie/kevin/kevin/118.mp4
-#EXTINF:-1,Batman (1989)
-http://tvlive.my.id:25461/movie/kevin/kevin/119.mkv
-#EXTINF:-1,Battle in Space: The Armada Attacks (2021)
-http://tvlive.my.id:25461/movie/kevin/kevin/120.mkv
-#EXTINF:-1,Battle of Surabaya (2015)
-http://tvlive.my.id:25461/movie/kevin/kevin/121.mp4
-#EXTINF:-1,Battleship (2012)
-http://tvlive.my.id:25461/movie/kevin/kevin/122.mp4
-#EXTINF:-1,Black Widow (2021)
-http://tvlive.my.id:25461/movie/kevin/kevin/123.mp4
-#EXTINF:-1,Bumblebee (2018)
-http://tvlive.my.id:25461/movie/kevin/kevin/124.mp4
-#EXTINF:-1,CHiPS (2017)
-http://tvlive.my.id:25461/movie/kevin/kevin/125.mp4
-#EXTINF:-1,Captain Marvel (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/126.mkv
-#EXTINF:-1,Cinderella (1950)
-http://tvlive.my.id:25461/movie/kevin/kevin/127.mp4
-#EXTINF:-1,Clash of the Titans (2010)
-http://tvlive.my.id:25461/movie/kevin/kevin/128.mp4
-#EXTINF:-1,Danur (2017)
-http://tvlive.my.id:25461/movie/kevin/kevin/129.mp4
-#EXTINF:-1,Danur (2017)
-http://tvlive.my.id:25461/movie/kevin/kevin/130.mkv
-#EXTINF:-1,Danur (2017)
-http://tvlive.my.id:25461/movie/kevin/kevin/131.mkv
-#EXTINF:-1,Despicable Me (2010)
-http://tvlive.my.id:25461/movie/kevin/kevin/132.mp4
-#EXTINF:-1,Doctor Strange (2016)
-http://tvlive.my.id:25461/movie/kevin/kevin/133.mkv
-#EXTINF:-1,Dragon Fury (2021)
-http://tvlive.my.id:25461/movie/kevin/kevin/134.mp4
-#EXTINF:-1,Fast & Furious (2009)
-http://tvlive.my.id:25461/movie/kevin/kevin/135.mp4
-#EXTINF:-1,God Of Gamblers (1989)
-http://tvlive.my.id:25461/movie/kevin/kevin/136.mkv
-#EXTINF:-1,Godzilla vs. Kong (2021)
-http://tvlive.my.id:25461/movie/kevin/kevin/137.mkv
-#EXTINF:-1,Home Alone 4 (2002)
-http://tvlive.my.id:25461/movie/kevin/kevin/138.mp4
-#EXTINF:-1,IT MTT Projects: Hartono Elektronik
-http://tvlive.my.id:25461/movie/kevin/kevin/139.mp4
-#EXTINF:-1,Interceptor (2022)
-http://tvlive.my.id:25461/movie/kevin/kevin/140.mkv
-#EXTINF:-1,Iron Man (2008)
-http://tvlive.my.id:25461/movie/kevin/kevin/141.mkv
-#EXTINF:-1,Jackie Chan: Stunts (1999)
-http://tvlive.my.id:25461/movie/kevin/kevin/142.mp4
-#EXTINF:-1,Johnny English Reborn (2011)
-http://tvlive.my.id:25461/movie/kevin/kevin/143.mp4
-#EXTINF:-1,Journey To China: The Mystery of Iron Mask  (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/144.mkv
-#EXTINF:-1,Jumanji: The Next Level (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/145.mp4
-#EXTINF:-1,Justice League (2017)
-http://tvlive.my.id:25461/movie/kevin/kevin/146.mp4
-#EXTINF:-1,Kamen Rider: Zi O Over Quartzer (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/147.mp4
-#EXTINF:-1,Kapten Amerika: Avenger Pertama (2011)
-http://tvlive.my.id:25461/movie/kevin/kevin/148.mkv
-#EXTINF:-1,Kung Fu Hustle (2004)
-http://tvlive.my.id:25461/movie/kevin/kevin/149.mp4
-#EXTINF:-1,Madagascar (2005)
-http://tvlive.my.id:25461/movie/kevin/kevin/150.mp4
-#EXTINF:-1,My Stupid Boss 2 (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/151.mkv
-#EXTINF:-1,KKN di Desa Penari Not Official (Qam Quality) (2022)
-http://tvlive.my.id:25461/movie/kevin/kevin/152.mp4
-#EXTINF:-1,The Real Pirates of the Caribbean (2004)
-http://tvlive.my.id:25461/movie/kevin/kevin/153.mp4
-#EXTINF:-1,Police Story (1996)
-http://tvlive.my.id:25461/movie/kevin/kevin/154.mkv
-#EXTINF:-1,Resident Evil (2002)
-http://tvlive.my.id:25461/movie/kevin/kevin/155.mkv
-#EXTINF:-1,Shaolin Soccer (2001)
-http://tvlive.my.id:25461/movie/kevin/kevin/156.mp4
-#EXTINF:-1,Spider-Man: Homecoming (2017)
-http://tvlive.my.id:25461/movie/kevin/kevin/157.mp4
-#EXTINF:-1,Spider-Man: No Way Home (2021)
-http://tvlive.my.id:25461/movie/kevin/kevin/158.mkv
-#EXTINF:-1,The Avengers (2012)
-http://tvlive.my.id:25461/movie/kevin/kevin/159.mp4
-#EXTINF:-1,The Conjuring (2013)
-http://tvlive.my.id:25461/movie/kevin/kevin/160.mp4
-#EXTINF:-1,The Forbidden Kingdom (2008)
-http://tvlive.my.id:25461/movie/kevin/kevin/162.mkv
-#EXTINF:-1,The Legend of Drunken Master (1994)
-http://tvlive.my.id:25461/movie/kevin/kevin/163.mp4
-#EXTINF:-1,The Medallion (2003)
-http://tvlive.my.id:25461/movie/kevin/kevin/164.mp4
-#EXTINF:-1,Thor: Ragnarok (2017)
-http://tvlive.my.id:25461/movie/kevin/kevin/165.mkv
-#EXTINF:-1,Toy Story (1995)
-http://tvlive.my.id:25461/movie/kevin/kevin/166.mp4
-#EXTINF:-1,Transformers: Dark of the Moon (2011)
-http://tvlive.my.id:25461/movie/kevin/kevin/167.mp4
-#EXTINF:-1,Twilight (2008)
-http://tvlive.my.id:25461/movie/kevin/kevin/168.mp4
-#EXTINF:-1,Uncharted (2022)
-http://tvlive.my.id:25461/movie/kevin/kevin/169.mp4
-#EXTINF:-1,Upin & Ipin: Keris Siamang Tunggal (2019)
-http://tvlive.my.id:25461/movie/kevin/kevin/170.mkv
-#EXTINF:-1,Warkop DKI: Atas Boleh Bawah Boleh (1986)
-http://tvlive.my.id:25461/movie/kevin/kevin/171.mp4
-#EXTINF:-1,Warkop DKI: Bisa Naik Bisa Turun (1991)
-http://tvlive.my.id:25461/movie/kevin/kevin/172.mp4
-#EXTINF:-1,Warkop DKI: Depan Bisa Belakang Bisa (1987)
-http://tvlive.my.id:25461/movie/kevin/kevin/173.mp4
-#EXTINF:-1,Warkop DKI: Godain Kita Dong (1989)
-http://tvlive.my.id:25461/movie/kevin/kevin/174.mp4
-#EXTINF:-1,Warkop DKI: Makin Lama Makin Asyik (1987)
-http://tvlive.my.id:25461/movie/kevin/kevin/175.mp4
-#EXTINF:-1,Warkop DKI: Malu-Malu Mau (1988)
-http://tvlive.my.id:25461/movie/kevin/kevin/176.mkv
-#EXTINF:-1,Warkop DKI: Pencet Sana Pencet Sini (1994)
-http://tvlive.my.id:25461/movie/kevin/kevin/177.mkv
-#EXTINF:-1,Warkop DKI: Sabar Dulu Dong...! (1989)
-http://tvlive.my.id:25461/movie/kevin/kevin/178.mp4
-#EXTINF:-1,Warkop DKI: Lupa Aturan Main (1990)
-http://tvlive.my.id:25461/movie/kevin/kevin/179.mp4
-#EXTINF:-1,Warkop DKI: Dongkrak Antik (1982)
-http://tvlive.my.id:25461/movie/kevin/kevin/180.mp4
-#EXTINF:-1,Independence Day: Resurgence (2016)
-http://tvlive.my.id:25461/movie/kevin/kevin/181.mp4
-#EXTINF:-1,Bangkitnya Suster Gepeng (2012)
-http://tvlive.my.id:25461/movie/kevin/kevin/202.mkv
-#EXTINF:-1,Ada Apa Dengan Cinta? 2 (2016)
-http://tvlive.my.id:25461/movie/kevin/kevin/203.mp4
-#EXTINF:-1 group-title="ENGLISH MOVIES",&flix HD-V
-http://103.127.92.38:81/play/andflix
-#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/tW4xfS7.png",AlFajer MOVIE
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",AVA Series
-http://51.210.199.4/hls/stream.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",AXN HD-d
-http://103.127.92.38:81/play/axn
-#EXTINF:-1 group-title="ENGLISH MOVIES",Cinema World-d
-http://103.127.92.38:81/play/a01i
-#EXTINF:-1 group-title="ENGLISH MOVIES",CineMAX-d
-http://103.127.92.38:81/play/a01g
-#EXTINF:-1 group-title="ENGLISH MOVIES",Colors Infinity HD-v
-http://103.127.92.38:81/play/a013
-#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://i.imgur.com/MYMUv1h.jpg",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",Groovy
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES" tvg-logo="https://imgur.com/hY5S6K4.png",HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",HBO Hits-d
-http://103.127.92.38:81/play/a01d
-#EXTINF:-1 group-title="ENGLISH MOVIES",HBO-D
-http://103.127.92.38:81/play/hbo
-#EXTINF:-1 group-title="ENGLISH MOVIES",Hits Movies-d
-http://103.127.92.38:81/play/a01h
-#EXTINF:-1 group-title="ENGLISH MOVIES",Paramount
-http://190.83.119.67:8000/play/a0ol/index.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",Paramount HD
-http://190.83.119.67:8000/play/a0t9/index.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",Sofy TV
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",WOW TV
