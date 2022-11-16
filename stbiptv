@@ -28,7 +28,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Lokal",iNEWS
-http://103.186.200.4:8000/play/a00g
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/inewsfix.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="Lokal",TRANS 7
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/1.ts
