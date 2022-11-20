@@ -6,7 +6,80 @@ http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/5.ts
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/6.ts
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Lokal",GTV
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13",TRANS 7 HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/1.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13",TRANS TV HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/2.ts
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR HD
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/4.ts
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.postimg.cc/mDth17h5/RCTI.png",RCTI HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/5.ts
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.postimg.cc/nhgL8yCX/Mnctv.png",MNC HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/6.ts
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.postimg.cc/MTQq85nq/GTV-LOGO.png",GTV HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/9.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png",TVONE HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/10.ts
+
+
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/200px-BTV_%28Indonesia%29_logo.svg.png",BTV HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/12.ts
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13",RTV HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/13.ts
+
+
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/pimages/logo_tvri_big.png?v=1",TVRI HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/16.ts
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13",CNN HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/17.ts
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.ibb.co/h8y058y/cnbc-indo-home-tv.png",CNBC HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/18.ts
+
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/pimages/logo_inews_big.png",I NEWS HD
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/8.ts
 
 
 #EXTINF:-1  tvg-name="RCTI #" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180606/sq/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f759dc581.1376201515283157656462.jpg" group-title="Lokal",RCTI 
