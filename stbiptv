@@ -4,11 +4,14 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","QATAR 2022"
-https://live-2-333.uma.media/LIVE/LIVE:407384/HLS/1669019216/1EcRvQ2jND-tw2mOqpqbaQ/live/407384_7/230174560890.ts
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/100
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","QATAR 2022"
-http://195.29.70.82/PLTV/88888888/224/3221226140/1669004882-4-278167480.hls.ts
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","QATAR 2022"
-http://123.254.72.24:1935/tvlive/livestream2/media_w689697826_3671845.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","QATAR 2022"
+http://nonton.wap.sh/id/009.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV 
 https://m3u-editor.com/serve/e26b0220-4172-11ec-a77d-6f3f9638e1ee/421844329
 #EXTINF:0 tvg-id="ext" group-title="Lokal",INDOSIAR 
