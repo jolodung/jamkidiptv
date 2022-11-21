@@ -1,85 +1,13 @@
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="Lokal",RCTI
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/5.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="Lokal",MNC TV
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/6.ts
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Lokal",GTV
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13",TRANS 7 HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/1.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13",TRANS TV HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/2.ts
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR HD
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/4.ts
-
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.postimg.cc/mDth17h5/RCTI.png",RCTI HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/5.ts
-
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.postimg.cc/nhgL8yCX/Mnctv.png",MNC HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/6.ts
-
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.postimg.cc/MTQq85nq/GTV-LOGO.png",GTV HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/7.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/9.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png",TVONE HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/10.ts
 
 
 
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/200px-BTV_%28Indonesia%29_logo.svg.png",BTV HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/12.ts
-
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13",RTV HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/13.ts
 
 
 
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/pimages/logo_tvri_big.png?v=1",TVRI HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/16.ts
 
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13",CNN HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/17.ts
 
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.ibb.co/h8y058y/cnbc-indo-home-tv.png",CNBC HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/18.ts
-
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://www.useetv.com/pimages/logo_inews_big.png",I NEWS HD
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/8.ts
 
 
 #EXTINF:-1  tvg-name="RCTI #" tvg-id="" tvg-logo="https://img2.pngdownload.id/20180606/sq/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f759dc581.1376201515283157656462.jpg" group-title="Lokal",RCTI 
@@ -100,24 +28,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1  tvg-name="MNC TV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Lokal",MNC TV 
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Lokal",iNEWS
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/lokal/inewsfix.m3u8
 
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="Lokal",TRANS 7
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/1.ts
-#EXTINF: -1 tvg-logo="https://bit.ly/3yu8jZy" group-title="Lokal", TRANS TV
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/2.ts
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="Lokal",INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-
-#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=1BUsWSsHYaj0b9SWlAAnBWVJmEkK41h8k" group-title="Lokal",INDOSIAR
-http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/3.ts
-
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/sctv.png" group-title="Lokal" ,SCTV
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="Lokal",O Channel vidio
-http://rr2.dens.tv/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel
 
 
 
@@ -423,7 +334,38 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1"" group-title="FASHION" , Fashion TV Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malay" tvg-id="101" tvg-name="101", TV1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="", Awesome TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malay" tvg-id="106" tvg-name="106", Astro Oasis HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malay" tvg-id="" tvg-name="", TV Ikim
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Malay" tvg-id="102" tvg-name="102", TV2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="404" tvg-name="404", BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malay" tvg-id="103" tvg-name="103", TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="SPORT" tvg-url="" tvg-logo="http://rubbyguntara.github.io/src/img/beinsports1.png",BeIn Sports 1 Indonesia
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
