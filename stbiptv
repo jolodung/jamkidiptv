@@ -1,22 +1,21 @@
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TV 2
 http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/158355
-#EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
+#EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SPORT TV 1
 http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/1483
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN SPORT
 http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/100
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRUE SPORT 2
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VTV
 http://w.nasvpn.xyz:8080/live/best/best/13322.m3u8
+
+
 #EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
+#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",A SPORT
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40575
