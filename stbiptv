@@ -1,24 +1,25 @@
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TV 2
-http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/158355
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VTV
-http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRUE SPORT 2
-http://skylimitles.net:80/UNVm5KIngY/DVfRkD27qX/279982
-#EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SPORT TV 1
-http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/1483
-#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN SPORT
-http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/100
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRT
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VTV
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VTV5
+http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRUE SPORT 2
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
+#EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SPORT TV 1
+http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/1483
+
+
 #EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",A SPORT
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
 http://w.nasvpn.xyz:8080/live/best/best/13947.m3u8
-
-
-
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TV 2
+http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/158355
+#EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN SPORT
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/100
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN SPORT
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
 #EXTINF:-1  tvg-name="WC 4" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
