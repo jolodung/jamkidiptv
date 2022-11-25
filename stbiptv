@@ -28,7 +28,7 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 http://146.190.98.170:8080/play/idn1630b531/637f53622d91eafb946e8a4a.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.R5FLjaVa8mYNm6F_q5JK15gvDOf1p2m96N9EpCnLuK0-ApdSNbPaemWNfbuU-SxoM9ZRu2D5wd7ewuBO-UTphQ
 
 #EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV 
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+http://tvn.x10.mx/1/master-1.m3u8?dl=1
 #EXTINF:0 tvg-id="ext" group-title="Lokal",INDOSIAR 
 https://m3u-editor.com/serve/e26b0220-4172-11ec-a77d-6f3f9638e1ee/421844332
 #EXTINF:0 tvg-id="ext" group-title="Lokal",TRANS TV 
@@ -406,9 +406,9 @@ http://103.226.232.199:8008/play/a090/index.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="SPORT",TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 1
-http://180.211.90.134:8000/play/a059
+http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 2
-http://180.211.90.134:8000/play/a05b
+http://iptvid.my.id/hmm/useetl2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -444,7 +444,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="SPORT",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 group-title="SPORT", VTV 6
-https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?token=
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 ##http://203.159.95.172:8081/live/bein02/chunks.m3u8
 #EXTINF:-1 group-title="SPORT", VTV 5
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
