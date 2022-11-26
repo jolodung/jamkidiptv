@@ -19,17 +19,14 @@ http://ott-serveur.com:8000/504645251728170/515299363871871/120821
 
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN SPORT
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
-#EXTINF:-1  tvg-name="WC 4" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",QTP
-https://f6z5x8d4.stackpathcdn.com/stream_720/1669439574866.ts
-#EXTINF:-1 tvg-id="OKEY.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="WORLD CUP 2022",OKEY HD
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
 http://w.nasvpn.xyz:8080/live/best/best/13947.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV 
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV 
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+
 
 #EXTINF:0 tvg-id="ext" group-title="Lokal",INDOSIAR 
 https://m3u-editor.com/serve/e26b0220-4172-11ec-a77d-6f3f9638e1ee/421844332
