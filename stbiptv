@@ -10,19 +10,18 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
 #EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SPORT TV 1
 http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/1483
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ITV
-https://tv.bdflix.xyz/Gazi_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="China: CCTV 5 Sports" tvg-logo="" group-title="WORLD CUP 2022",China: CCTV 5 Sports
+http://ott-serveur.com:8000/504645251728170/515299363871871/145099
 #EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",A SPORT
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv 1 FHD " tvg-logo="" group-title="WORLD CUP 2022" ,BR: Sportv 1 FHD 
+http://ott-serveur.com:8000/504645251728170/515299363871871/120821
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762444_ico.png?ts=1654812440" group-title="WORLD CUP 2022",RTM TV OKEY
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN SPORT
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
 #EXTINF:-1  tvg-name="WC 4" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",QTP
 https://f6z5x8d4.stackpathcdn.com/stream_720/1669439574866.ts
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762554_ico.png?ts=1654805591" group-title="WORLD CUP 2022",RTM SPORT
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
 http://w.nasvpn.xyz:8080/live/best/best/13947.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV 
