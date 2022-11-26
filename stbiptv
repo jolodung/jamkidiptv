@@ -10,16 +10,16 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
 #EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SPORT TV 1
 http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/1483
-
-
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ITV
+https://s16.123ecast.me/hd/hls/Y9S8UuBZBGMYRZU0aZcypA/1669440879/itv1.m3u8
 #EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",A SPORT
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
 
 
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN SPORT
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
-#EXTINF:-1  tvg-name="WC 4" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
+#EXTINF:-1  tvg-name="WC 4" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",QTP
+https://f6z5x8d4.stackpathcdn.com/stream_720/1669439574866.ts
 
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
 http://w.nasvpn.xyz:8080/live/best/best/13947.m3u8
