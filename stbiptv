@@ -51,7 +51,7 @@ http://tvn.x10.mx/1/master-2.m3u8
 
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-https://rcti-linier.rctiplus.id/RCTI2022-avc1_6673200=7-mp4a_96000=2.m3u8
+https://live1.rctiplus.com/RCTI2022-avc1_1389200=5-mp4a_96000=2-begin=2491993810666667-dur=60000000-seq=41533231.ts
 
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
