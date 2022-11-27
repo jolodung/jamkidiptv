@@ -43,10 +43,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lokal",ANTV 
 http://rr2.dens.tv/s/s07/index.m3u8
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2UNRnZegGYl3iUP815eUqq2Yd8fpU_o9LA&usqp=CAU" group-title="Lokal",O Channel
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2UNRnZegGYl3iUP815eUqq2Yd8fpU_o9LA&usqp=CAU" group-title="Lokal",O Channel
-http://tvn.x10.mx/1/master-2.m3u8
 
 
 
