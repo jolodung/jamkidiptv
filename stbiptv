@@ -2,7 +2,8 @@
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SBS HD
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
-
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TV2
+http://line.crystal-ott.com/EKBnmcqhnVGcekA/xBh5yuBRA3/10973
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRT
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
 #EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VTV
@@ -56,15 +57,14 @@ http://rr2.dens.tv/s/s07/index.m3u8
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_210000=5-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="Lokal",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_210000=3-mp4a_96000=2.m3u8
+http://line.crystal-ott.com/EKBnmcqhnVGcekA/xBh5yuBRA3/4319
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="Lokal",MNC TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_210000=3-mp4a_96000=2.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
-https://live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+http://line.crystal-ott.com/EKBnmcqhnVGcekA/xBh5yuBRA3/4315
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/net.png" ,NET
 http://210.210.155.35/session/75f4ea96-c150-11ec-bc1c-c81f66f89318/qwr9ew/s/s08/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
