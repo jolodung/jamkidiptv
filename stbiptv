@@ -1,5 +1,8 @@
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SBS HD
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
+
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRT
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
 #EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VTV
@@ -21,8 +24,6 @@ http://ott-serveur.com:8000/504645251728170/515299363871871/120821
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
 
 
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","QATAR 2022"
-https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV 
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
