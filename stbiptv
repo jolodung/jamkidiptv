@@ -51,16 +51,17 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 http://rr2.dens.tv/s/s07/index.m3u8
 
 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="Lokal",RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_210000=5-mp4a_96000=2.m3u8
 
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-http://Live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="Lokal",GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_210000=3-mp4a_96000=2.m3u8
 
-
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
-http://Live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:-1  tvg-name="MNC TV #" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="Lokal",MNC TV 
-http://Live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="Lokal",MNC TV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_210000=3-mp4a_96000=2.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
 https://live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
