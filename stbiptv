@@ -17,8 +17,13 @@ http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/1483
 http://ott-serveur.com:8000/504645251728170/515299363871871/145099
 #EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",A SPORT
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
-#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv 1 FHD " tvg-logo="" group-title="WORLD CUP 2022" ,BR: Sportv 1 FHD 
-http://ott-serveur.com:8000/504645251728170/515299363871871/120821
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv 1 FHD " tvg-logo="" group-title="WORLD CUP 2022" ,TSN
+http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/53805
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv 1 FHD " tvg-logo="" group-title="WORLD CUP 2022" itv
+http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/228556
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sportv 1 FHD " tvg-logo="" group-title="WORLD CUP 2022"FOX
+http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/234954
+
 
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN SPORT
 http://obsfullhd.tv:25461/@TacosTv1/Zm4SGThdhdiurjr/48686
