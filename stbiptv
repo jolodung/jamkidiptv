@@ -50,30 +50,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Lokal",ANTV 
 http://rr2.dens.tv/s/s07/index.m3u8
-
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="Lokal",RCTI
-https://live1.rctiplus.com/RCTI2022-avc1_1050000=4-mp4a_96000=2.m3u8
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="Lokal",GTV
-http://line.crystal-ott.com/EKBnmcqhnVGcekA/xBh5yuBRA3/4319
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="Lokal",MNC TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_210000=3-mp4a_96000=2.m3u8
-
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
-http://line.crystal-ott.com/EKBnmcqhnVGcekA/xBh5yuBRA3/4315
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/net.png" ,NET
-http://210.210.155.35/session/75f4ea96-c150-11ec-bc1c-c81f66f89318/qwr9ew/s/s08/01.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rtv.png",RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/antv.png",ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -87,8 +63,28 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Lokal"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/net.png" ,NET
+http://210.210.155.35/session/75f4ea96-c150-11ec-bc1c-c81f66f89318/qwr9ew/s/s08/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rtv.png",RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/antv.png",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/CNN Indonesia.png" group-title="Lokal",CNN Indonesia
@@ -112,41 +108,41 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png" group-title="Knowledge",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTM3U
-#EXTINF:-1,3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="THAILAND",Channel 3 HD
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
-#EXTINF:-1,5 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV5 HD1" tvg-language="Thai" tvg-logo="https://i.imgur.com/RPqb1g2.png" tvg-country="TH" tvg-url="http://www.tv5.co.th" group-title="THAILAND",TV5 HD1
 http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
-#EXTINF:-1,7 HD
+#EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="THAILAND",CH7 HD
 http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
-#EXTINF:-1,MCOT HD
+#EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/MsssgaV.jpg" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="THAILAND",MCOT HD
 http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
-#EXTINF:-1,NBT
+#EXTINF:-1 tvg-id="" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/xxKyygZ.jpg" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="THAILAND",NBT HD
 http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
-#EXTINF:-1,Thai PBS
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
 http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
 #EXTINF:-1,Nation
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
-#EXTINF:-1,TNN 16
+#EXTINF:-1 tvg-id="" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://i.imgur.com/wtz1CDm.jpg" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="THAILAND",TNN16
 http://183.89.246.119:8010/play/a00b/index.m3u8
-#EXTINF:-1,Workpoint TV
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="THAILAND",Workpoint TV
 http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
-#EXTINF:-1,True4U
+#EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="THAILAND",True4U
 http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
-#EXTINF:-1,G-MM 25
+#EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://i.imgur.com/mENgVzV.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="THAILAND",GMM25
 http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
-#EXTINF:-1,MONO 29
+#EXTINF:-1 tvg-id="" tvg-name="MONO29 (Thai)" tvg-language="Thai" tvg-logo="https://i.imgur.com/zlYqZpe.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="THAILAND",MONO29 (Thai)
 http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
-#EXTINF:-1,ONE HD 31
+#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/FYQetzr.png" tvg-country="TH" tvg-url="https://www.one31.net/" group-title="THAILAND",ONE HD
 http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
-#EXTINF:-1,Thairath
+#EXTINF:-1 tvg-id="" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/ozcLGD7.jpg" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="THAILAND",Thairath HD
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-#EXTINF:-1,Amarin TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/5q48OBS.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="THAILAND",Amarin TV HD
 http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
-#EXTINF:-1,PPTV HD 36
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="THAILAND",PPTV HD
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
-#EXTINF:-1,CH 8
+#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://i.imgur.com/P6lfWBu.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="THAILAND",CH8
 http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
-#EXTINF:-1,ALTV by ThaiPBS
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 
@@ -430,7 +426,15 @@ http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/8224
 http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/16878
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax Asia
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="HBO" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO Asia
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax Asia
