@@ -31,24 +31,24 @@ http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/234954
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Lokal",SCTV 
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Lokal",INDOSIAR 
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR
 https://m3u-editor.com/serve/e26b0220-4172-11ec-a77d-6f3f9638e1ee/421844332
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2UNRnZegGYl3iUP815eUqq2Yd8fpU_o9LA&usqp=CAU" group-title="Lokal",O Channel
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2UNRnZegGYl3iUP815eUqq2Yd8fpU_o9LA&usqp=CAU" group-title="Lokal",O Channel
 http://tvn.x10.mx/1/master-2.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Lokal",TRANS TV 
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Lokal",,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lokal",TRANS 7 
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Lokal",,TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="NETtv.svn" group-title="Lokal",NET TV
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" group-title="Lokal",,NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lokal",ANTV 
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Lokal",,ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -82,8 +82,7 @@ http://210.210.155.35/session/75f4ea96-c150-11ec-bc1c-c81f66f89318/qwr9ew/s/s08/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/rtv.png",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/antv.png",ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 
 
 
