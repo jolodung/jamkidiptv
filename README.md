@@ -2,7 +2,8 @@
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VICELAND
 http://w.nasvpn.xyz:8080/live/saya/saya/16617.m3u8
-
+#EXTINF:-1 tvg-id="110" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+http://w.nasvpn.xyz:8080/live/best/best/16615.m3u8
 
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
 http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
