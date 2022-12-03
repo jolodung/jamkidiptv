@@ -4,8 +4,12 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VICELAND
 http://w.nasvpn.xyz:8080/live/best/best/16567.m3u8
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",OKEY TV
-http://w.nasvpn.xyz:8080/live/best/best/16615.m3u8
+
+#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
+http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
+
+#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
+http://w.nasvpn.xyz:8080/live/saya/saya/13896.m3u8
 
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRT
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
@@ -28,9 +32,6 @@ http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/228556
 http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/234954
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TCY SPORT
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-
-#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SUPERSPORT
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 
 
 
