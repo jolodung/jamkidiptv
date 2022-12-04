@@ -4,7 +4,8 @@ https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 http://w.nasvpn.xyz:8080/live/saya/saya/16617.m3u8
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",OKEY
 http://w.nasvpn.xyz:8080/live/best/best/16615.m3u8
-
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer=""TV 2
+http://bestsave.ltd:80/live/995511/115599/214601.ts
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
 http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
 
