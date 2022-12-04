@@ -22,7 +22,7 @@ http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 #EXTINF:-1  tvg-name="WC 5" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRUE SPORT 2
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
 #EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SPORT TV 1
-http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/58592
+http://bestsave.ltd:80/live/995511/115599/216380.ts
 #EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="", CCTV 5 Sports
 http://ott-serveur.com:8000/504645251728170/515299363871871/145099
 
