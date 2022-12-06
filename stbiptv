@@ -2,8 +2,8 @@
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SBS HD
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VICELAND
-http://w.nasvpn.xyz:8080/live/saya/saya/16617.m3u8
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",NOW 
+http://iptv12k.com:35461/80203091402/213445/14400
 
 
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
@@ -24,7 +24,7 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115533
 #EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SPORT TV 1
 http://bestsave.ltd:80/live/995511/115599/216380.ts
 #EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="", CCTV 5 Sports
-http://ott-serveur.com:8000/504645251728170/515299363871871/145099
+http://iptv12k.com:35461/80203091402/213445/14407
 
 #EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="" ,TSN
 http://wayforward.xyz:25461/BF1BOX/5kUZnw26qs4F/53805
