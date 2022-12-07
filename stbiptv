@@ -216,7 +216,12 @@ http://mains.services:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104487
 http://mains.services:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104488
 #EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png" group-title="SPORT",My: Astro SuperSport 5 HD
 http://xtv.ooo:8080/Mohammad/Mohammad123/229526
-
+#EXTINF:-1,Skynetsport 3 FHD TH
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115937
+#EXTINF:-1,Skynetsports 1 FHD TH
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115850
+#EXTINF:-1,Skynetsports 2 FHD TH
+http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115851
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="SPORT",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
