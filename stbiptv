@@ -4,8 +4,8 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",NOW 
 http://iptv12k.com:35461/80203091402/213445/14400
-
-
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN MAX
+http://iptvtree.net:8080/adastream/8289548ca0/296991
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
 http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
 
@@ -159,7 +159,11 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 2
 http://iptvid.my.id/hmm/useetl2.m3u8
+#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="SPORT",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
+#EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="SPORT",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png" group-title="SPORT",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
@@ -198,11 +202,7 @@ http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115937
 http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115850
 #EXTINF:-1,Skynetsports 2 FHD TH
 http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115851
-#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="SPORT",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="SPORT",SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 group-title="SPORT", VTV 6
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 ##http://203.159.95.172:8081/live/bein02/chunks.m3u8
@@ -235,7 +235,18 @@ http://cineapp.org:8000/Fernando/Fernando/76756
 http://cineapp.org:8000/Fernando/Fernando/76745
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SPORT",IN: Sony Ten 2
 http://cineapp.org:8000/Fernando/Fernando/76757
-
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" group-title="SPORT", SuperSport 2
+http://iptvtree.net:8080/adastream/8289548ca0/1312
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" group-title="SPORT",SuperSport 3
+http://iptvtree.net:8080/adastream/8289548ca0/1319
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="SPORT", SuperSport 4
+http://iptvtree.net:8080/adastream/8289548ca0/1318
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c6be34175b71784909e9493c29135344.png" group-title="SPORT", SuperSport 5
+http://iptvtree.net:8080/adastream/8289548ca0/1860
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f2f8128ce788087140b3d84a313fe6e8.png" group-title="SPORT", SuperSport 6
+http://iptvtree.net:8080/adastream/8289548ca0/3638
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/90b0f1e0b931a25f5257b5ff05e96fe5.png" group-title="SPORT",SuperSport 7
+http://iptvtree.net:8080/adastream/8289548ca0/174441
 
 #EXTINF:-1 group-title="SPORT",Sport tv Hd
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
