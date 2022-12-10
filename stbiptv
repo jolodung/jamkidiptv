@@ -6,6 +6,8 @@ https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 http://iptv12k.com:35461/80203091402/213445/14400
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",BEIN MAX
 http://iptvtree.net:8080/adastream/8289548ca0/296991
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SBS스포츠
+http://iptv12k.com:35461/80203091402/213445/3207
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
 http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
 
@@ -424,7 +426,10 @@ http://iptvtree.net:8080/adastream/8289548ca0/197972
 http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/49539
 #EXTINF:-1 tvg-id="" tvg-name="[TW] CINEMAX HD my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",CINEMAX HD 
 http://iptv12k.com:35461/80203091402/213445/13470
-
+#EXTINF:-1 tvg-id="" tvg-name="KR: OCN KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/OCN_logo.jpg" group-title="Movies",KR: OCN KR
+http://iptv12k.com:35461/80203091402/213445/3223
+#EXTINF:-1 tvg-id="" tvg-name="KR: OCN movies KR" tvg-logo="https://pbs.twimg.com/media/EOdyIaPU8AA_GZG.jpg" group-title="Movies",KR: OCN movies KR
+http://iptv12k.com:35461/80203091402/213445/3222
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0ZYQbB.png" group-title="Knowledge",Discovery Channel Southeast Asia
