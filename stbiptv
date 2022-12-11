@@ -197,13 +197,7 @@ http://iptv12k.com:35461/80203091402/213445/13327
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU"group-title="SPORT" , Astro SUPER SPORT 4
 http://iptv12k.com:35461/80203091402/213445/13326
 #EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png" group-title="SPORT",My: Astro SuperSport 5 HD
-http://xtv.ooo:8080/Mohammad/Mohammad123/229526
-#EXTINF:-1,Skynetsport 3 FHD TH
-http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115937
-#EXTINF:-1,Skynetsports 1 FHD TH
-http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115850
-#EXTINF:-1,Skynetsports 2 FHD TH
-http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/115851
+http://iptv12k.com:35461/80203091402/213445/13176
 
 #EXTINF:-1 group-title="SPORT", VTV 6
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
