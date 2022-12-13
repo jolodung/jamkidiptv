@@ -58,7 +58,8 @@ http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",BRI LIGA !
+http://178.128.27.98:8080/play/idn231e7ddc/6398804ada68b46ffc37fcbb.m3u8?q=1670929359833
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR
 http://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
