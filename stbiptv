@@ -56,11 +56,11 @@ http://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/512px-INews.png" group-title="Lokal",iNews
 http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+http://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/D70rSkE.png" ,Moji O ch
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
