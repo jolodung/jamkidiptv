@@ -1,31 +1,33 @@
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SBS HD
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,SBS HD
 http://iptv12k.com:35461/80203091402/213445/14403
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",NOW 
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,NOW 
 http://iptv12k.com:35461/80203091402/213445/14400
 
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SBS HD
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,SBS HD
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
-http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
 
-#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",SPORT MAX 
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX2-H265/video.m3u8
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,SPORT MAX !
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,ASTRO WC
+http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,ASTRO WC
 http://w.nasvpn.xyz:8080/live/saya/saya/13896.m3u8
-#EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ITV
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,ITV
 http://itv.mit-xperts.com/video/dash/new.php/test.mpd
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",TRT
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,TRT
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
 
-#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",VTV5
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,VTV5
 http://vn2.cvacetv.ga/vtv5
-
-#EXTINF:-1  tvg-name="WC 1" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SPORT TV 1
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,SPORT TV 1
 http://bestsave.ltd:80/live/995511/115599/216380.ts
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="", CCTV 5 Sports
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" , CCTV 5 Sports
 http://iptv12k.com:35461/80203091402/213445/14407
-
-#EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="" ,TSN
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png"  ,TSN
 http://iptv12k.com:35461/80203091402/213445/5746
 
 
