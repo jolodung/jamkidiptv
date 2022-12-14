@@ -5,6 +5,8 @@ http://iptv12k.com:35461/80203091402/213445/14403
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",NOW 
 http://iptv12k.com:35461/80203091402/213445/14400
 
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SBS HD
+http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
 http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
 
