@@ -4,7 +4,8 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 http://iptv12k.com:35461/80203091402/213445/14403
 #EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,NOW 
 http://iptv12k.com:35461/80203091402/213445/14400
-
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",SPORTTV
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/142
 #EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,SBS HD
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 
