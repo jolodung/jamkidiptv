@@ -2,7 +2,8 @@
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,ELTASports1
 https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
-
+#EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,ONE HD
+http://cdn.xcore.ca:80/lXt3MaocUu/JQBEtoTQsR/142
 #EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" , EVENTOS TNT Sports Brasil 
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="FIFA Qatar World Cup FWC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,SBS JTV 
