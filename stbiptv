@@ -180,16 +180,17 @@ https://on-load.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORT",MNC Sports 3
 https://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 1
-https://webdi.openhd.lol/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://xtv.ooo:8080/Mohammad/Mohammad123/229522
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 2
-https://webdi.openhd.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://xtv.ooo:8080/Mohammad/Mohammad123/229524
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtBTRgSJx-6CGMPy9RnOFLek6eOR1iZzsmw&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 3
-https://webdi.openhd.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://xtv.ooo:8080/Mohammad/Mohammad123/229525
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 4
-https://webdi.openhd.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png" group-title="SPORT", Astro SuperSport 5 HD
-https://webdi.openhd.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
+http://xtv.ooo:8080/Mohammad/Mohammad123/229526
+#EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png"group-title="SPORT", Astro SuperSport 5 HD
+http://xtv.ooo:8080/Mohammad/Mohammad123/229526
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT",Astro Arena HD
+http://xtv.ooo:8080/Mohammad/Mohammad123/229529
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sport LALIGA
 #https://raw.githubusercontent.com/krismrp123/modtv/main/Laliga240.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sports PREMIERE LEAGUE
