@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://103.150.197.50:25461/images/72cbdc4cc86b3096b1d15cb99647095a.png" group-title="INDONESIA",RCTI
-http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/165
+http://daddyserver.com:8080/roi123/N0W4yF0VAn/92780
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://103.150.197.50:25461/images/7e08f27db9bd93e9b50b1de7df9d8981.png" group-title="INDONESIA",MNC TV
-http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/166
+http://daddyserver.com:8080/roi123/N0W4yF0VAn/13483
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://103.150.197.50:25461/images/08c1fe6acec1db1aeebfc7271f123fbf.png" group-title="INDONESIA",GTV
-http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/167
+http://daddyserver.com:8080/roi123/N0W4yF0VAn/64345
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="http://103.150.197.50:25461/images/87ade457c3f0acf23be363f6c43e1499.png" group-title="INDONESIA",iNEWS
-http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/16
+http://daddyserver.com:8080/roi123/N0W4yF0VAn/13538
 #EXTINF:-1 group-title="OJAA TV Nasional" tvg-logo="https://bit.ly/ojaatv-sctv", SCTV 
 http://rr2.dens.tv/s/s03/index.m3u8
 
