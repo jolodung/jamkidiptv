@@ -56,7 +56,7 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Lokal" tvg-url"" tvg-logo="https://rubbyguntara.github.io/src/img/tvone.png" group-title="Lokal",TVOne
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvOneNews/live
+http://daddyserver.com:8080/roi123/N0W4yF0VAn/13497
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHEeyikmjRpXZ6ihVkJShhL1rVzZ7SE6dNQ&usqp=CAU" group-title="Lokal", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
