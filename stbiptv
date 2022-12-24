@@ -580,7 +580,69 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1"" group-title="FASHION" , Fashion TV Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1,US LBW: HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/70431
 
+#EXTINF:-1,US: HBO 2
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/18267
+
+#EXTINF:-1,US: HBO COMEDY
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1609
+
+#EXTINF:-1,US: HBO HD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/3581
+
+#EXTINF:-1,US: HBO Signature
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1612
+
+#EXTINF:-1,US: HBO ZONE
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1614
+
+
+#EXTINF:-1,Croatia: HBO 1 HD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/74926
+
+#EXTINF:-1,Croatia: HBO 3 HD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/74928
+
+#EXTINF:-1,Brazil2: HBO2
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/78076
+
+#EXTINF:-1,BR: HBO 1 FHD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79933
+
+#EXTINF:-1,BR: HBO 2 FHD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79934
+
+#EXTINF:-1,BR: HBO 2 SD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79936
+
+#EXTINF:-1,BR: HBO Family FHD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79937
+
+#EXTINF:-1,BR: HBO Family HD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79938
+
+#EXTINF:-1,BR: HBO Family SD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79939
+
+#EXTINF:-1,BR: HBO Plus FHD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79942
+
+#EXTINF:-1,BR: Hbo Plus HD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79943
+
+#EXTINF:-1,BR: Hbo Plus SD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79944
+
+#EXTINF:-1,BR: Hbo Signature HD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79946
+
+#EXTINF:-1,BR: Hbo Signature SD
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79947
+
+#EXTINF:-1,ES-FHD: Hbo Latino
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/87082
 
 
 
