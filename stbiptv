@@ -135,18 +135,10 @@ https://on-load.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORT",MNC Sports 3
 https://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Indonesia
-https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIn Sports 2 Indonesia
-https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Sport",FIGHT SPORTS 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="SPORT",FIGHT SPORTS 
 https://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j1Td_vKLU91XmBThzTZX1KAPj2M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/340ff7.png" group-title="SPORT",CHAMPIONS 1
@@ -356,6 +348,88 @@ http://rr1.dens.tv/h/h21/index.m3u8
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
 #EXTINF:-1  tvg-id="" tvg-name="ID: Fox Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c85ad235530bb281fd6f98305aabd244.png" group-title="Movies"  Fox Movies Action
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA6Kxxlx7vsO68k2rGTqnvWNlVfrFhheEyQ&usqp=CAU", Doraemon Petualangan Nobita Di Museum Alat-alat Ajaib
+https://vodkk.rctiplus.com/hls/2021-07/kk_rev2_doraemon_museum_ajaib_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=23&kodegb=220px-Doraemon-_Nobita_and_the_Island_of_Miracles_movie_post.jpg",Doraemon: Petualangan Nobita Di Pulau Keajaiban Hewan
+https://vodkk.rctiplus.com/hls/2021-08/kk_110821_doraemon_nobita_pulau_keajaiban_hewan_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_rCHkCQAkaes9GfwNZEQ506y886xKfxUmQ&usqp=CAU", Doraemon: Pertarungan Nobita dengan Duyung Penguasa Laut
+https://vodkk.rctiplus.com/hls/2021-07/kk_doraemon_putriduyung_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9oI-K5ElKpnvh5x6910AXS4URDuBTRDsUg&usqp=CAU", Doraemon: Pertarungan Super Nobita Di Planet Koya-Koya
+https://vodkk.rctiplus.com/hls/2021-07/kk_270721_doraemon_planet_foya_foya_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZHxuCXM_Utgs1oNE9hZnsprZqaDxhbbZqQ&usqp=CAU", Doraemon : Nobita dan Pasukan Pelindung Galaksi
+https://vodkk.rctiplus.com/hls/2021-07/kk_150721_doraemon_pahlawan_luar_angkasa_galaksi_space_heroes_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiL2mKUzEuiNw3Rc4i3gVFPaY8uXwhCkEhSw&usqp=CAU", Doraemon: Kisah Nobita dan Manusia Negeri Hijau
+https://vodkk.rctiplus.com/hls/2021-07/kk_280721_doraemon_manusia_di_negeri_hijau_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmEnw2QK7fQKTEfBSAIqapixiC6jwr7TYOg&usqp=CAU", Doraemon: Petualangan Nobita di Dunia Sihir
+https://vodkk.rctiplus.com/hls/2021-08/kk_020821_petualangan_nobita_di_dunia_sihir_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEbVDrv7ioUqMDeNh6zWBLwC963EuDL2eJg&usqp=CAU", Doraemon : Petualangan Nobita di Negeri Wan-Nyan
+https://vodkk.rctiplus.com/hls/2021-08/kk_060821_doraemon_nobita_di_negeri_wan_nyan_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSsUeg4Ylp49RBEQzOPuIdubDFg--payD4g&usqp=CAU", Doraemon: Petualangan Nobita Yang Penuh Misteri di Hutan Afrika
+https://vodkk.rctiplus.com/hls/2021-07/kk_080721_doraemon_petualangan_nobita_yg_penuh_misteri_di_hutan_afrika_rev2_720p/720p.m3u8
+#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOhI8IDx4mpCq1MDqPJFoPlfbwvMGt0HzhA&usqp=CAU", Doraemon : Pertarungan Nobita Melawan Pasukan Robot Planet Megathobia
+https://vodkk.rctiplus.com/hls/2021-07/kk_270721_pertarungan_nobita_melawan_pasukan_robot_planet_megathobia_full_720p/720p.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="Kids ",ANIPLUS
+http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids", ANIME ALL DAY
+https://bit.ly/39KU8Zz
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwBkZDFohBAyjkh5AmxH2nvpQ2UYxjy3VAQ&usqp=CAU" group-title="Kids ", ANIME ALL AGES
+https://bit.ly/3HVVQ72
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc21FNY7T-hj22ghGZMjC7ibz0kf7sR3pUxg&usqp=CAU" group-title="Kids ", CONtv ANIME
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Kids ",NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids ",ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU" group-title="Kids ", Super Toons TV
+https://tinyurl.com/SuperToons
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjExa6sv41hP06KRDX20tOK93feiZGKISmA&usqp=CAU" group-title="Kids ", TOON GOOGLES
+https://tinyurl.com/TiviMe-ToonGoogles
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU" group-title="Kids ", YAAAS!
+https://tinyurl.com/TiviMe-YAAAS
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWxoqeLQWamJux0JikcVMO7ARTNZih83RJcA&usqp=CAU" group-title="Kids ", TELETUBBIES
+https://tinyurl.com/TiviMe-Teletubbies
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROB0zhy5zRU_3uqcFNtdz9HrqTpYw8VFTIVA&usqp=CAU" group-title="Kids ",DUCK TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7epFweIJpkynEx_Gms2ENVG3Lq5RiGZN_w&usqp=CAU" group-title="Kids ",TVO KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcREZ3Me9anB_t0h7kdrPMCBAlyW-t9r-jPA&usqp=CAU" group-title="Kids ",LEGO CHANNEL
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOITYpX3j7YdrBcudY1WUaIfFHcpG0fHbDg&usqp=CAU" group-title="Kids ", LEGO TOONS
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVIyUJTJIWenenwRgj6f6LuuUg7LqKAnWJ3A&usqp=CAU" group-title="Kids ",MOONBUG KIDS
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9C3MGVv3bz4ajsUYZYPKDA2ivfKWItg3K1w&usqp=CAU" group-title="Kids ",TOTALLY TURTLES
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysqLwYvIooQp2ZCFEpbQcScqWpxL2umY2vg&usqp=CAU" group-title="Kids ",PINKFONG BABY SHARK HD
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3Urtq6W1YLkobghq9TfSN3-gh2Ju_iv8Ig&usqp=CAU" group-title="Kids ",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0ZYQbB.png" group-title="Knowledge",Discovery Channel Southeast Asia
 https://av-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
@@ -388,88 +462,6 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="NationalGeographicWildAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/natgeowild.png" group-title="Knowledge",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="Kids ",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
-
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids", ANIME ALL DAY
-https://bit.ly/39KU8Zz
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwBkZDFohBAyjkh5AmxH2nvpQ2UYxjy3VAQ&usqp=CAU" group-title="Kids ", ANIME ALL AGES
-https://bit.ly/3HVVQ72
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc21FNY7T-hj22ghGZMjC7ibz0kf7sR3pUxg&usqp=CAU" group-title="Kids ", CONtv ANIME
-https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
-
-
-
-#EXTINF:-1 group-title="Kids ",NARUTO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids ",ONE PIECE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA6Kxxlx7vsO68k2rGTqnvWNlVfrFhheEyQ&usqp=CAU", Doraemon Petualangan Nobita Di Museum Alat-alat Ajaib
-https://vodkk.rctiplus.com/hls/2021-07/kk_rev2_doraemon_museum_ajaib_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=23&kodegb=220px-Doraemon-_Nobita_and_the_Island_of_Miracles_movie_post.jpg",Doraemon: Petualangan Nobita Di Pulau Keajaiban Hewan
-https://vodkk.rctiplus.com/hls/2021-08/kk_110821_doraemon_nobita_pulau_keajaiban_hewan_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_rCHkCQAkaes9GfwNZEQ506y886xKfxUmQ&usqp=CAU", Doraemon: Pertarungan Nobita dengan Duyung Penguasa Laut
-https://vodkk.rctiplus.com/hls/2021-07/kk_doraemon_putriduyung_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9oI-K5ElKpnvh5x6910AXS4URDuBTRDsUg&usqp=CAU", Doraemon: Pertarungan Super Nobita Di Planet Koya-Koya
-https://vodkk.rctiplus.com/hls/2021-07/kk_270721_doraemon_planet_foya_foya_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZHxuCXM_Utgs1oNE9hZnsprZqaDxhbbZqQ&usqp=CAU", Doraemon : Nobita dan Pasukan Pelindung Galaksi
-https://vodkk.rctiplus.com/hls/2021-07/kk_150721_doraemon_pahlawan_luar_angkasa_galaksi_space_heroes_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiL2mKUzEuiNw3Rc4i3gVFPaY8uXwhCkEhSw&usqp=CAU", Doraemon: Kisah Nobita dan Manusia Negeri Hijau
-https://vodkk.rctiplus.com/hls/2021-07/kk_280721_doraemon_manusia_di_negeri_hijau_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmEnw2QK7fQKTEfBSAIqapixiC6jwr7TYOg&usqp=CAU", Doraemon: Petualangan Nobita di Dunia Sihir
-https://vodkk.rctiplus.com/hls/2021-08/kk_020821_petualangan_nobita_di_dunia_sihir_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEbVDrv7ioUqMDeNh6zWBLwC963EuDL2eJg&usqp=CAU", Doraemon : Petualangan Nobita di Negeri Wan-Nyan
-https://vodkk.rctiplus.com/hls/2021-08/kk_060821_doraemon_nobita_di_negeri_wan_nyan_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSsUeg4Ylp49RBEQzOPuIdubDFg--payD4g&usqp=CAU", Doraemon: Petualangan Nobita Yang Penuh Misteri di Hutan Afrika
-https://vodkk.rctiplus.com/hls/2021-07/kk_080721_doraemon_petualangan_nobita_yg_penuh_misteri_di_hutan_afrika_rev2_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOhI8IDx4mpCq1MDqPJFoPlfbwvMGt0HzhA&usqp=CAU", Doraemon : Pertarungan Nobita Melawan Pasukan Robot Planet Megathobia
-https://vodkk.rctiplus.com/hls/2021-07/kk_270721_pertarungan_nobita_melawan_pasukan_robot_planet_megathobia_full_720p/720p.m3u8
-
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMRaRuvmV2u6-Y2CXzl_ELJIv_wcKVi2afg&usqp=CAU" group-title="Kids ", Super Toons TV
-https://tinyurl.com/SuperToons
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjExa6sv41hP06KRDX20tOK93feiZGKISmA&usqp=CAU" group-title="Kids Tv", TOON GOOGLES
-https://tinyurl.com/TiviMe-ToonGoogles
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kaHaWLIHiKuvYZhEX_pSk06Ernja-oULsg&usqp=CAU" group-title="Kids ", YAAAS!
-https://tinyurl.com/TiviMe-YAAAS
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWxoqeLQWamJux0JikcVMO7ARTNZih83RJcA&usqp=CAU" group-title="Kids ", TELETUBBIES
-https://tinyurl.com/TiviMe-Teletubbies
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROB0zhy5zRU_3uqcFNtdz9HrqTpYw8VFTIVA&usqp=CAU" group-title="Kids ",DUCK TV
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7epFweIJpkynEx_Gms2ENVG3Lq5RiGZN_w&usqp=CAU" group-title="Kids ",TVO KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcREZ3Me9anB_t0h7kdrPMCBAlyW-t9r-jPA&usqp=CAU" group-title="Kids ",LEGO CHANNEL
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOITYpX3j7YdrBcudY1WUaIfFHcpG0fHbDg&usqp=CAU" group-title="Kids ", LEGO TOONS
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVIyUJTJIWenenwRgj6f6LuuUg7LqKAnWJ3A&usqp=CAU" group-title="Kids ",MOONBUG KIDS
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9C3MGVv3bz4ajsUYZYPKDA2ivfKWItg3K1w&usqp=CAU" group-title="Kids ",TOTALLY TURTLES
-https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSysqLwYvIooQp2ZCFEpbQcScqWpxL2umY2vg&usqp=CAU" group-title="Kids ",PINKFONG BABY SHARK HD
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3Urtq6W1YLkobghq9TfSN3-gh2Ju_iv8Ig&usqp=CAU" group-title="Kids ",PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -530,68 +522,63 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1"" group-title="FASHION" , Fashion TV Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1,US LBW: HBO
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/70431
 
-#EXTINF:-1,US: HBO 2
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/18267
-
-#EXTINF:-1,US: HBO COMEDY
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1609
-
-#EXTINF:-1,US: HBO HD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/3581
-
-#EXTINF:-1,US: HBO Signature
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1612
 
-#EXTINF:-1,US: HBO ZONE
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1614
 
 
-#EXTINF:-1,Croatia: HBO 1 HD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/74926
-
-#EXTINF:-1,Croatia: HBO 3 HD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/74928
 
-#EXTINF:-1,Brazil2: HBO2
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/78076
 
-#EXTINF:-1,BR: HBO 1 FHD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79933
 
-#EXTINF:-1,BR: HBO 2 FHD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79934
 
-#EXTINF:-1,BR: HBO 2 SD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79936
 
-#EXTINF:-1,BR: HBO Family FHD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79937
 
-#EXTINF:-1,BR: HBO Family HD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79938
 
-#EXTINF:-1,BR: HBO Family SD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79939
 
-#EXTINF:-1,BR: HBO Plus FHD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79942
 
-#EXTINF:-1,BR: Hbo Plus HD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79943
 
-#EXTINF:-1,BR: Hbo Plus SD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79944
 
-#EXTINF:-1,BR: Hbo Signature HD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79946
 
-#EXTINF:-1,BR: Hbo Signature SD
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79947
-
-#EXTINF:-1,ES-FHD: Hbo Latino
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/87082
 
 
