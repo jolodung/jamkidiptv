@@ -298,7 +298,7 @@ https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="CinemaxIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
 https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony Pix HD
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/49539
+http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/96182
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="http://dusktill.masuk.web.id/img/xingxong.png" group-title="Movies",Xingkong TV
@@ -312,6 +312,37 @@ http://rr1.dens.tv/h/h20/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
 http://rr1.dens.tv/h/h07/01.m3u8
 
+
+#EXTINF:-1, Wowow Cinema
+http://203.162.235.41:16916/
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",CinemaWorld HD
+http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",My Cinema HD
+http://rr.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 group-title="Movies",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/kplus.png",Kplus
+http://rr.dens.tv/h/h08/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mca.jpg",My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcu.jpg",My Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mfc.jpg",My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/onetvasia-logo.png",ONE
+http://rr.dens.tv/h/h143/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: Fox Family Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3c80306dd7c7ecc095c9d4d21750f1b.png" group-title="Movies" fox Action
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
+#EXTINF:-1  tvg-id="" tvg-name="ID: Fox Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c85ad235530bb281fd6f98305aabd244.png" group-title="Movies"  Fox Movies Action
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0ZYQbB.png" group-title="Knowledge",Discovery Channel Southeast Asia
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
@@ -344,71 +375,28 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="NationalGeographicWildAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/natgeowild.png" group-title="Knowledge",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#EXTINF:-1,Wowow Cinema
-http://203.162.235.41:16916/
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony Pix HD
-http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/49539
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",CinemaWorld HD
-http://rr1.dens.tv/h/h04/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Movies",My Cinema HD
-http://rr.dens.tv/h/h192/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/kplus.png",Kplus
-http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: & Flix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="Movies",IN: & Flix
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/45506
-#EXTINF:-1 tvg-id="" tvg-name="IN: & Now" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ad76cd879232d530ba344e17e4d4b993.png" group-title="Movies",IN: & Now
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/82513
-#EXTINF:-1 tvg-id="" tvg-name="IN: & pictures" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="Movies",IN: & pictures
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/16958
-#EXTINF:-1 tvg-id="" tvg-name="IN: & Prive" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="Movies",IN: & Prive
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/49557
-#EXTINF:-1 tvg-id="" tvg-name="IN: & TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="Movies",IN: & TV
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/16964
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="Movies",IN: STAR Movies
-http://iptvtree.net:8080/rhaddaoui90/58b4b54325/11511
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcn.jpg",My Cinema
-http://rr.dens.tv/h/h192/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mca.jpg",My Cinema Asia
-http://rr.dens.tv/h/h193/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mcu.jpg",My Cinema Europe
-http://rr.dens.tv/h/h18/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/mfc.jpg",My Family Channel
-http://rr.dens.tv/h/h194/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/onetvasia-logo.png",ONE
-http://rr.dens.tv/h/h143/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
-http://rr1.dens.tv/h/h21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fox Family Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3c80306dd7c7ecc095c9d4d21750f1b.png" group-title="Movies" fox Action
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
-#EXTINF:-1  tvg-id="" tvg-name="ID: Fox Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c85ad235530bb281fd6f98305aabd244.png" group-title="Movies"  Fox Movies Action
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="Kids Tv",ANIPLUS
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="Kids ",ANIPLUS
 http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids Tv", ANIME ALL DAY
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids", ANIME ALL DAY
 https://bit.ly/39KU8Zz
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwBkZDFohBAyjkh5AmxH2nvpQ2UYxjy3VAQ&usqp=CAU" group-title="Kids Tv", ANIME ALL AGES
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwBkZDFohBAyjkh5AmxH2nvpQ2UYxjy3VAQ&usqp=CAU" group-title="Kids ", ANIME ALL AGES
 https://bit.ly/3HVVQ72
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc21FNY7T-hj22ghGZMjC7ibz0kf7sR3pUxg&usqp=CAU" group-title="Kids Tv", CONtv ANIME
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc21FNY7T-hj22ghGZMjC7ibz0kf7sR3pUxg&usqp=CAU" group-title="Kids ", CONtv ANIME
 https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids Tv",NARUTO
+#EXTINF:-1 group-title="Kids ",NARUTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Kids Tv",ONE PIECE
+#EXTINF:-1 group-title="Kids ",ONE PIECE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 group-title="Movies",WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA6Kxxlx7vsO68k2rGTqnvWNlVfrFhheEyQ&usqp=CAU", Doraemon Petualangan Nobita Di Museum Alat-alat Ajaib
