@@ -112,7 +112,10 @@ http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-
+#EXTINF:-1  tvg-logo="" group-title="SPORT",BEIN Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORT",BEIN Xtra2
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="SoccerChannel.id" tvg-name="" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="SPORT",Soccer Channel
@@ -170,7 +173,12 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
+#EXTINF:-1 group-title="SPORT",Fox Sport
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 group-title="SPORT",Fox Sport2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 group-title="SPORT",Fox Sport3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 1
 http://xtv.ooo:8080/Mohammad/Mohammad123/229522
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 2
@@ -207,7 +215,10 @@ http://lilitv.xyz:80/user1/1user/35674?checkedby:iptvcat.com
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMb9SW5iaZfFFg9gZsQ3r2w/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORT",FOX SPORTS 4
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGaInzgzxdfqKtZ7mHDW8tU/ts?checkedby:iptvcat.com
-
+#EXTINF:-1 group-title="SPORT",TNT SPORT1
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+#EXTINF:-1 group-title="SPORT",TNT SPORT2
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN:  Sony Six SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORT",IN:  Sony Six SD
 http://cineapp.org:8000/Fernando/Fernando/76756
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="USA1: Sony Ten 1 Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="SPORT", Sony Ten 1
