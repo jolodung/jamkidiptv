@@ -2,7 +2,8 @@
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 https://raw.githubusercontent.com/OJAATV/OJAATV/main/Tak%20berjudul%2026_1080p.mp4
-
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
+http://golive.yn.lt/live/liga1/04.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/158355
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
@@ -11,7 +12,7 @@ http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157485
 http://golive.yn.lt/live/liga1/01.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://bit.ly/affcup2022",LIVE AFF, LIVE EVENT
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 https://go.kliniktv.tech/pantekkaumaling.m3u8
 
 
