@@ -4,12 +4,9 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 https://raw.githubusercontent.com/OJAATV/OJAATV/main/Tak%20berjudul%2026_1080p.mp4
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
-http://golive.yn.lt/live/liga1/04.m3u8
-
-
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/158355
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
-http://golive.yn.lt/live/liga1/07.m3u8
-
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157485
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
 http://golive.yn.lt/live/liga1/01.m3u8
 
@@ -23,7 +20,7 @@ http://golive.yn.lt/live/liga1/01.m3u8
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI
 http://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI+
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157591
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Lokal",GTV
