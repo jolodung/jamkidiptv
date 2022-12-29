@@ -11,8 +11,8 @@ http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157485
 http://golive.yn.lt/live/liga1/01.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
 http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
-
-
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://bit.ly/affcup2022",LIVE AFF, LIVE EVENT
+https://go.kliniktv.tech/pantekkaumaling.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
