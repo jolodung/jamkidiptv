@@ -1,6 +1,6 @@
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://postimg.cc/phpM9NFF", LIVE EVENT
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 https://raw.githubusercontent.com/OJAATV/OJAATV/main/Tak%20berjudul%2026_1080p.mp4
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
