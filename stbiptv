@@ -1,16 +1,16 @@
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://ibb.co/8mp0Nwd" LIVE EVENT
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
 https://raw.githubusercontent.com/OJAATV/OJAATV/main/Tak%20berjudul%2026_1080p.mp4
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg" LIVE EVENT
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
 http://golive.yn.lt/live/liga1/04.m3u8
 
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg" LIVE EVENT
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
 http://golive.yn.lt/live/liga1/07.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg" LIVE EVENT
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
 http://golive.yn.lt/live/liga1/01.m3u8
 
 
