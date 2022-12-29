@@ -9,8 +9,8 @@ http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/158355
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157485
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
 http://golive.yn.lt/live/liga1/01.m3u8
-
-
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/1ZHb4GQundefined.jpg", LIVE EVENT
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
 
 
 
@@ -284,25 +284,25 @@ https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272307
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272308
 #EXTINF: -1 group-title="SPORT", DUBAI SPORT3
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272309
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 2 FHD HR
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Arena Sport 2 FHD HR
 http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7264/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 UHD PT
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",ELEVEN SPORTS 1 UHD PT
 http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19158/index.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",EUROSPORT2
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="SPORT",EUROSPORT2
 http://cineapp.org:8000/Fernando/Fernando/5598
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Eurosport 2 North-East HD orig
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Eurosport 2 North-East HD orig
 http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/5076/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET UK
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",SKY SPORTS CRICKET UK
 http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7343/index.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Fight Network CA
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",Fight Network CA
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fight.network.canada.ca.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 2 HD (SR)
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",ARENA SPORT 2 HD (SR)
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEkTkMDsONtdUNwE2gZIW2s/ts
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN EXTRA HD BR
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",ESPN EXTRA HD BR
 http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19057/index.m3u8
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",CANAL+ Sport 2
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="SPORT",CANAL+ Sport 2
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.sport.2.pl.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",S SPORT + PLUS 1 HD
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",S SPORT + PLUS 1 HD
 http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19070/index.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Sport",Sportskool TV
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
