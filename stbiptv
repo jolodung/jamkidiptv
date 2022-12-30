@@ -200,7 +200,7 @@ http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157558
 #EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png"group-title="SPORT", Astro SuperSport 5 HD
 http://xtv.ooo:8080/Mohammad/Mohammad123/229526
 #EXTINF:-1 group-title="SPORT"tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5
-http://w.nasvpn.xyz:8080/live/best/best/16395.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sport LALIGA
 #https://raw.githubusercontent.com/krismrp123/modtv/main/Laliga240.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sports PREMIERE LEAGUE
@@ -422,16 +422,11 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
 
-#EXTINF:-1 ,DirecTV Sports ðŸ‡¦ðŸ‡·
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 ,ESPN VIVO ðŸ‡¦ðŸ‡·
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
 
 #EXTINF:-1 ,ESPN 3 HD ðŸ‡¦ðŸ‡·
 http://200.24.132.99:8000/play/a02w
 
-#EXTINF:-1 ,Fox Sports 2 ðŸ‡¦ðŸ‡·
-http://45.71.185.142:8500/play/a01n
 
 #EXTINF:-1 ,UNIVISION ðŸ‡¦ðŸ‡·
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
@@ -466,8 +461,6 @@ http://rr1.dens.tv/h/h20/01.m3u8
 http://rr1.dens.tv/h/h07/01.m3u8
 
 
-#EXTINF:-1, Wowow Cinema
-http://203.162.235.41:16916/
 
 
 
@@ -500,28 +493,6 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKA6Kxxlx7vsO68k2rGTqnvWNlVfrFhheEyQ&usqp=CAU", Doraemon Petualangan Nobita Di Museum Alat-alat Ajaib
-https://vodkk.rctiplus.com/hls/2021-07/kk_rev2_doraemon_museum_ajaib_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=23&kodegb=220px-Doraemon-_Nobita_and_the_Island_of_Miracles_movie_post.jpg",Doraemon: Petualangan Nobita Di Pulau Keajaiban Hewan
-https://vodkk.rctiplus.com/hls/2021-08/kk_110821_doraemon_nobita_pulau_keajaiban_hewan_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_rCHkCQAkaes9GfwNZEQ506y886xKfxUmQ&usqp=CAU", Doraemon: Pertarungan Nobita dengan Duyung Penguasa Laut
-https://vodkk.rctiplus.com/hls/2021-07/kk_doraemon_putriduyung_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9oI-K5ElKpnvh5x6910AXS4URDuBTRDsUg&usqp=CAU", Doraemon: Pertarungan Super Nobita Di Planet Koya-Koya
-https://vodkk.rctiplus.com/hls/2021-07/kk_270721_doraemon_planet_foya_foya_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZHxuCXM_Utgs1oNE9hZnsprZqaDxhbbZqQ&usqp=CAU", Doraemon : Nobita dan Pasukan Pelindung Galaksi
-https://vodkk.rctiplus.com/hls/2021-07/kk_150721_doraemon_pahlawan_luar_angkasa_galaksi_space_heroes_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiL2mKUzEuiNw3Rc4i3gVFPaY8uXwhCkEhSw&usqp=CAU", Doraemon: Kisah Nobita dan Manusia Negeri Hijau
-https://vodkk.rctiplus.com/hls/2021-07/kk_280721_doraemon_manusia_di_negeri_hijau_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmEnw2QK7fQKTEfBSAIqapixiC6jwr7TYOg&usqp=CAU", Doraemon: Petualangan Nobita di Dunia Sihir
-https://vodkk.rctiplus.com/hls/2021-08/kk_020821_petualangan_nobita_di_dunia_sihir_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEbVDrv7ioUqMDeNh6zWBLwC963EuDL2eJg&usqp=CAU", Doraemon : Petualangan Nobita di Negeri Wan-Nyan
-https://vodkk.rctiplus.com/hls/2021-08/kk_060821_doraemon_nobita_di_negeri_wan_nyan_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSsUeg4Ylp49RBEQzOPuIdubDFg--payD4g&usqp=CAU", Doraemon: Petualangan Nobita Yang Penuh Misteri di Hutan Afrika
-https://vodkk.rctiplus.com/hls/2021-07/kk_080721_doraemon_petualangan_nobita_yg_penuh_misteri_di_hutan_afrika_rev2_720p/720p.m3u8
-#EXTINF:-1 group-title="DORAEMON HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOhI8IDx4mpCq1MDqPJFoPlfbwvMGt0HzhA&usqp=CAU", Doraemon : Pertarungan Nobita Melawan Pasukan Robot Planet Megathobia
-https://vodkk.rctiplus.com/hls/2021-07/kk_270721_pertarungan_nobita_melawan_pasukan_robot_planet_megathobia_full_720p/720p.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="Kids ",ANIPLUS
