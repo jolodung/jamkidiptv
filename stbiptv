@@ -87,43 +87,7 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png" group-title="Knowledge",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="THAILAND",Channel 3 HD
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5 HD1" tvg-language="Thai" tvg-logo="https://i.imgur.com/RPqb1g2.png" tvg-country="TH" tvg-url="http://www.tv5.co.th" group-title="THAILAND",TV5 HD1
-http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="THAILAND",CH7 HD
-http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/MsssgaV.jpg" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="THAILAND",MCOT HD
-http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/xxKyygZ.jpg" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="THAILAND",NBT HD
-http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
-http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
-#EXTINF:-1,Nation
-http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://i.imgur.com/wtz1CDm.jpg" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="THAILAND",TNN16
-http://183.89.246.119:8010/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="THAILAND",Workpoint TV
-http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="THAILAND",True4U
-http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://i.imgur.com/mENgVzV.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="THAILAND",GMM25
-http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MONO29 (Thai)" tvg-language="Thai" tvg-logo="https://i.imgur.com/zlYqZpe.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="THAILAND",MONO29 (Thai)
-http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/FYQetzr.png" tvg-country="TH" tvg-url="https://www.one31.net/" group-title="THAILAND",ONE HD
-http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/ozcLGD7.jpg" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="THAILAND",Thairath HD
-http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/5q48OBS.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="THAILAND",Amarin TV HD
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="THAILAND",PPTV HD
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://i.imgur.com/P6lfWBu.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="THAILAND",CH8
-http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="" group-title="SPORT",BEIN Xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
@@ -192,18 +156,29 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 group-title="SPORT",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/my" group-title="SPORT",Okey
+http://mxu03.wanicelife.com:8880/12mm630085/35185694/71060
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRViC7S46kOj58i95OW-LWm9zpcPR3lx44j3w&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 1
 http://xtv.ooo:8080/Mohammad/Mohammad123/229522
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgzp8uPE_a_f662nUWrfyDapprN8xOxnxGA&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 2
-http://xtv.ooo:8080/Mohammad/Mohammad123/229524
+http://mxu03.wanicelife.com:8880/12mm630085/35185694/59219
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtBTRgSJx-6CGMPy9RnOFLek6eOR1iZzsmw&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 3
 http://w.nasvpn.xyz:8080/live/best/best/16397.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU"group-title="SPORT", Astro SUPER SPORT 4
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157558
 #EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png"group-title="SPORT", Astro SuperSport 5 HD
 http://xtv.ooo:8080/Mohammad/Mohammad123/229526
-#EXTINF:-1 group-title="SPORT"tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5
+#EXTINF:-1 tvg-id="" tvg-name="My: Unifi Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png" group-title="SPORT", PREMIER HD
+http://mxu03.wanicelife.com:8880/12mm630085/35185694/71105
+#EXTINF:-1,MY013:Super Sport 1
+http://mxu03.wanicelife.com:8880/12mm630085/35185694/1722
 
+#EXTINF:-1,MY014:Super Sport 2
+http://mxu03.wanicelife.com:8880/12mm630085/35185694/1721
+
+#EXTINF:-1,MY015:Super Sport 3
+http://mxu03.wanicelife.com:8880/12mm630085/35185694/1720
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sport LALIGA
 #https://raw.githubusercontent.com/krismrp123/modtv/main/Laliga240.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sports PREMIERE LEAGUE
@@ -1419,6 +1394,42 @@ https://anevia114.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="VISION PLUS",HGTV
 https://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="THAILAND",Channel 3 HD
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 HD1" tvg-language="Thai" tvg-logo="https://i.imgur.com/RPqb1g2.png" tvg-country="TH" tvg-url="http://www.tv5.co.th" group-title="THAILAND",TV5 HD1
+http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="THAILAND",CH7 HD
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/MsssgaV.jpg" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="THAILAND",MCOT HD
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/xxKyygZ.jpg" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="THAILAND",NBT HD
+http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
+http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
+#EXTINF:-1,Nation
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://i.imgur.com/wtz1CDm.jpg" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="THAILAND",TNN16
+http://183.89.246.119:8010/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="THAILAND",Workpoint TV
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="THAILAND",True4U
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://i.imgur.com/mENgVzV.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="THAILAND",GMM25
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MONO29 (Thai)" tvg-language="Thai" tvg-logo="https://i.imgur.com/zlYqZpe.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="THAILAND",MONO29 (Thai)
+http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/FYQetzr.png" tvg-country="TH" tvg-url="https://www.one31.net/" group-title="THAILAND",ONE HD
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/ozcLGD7.jpg" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="THAILAND",Thairath HD
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/5q48OBS.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="THAILAND",Amarin TV HD
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="THAILAND",PPTV HD
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://i.imgur.com/P6lfWBu.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="THAILAND",CH8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 
