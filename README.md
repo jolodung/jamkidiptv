@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://103.150.197.50:25461/images/72cbdc4cc86b3096b1d15cb99647095a.png" group-title="INDONESIA",RCTI
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://103.150.197.50:25461/images/7e08f27db9bd93e9b50b1de7df9d8981.png" group-title="INDONESIA",MNC TV
 https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://103.150.197.50:25461/images/08c1fe6acec1db1aeebfc7271f123fbf.png" group-title="INDONESIA",GTV
 https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="http://103.150.197.50:25461/images/87ade457c3f0acf23be363f6c43e1499.png" group-title="INDONESIA",iNEWS
-http://daddyserver.com:8080/roi123/N0W4yF0VAn/13538
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8?checkedby:iptvcat.net
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="OJAA TV Nasional" tvg-logo="https://bit.ly/ojaatv-indosiar",INDOSIAR
