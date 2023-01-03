@@ -36,7 +36,7 @@ http://171.238.181.52:18080/156_3.m3u8?AdaptiveType=HLS
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI
 http://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI+
-https://do3-sv2.gdplayer.to/playlist/RTl2Ti90Vnp3aEF6M3hMamFvV2YzV0FuOWVHcmZiYzJoZWorcVpPSGtJNWNrNDJ5UGVHNmcrMDhweWZOMHNqRzd1bS9kZnpWVWM1ZmI3eHNsZ0F3bXdvaTU3K25zUlhDV2xsMzB0Q1VHTDA9/RCTI2022-avc1_3500000=8-mp4a_128000=2.m3u8?data=WTY1am0rdi8wdTFkbC9Oc2ZSR1dWMW9WTUZ6YndzbVZVU2kwRkc5akk1bnJOMHB3YUJLRlQyQVFiNzU0d1VRbU1rM3h4bWpZY2Z0VkxwL09ldTdpVHJtYVNsVGx4NzR4bkZJMEJGOHVCbUN5YkNPKzZEYmFZbUQ1NlJRTEpHKzg,&live=false&token=RVUvN1hWL2tNdmtBNzFJSVFEUGNHOWZSSDdQZzc2M3FMVUNCTkZTVTNId1hqSDUrRkNMdVF3c0hvdWFHb0VobzZxR1FDT25SL1V4VksrZjAxUW5namc9PQ
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uxZk89FMy7ZJNHtjInRL1U/m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Lokal",GTV
