@@ -29,7 +29,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="LIVE EVENT",Live 5
-http://171.238.181.52:18080/156_3.m3u8?AdaptiveType=HLS
+https://h-rcti.rctiplus.id/RCTI2022-avc1_2500000=7-mp4a_128000=2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1372,4 +1372,33 @@ http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-
+#EXTINF:-1 xui-id="164" tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-logo="" group-title="Sports",Astro Arena
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uTp3QXyakEhIVq2BZ9DFj3/m3u8
+#EXTINF:-1 xui-id="165" tvg-id="" tvg-name="TV1" tvg-logo="" group-title="Malaysia",TV1
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vSR2suydUxs9Xs8E47-Mh8/m3u8
+#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="TV2" tvg-logo="" group-title="Malaysia",TV2
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uLEBAO7uYyQKhrv0U5W1Ul/m3u8
+#EXTINF:-1 xui-id="167" tvg-id="" tvg-name="TV3" tvg-logo="" group-title="Malaysia",TV3
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uwuo63DbBtaYdGLDwucrx_/m3u8
+#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="ASTRO RIA" tvg-logo="" group-title="Malaysia",ASTRO RIA
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vZZ7GQjTFkHeYrr5Eaa5e4/m3u8
+#EXTINF:-1 xui-id="170" tvg-id="" tvg-name="ASTRO PRIMA" tvg-logo="" group-title="Malaysia",ASTRO PRIMA
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uDQIOMM_i5HUFrNAf4kwkx/m3u8
+#EXTINF:-1 xui-id="171" tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="" group-title="Malaysia",ASTRO OASIS
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4sAj4u79HEzJNUiXmejxnNe/m3u8
+#EXTINF:-1 xui-id="172" tvg-id="" tvg-name="ASTRO AURA" tvg-logo="" group-title="Malaysia",ASTRO AURA
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4tOQ0iZMtgRRriHhXIa-qoO/m3u8
+#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="ASTRO WARNA" tvg-logo="" group-title="Malaysia",ASTRO WARNA
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4tqbMv9iAleu6VS8pteDENU/m3u8
+#EXTINF:-1 xui-id="174" tvg-id="" tvg-name="ASTRO CITRA" tvg-logo="" group-title="Malaysia",ASTRO CITRA
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uxWiiCg-7KA_oOrsk7TOO1/m3u8
+#EXTINF:-1 xui-id="175" tvg-id="" tvg-name="ASTRO BOLLYONE" tvg-logo="" group-title="Malaysia",ASTRO BOLLYONE
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vh5kq8qJG9KZ4OA09Vtmy0/m3u8
+#EXTINF:-1 xui-id="176" tvg-id="" tvg-name="ASTRO BOO" tvg-logo="" group-title="Malaysia",ASTRO BOO
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vqtKrepHOSl9ZtDjEFK4pu/m3u8
+#EXTINF:-1 xui-id="177" tvg-id="AstroAwani.my" tvg-name="ASTRO AWANI" tvg-logo="" group-title="Malaysia",ASTRO AWANI
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4tAQTVgPk87CIaci9NLhSut/m3u8
+#EXTINF:-1 xui-id="178" tvg-id="AstroCricket.my" tvg-name="Astro Cricket" tvg-logo="" group-title="Sports",Astro Cricket
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4u4Ziwz2s7bEPznI_5XUxxO/m3u8
+#EXTINF:-1 xui-id="179" tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="" group-title="Malaysia",ASTRO CERIA
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4v8i1yEH2vo82rZ8iFXo_uX/m3u8
