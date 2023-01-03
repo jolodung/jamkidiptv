@@ -204,10 +204,6 @@ https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vl2
 #https://raw.githubusercontent.com/krismrp123/modtv/main/Seriea1.m3u8
 
 
-#EXTINF:-1 group-title="SPORT",TNT SPORT1
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
-#EXTINF:-1 group-title="SPORT",TNT SPORT2
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN:  Sony Six SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORT",IN:  Sony Six SD
 http://cineapp.org:8000/Fernando/Fernando/76756
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="USA1: Sony Ten 1 Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="SPORT", Sony Ten 1
@@ -215,6 +211,148 @@ http://cineapp.org:8000/Fernando/Fernando/76756
 http://cineapp.org:8000/Fernando/Fernando/76745
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SPORT",IN: Sony Ten 2
 http://cineapp.org:8000/Fernando/Fernando/76757
+#EXTINF:-1,beIN Sports Global
+http://mjidiptv.com:1997/asem/1234567890/9626
+#EXTINF:-1,beIN SPORTS NEWS
+http://mjidiptv.com:1997/asem/1234567890/9627
+
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/9674
+#EXTINF:-1,beIN SPORTS 1HD
+http://mjidiptv.com:1997/asem/1234567890/9673
+#EXTINF:-1,beIN SPORTS 1 SD
+http://mjidiptv.com:1997/asem/1234567890/9672
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/9670
+#EXTINF:-1,beIN SPORTS 2HD
+http://mjidiptv.com:1997/asem/1234567890/9669
+#EXTINF:-1,beIN SPORTS 2 SD
+http://mjidiptv.com:1997/asem/1234567890/47544
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/9666
+#EXTINF:-1,beIN SPORTS 3HD
+http://mjidiptv.com:1997/asem/1234567890/9665
+#EXTINF:-1,beIN SPORTS 3 SD
+http://mjidiptv.com:1997/asem/1234567890/9664
+#EXTINF:-1,beIN SPORTS 4 FHD
+http://mjidiptv.com:1997/asem/1234567890/9662
+#EXTINF:-1,beIN SPORTS 4HD
+http://mjidiptv.com:1997/asem/1234567890/9661
+#EXTINF:-1,beIN SPORTS 4 SD
+http://mjidiptv.com:1997/asem/1234567890/9660
+#EXTINF:-1,beIN SPORTS 5 FHD
+http://mjidiptv.com:1997/asem/1234567890/9658
+#EXTINF:-1,beIN SPORTS 5HD
+http://mjidiptv.com:1997/asem/1234567890/9657
+#EXTINF:-1,beIN SPORTS 5 SD
+http://mjidiptv.com:1997/asem/1234567890/9656
+#EXTINF:-1,beIN SPORTS 6 FHD
+http://mjidiptv.com:1997/asem/1234567890/9654
+#EXTINF:-1,beIN SPORTS 6HD
+http://mjidiptv.com:1997/asem/1234567890/9653
+#EXTINF:-1,beIN SPORTS 6 SD
+http://mjidiptv.com:1997/asem/1234567890/9652
+#EXTINF:-1,beIN SPORTS 7 FHD
+http://mjidiptv.com:1997/asem/1234567890/9650
+#EXTINF:-1,beIN SPORTS 7HD
+http://mjidiptv.com:1997/asem/1234567890/9649
+#EXTINF:-1,beIN SPORTS 7 SD
+http://mjidiptv.com:1997/asem/1234567890/9648
+#EXTINF:-1,beIN SPORTS PREMIUM 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/9646
+#EXTINF:-1,beIN SPORTS PREMIUM 1 HD
+http://mjidiptv.com:1997/asem/1234567890/9645
+#EXTINF:-1,beIN SPORTS PREMIUM 1 SD
+http://mjidiptv.com:1997/asem/1234567890/9644
+#EXTINF:-1,beIN SPORTS PREMIUM 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/9642
+#EXTINF:-1,beIN SPORTS PREMIUM 2 HD
+http://mjidiptv.com:1997/asem/1234567890/9641
+#EXTINF:-1,beIN SPORTS PREMIUM 2 SD
+http://mjidiptv.com:1997/asem/1234567890/9640
+#EXTINF:-1,beIN SPORTS PREMIUM 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/9639
+#EXTINF:-1,beIN SPORTS PREMIUM 3 HD
+http://mjidiptv.com:1997/asem/1234567890/9638
+#EXTINF:-1,beIN SPORTS PREMIUM 3 SD
+http://mjidiptv.com:1997/asem/1234567890/9637
+#EXTINF:-1,beIN SPORTS XTRA 1 HD
+http://mjidiptv.com:1997/asem/1234567890/91306
+#EXTINF:-1,beIN SPORTS XTRA 1 SD
+http://mjidiptv.com:1997/asem/1234567890/91307
+#EXTINF:-1,beIN SPORTS XTRA 2 HD
+http://mjidiptv.com:1997/asem/1234567890/91304
+#EXTINF:-1,beIN SPORTS XTRA 2 SD
+http://mjidiptv.com:1997/asem/1234567890/91305
+#EXTINF:-1,beIN SPORTS AFC HD
+http://mjidiptv.com:1997/asem/1234567890/95938
+#EXTINF:-1,beIN SPORTS AFC FHD
+http://mjidiptv.com:1997/asem/1234567890/95937
+#EXTINF:-1,BEIN SPORTS AFC hevc
+http://mjidiptv.com:1997/asem/1234567890/95936
+#EXTINF:-1,beIN SPORTS AFC 1 HD
+http://mjidiptv.com:1997/asem/1234567890/95935
+#EXTINF:-1,beIN SPORTS AFC 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/95934
+#EXTINF:-1,beIN SPORTS AFC 1 hevc
+http://mjidiptv.com:1997/asem/1234567890/95933
+#EXTINF:-1,beIN SPORTS AFC 2 HD
+http://mjidiptv.com:1997/asem/1234567890/95932
+#EXTINF:-1,beIN SPORTS AFC 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/95931
+#EXTINF:-1,beIN SPORTS AFC 2 hevc
+http://mjidiptv.com:1997/asem/1234567890/95930
+#EXTINF:-1,beIN SPORTS AFC 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/95929
+#EXTINF:-1,beIN SPORTS AFC 3 hevc
+http://mjidiptv.com:1997/asem/1234567890/95928
+#EXTINF:-1,beIN SPORTS ENGLISH 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/69302
+#EXTINF:-1,beIN SPORTS ENGLISH 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/9635
+#EXTINF:-1,beIN SPORTS ENGLISH 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/9634
+#EXTINF:-1,beIN SPORTS FRANCAIS 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/69301
+#EXTINF:-1,beIN SPORTS FRANCAIS 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/9632
+#EXTINF:-1,beIN SPORTS FRANCAIS 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/9631
+#EXTINF:-1,beIN SPORTS 1 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9671
+#EXTINF:-1,beIN SPORTS 2 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9667
+#EXTINF:-1,beIN SPORTS 3 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9663
+#EXTINF:-1,beIN SPORTS 4 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9659
+#EXTINF:-1,beIN SPORTS 5 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9655
+#EXTINF:-1,beIN SPORTS 6 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9651
+#EXTINF:-1,beIN SPORTS 7 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9647
+#EXTINF:-1,beIN SPORTS1 FR FHD
+http://mjidiptv.com:1997/asem/1234567890/19361
+
+#EXTINF:-1,beIN SPORTS2 FR FHD
+http://mjidiptv.com:1997/asem/1234567890/19360
+
+
+#EXTINF:-1,BeinSports1
+http://mjidiptv.com:1997/asem/1234567890/18416
+#EXTINF:-1,BeinSports2
+http://mjidiptv.com:1997/asem/1234567890/18415
+#EXTINF:-1,BeinSports3
+http://mjidiptv.com:1997/asem/1234567890/18414
+
+#EXTINF:-1,BeinSports5
+http://mjidiptv.com:1997/asem/1234567890/18412
+#EXTINF:-1,BeinSports6
+http://mjidiptv.com:1997/asem/1234567890/18411
+#EXTINF:-1,BeinSports7
+http://mjidiptv.com:1997/asem/1234567890/18410
+
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="SPORT",ELEVEN SPORT1
 http://cineapp.org:8000/Fernando/Fernando/7451?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="SPORT",ELEVEN SPORT2
@@ -226,8 +364,10 @@ http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="SPORT",ELEVEN SPORT6
 http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BmJaDT3.jpg" group-title="SPORT",OF-TV Offenbach (720p)
-https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORT",TNT SPORT1
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+#EXTINF:-1 group-title="SPORT",TNT SPORT2
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 #EXTINF:-1 group-title="SPORT",Sport tv Hd
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
