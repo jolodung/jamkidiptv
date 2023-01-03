@@ -152,7 +152,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 1
 http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 2
-http://iptvid.my.id/hmm/useetl2.m3u8
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vpVV1lRC143CEEiSE4QYmI/m3u8
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="SPORT",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
