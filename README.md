@@ -5,7 +5,7 @@ https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://103.150.197.50:25461/images/08c1fe6acec1db1aeebfc7271f123fbf.png" group-title="INDONESIA",GTV
 https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="http://103.150.197.50:25461/images/87ade457c3f0acf23be363f6c43e1499.png" group-title="INDONESIA",iNEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8?checkedby:iptvcat.net
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4sJIVxQaKbzMEq_HegpT5UQ/m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="LOKAL NASIONAL",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="OJAA TV Nasional" tvg-logo="https://bit.ly/ojaatv-indosiar",INDOSIAR
