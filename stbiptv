@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-https://do3-sv2.gdplayer.to/playlist/RTl2Ti90Vnp3aEF6M3hMamFvV2YzV0FuOWVHcmZiYzJoZWorcVpPSGtJNWNrNDJ5UGVHNmcrMDhweWZOMHNqRzd1bS9kZnpWVWM1ZmI3eHNsZ0F3bXdvaTU3K25zUlhDV2xsMzB0Q1VHTDA9/RCTI2022-avc1_3500000=8-mp4a_128000=2.m3u8?data=WTY1am0rdi8wdTFkbC9Oc2ZSR1dWMW9WTUZ6YndzbVZVU2kwRkc5akk1bnJOMHB3YUJLRlQyQVFiNzU0d1VRbU1rM3h4bWpZY2Z0VkxwL09ldTdpVHJtYVNsVGx4NzR4bkZJMEJGOHVCbUN5YkNPKzZEYmFZbUQ1NlJRTEpHKzg,&live=false&token=RVUvN1hWL2tNdmtBNzFJSVFEUGNHOWZSSDdQZzc2M3FMVUNCTkZTVTNId1hqSDUrRkNMdVF3c0hvdWFHb0VobzZxR1FDT25SL1V4VksrZjAxUW5namc9PQ
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uxZk89FMy7ZJNHtjInRL1U/m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 http://mxu03.wanicelife.com:8880/12mm630085/35185694/1733
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
@@ -137,9 +137,9 @@ https://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j1Td_vKLU91XmBThzTZX1KAPj2M=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/340ff7.png" group-title="SPORT",CHAMPIONS 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4s0xlR7kMO59-g1n1EvWE18/m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LeU1dbK9Xyni61LXCXcPRL8WouY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/cf3faa.png" group-title="SPORT", CHAMPIONS 2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vTgbdITmosNH42iRtE0VHw/m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DAwYfgtwzenPVwfK-rX3D9g9Zbo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/aac5ba.png" group-title="SPORT", CHAMPIONS 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://i.imgur.com/4J586mw.png" group-title="SPORT",Champions TV 4
@@ -150,7 +150,7 @@ http://176.9.48.60:23055/play/a00t
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="SPORT",TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 1
-http://iptvid.my.id/hmm/useetl1.m3u8
+https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4tuyXNQ6gxnt2DF67k1WQgI/m3u8
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 2
 https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vpVV1lRC143CEEiSE4QYmI/m3u8
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="SPORT",SPOTV
@@ -225,24 +225,7 @@ http://cineapp.org:8000/Fernando/Fernando/7453?checkedby:iptvcat.com
 http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="SPORT",ELEVEN SPORT6
 http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.1.ch.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.2.ch.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 3
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.3.ch.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 4
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.4.ch.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 5
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.5.ch.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 6
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.6.ch.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 7
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.7.ch.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 8
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.8.ch.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",My Sport 9 CH
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.9.ch.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BmJaDT3.jpg" group-title="SPORT",OF-TV Offenbach (720p)
 https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="SPORT",Sport tv Hd
@@ -264,22 +247,17 @@ https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272307
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272308
 #EXTINF: -1 group-title="SPORT", DUBAI SPORT3
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272309
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Arena Sport 2 FHD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7264/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",ELEVEN SPORTS 1 UHD PT
-http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19158/index.m3u8
+
+
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="SPORT",EUROSPORT2
 http://cineapp.org:8000/Fernando/Fernando/5598
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Eurosport 2 North-East HD orig
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/5076/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",SKY SPORTS CRICKET UK
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7343/index.m3u8
+
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",Fight Network CA
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fight.network.canada.ca.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",ARENA SPORT 2 HD (SR)
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEkTkMDsONtdUNwE2gZIW2s/ts
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",ESPN EXTRA HD BR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19057/index.m3u8
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="SPORT",CANAL+ Sport 2
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.sport.2.pl.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",S SPORT + PLUS 1 HD
@@ -289,15 +267,10 @@ https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORT",FOX SPORTS 3
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMb9SW5iaZfFFg9gZsQ3r2w/ts
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",SKY SPORT MOTOGP
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19133/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Arena Sport 1 HD HR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7329/index.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN SP
-http://ziyadiptv.net:80/05519648407TT/05519648407/18911
-#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",Eurosport 1 DK
+
+
+
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="SPORT",Eurosport 1 DK
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.dk.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="SPORT",Dubai Racing,SPORT : Dubai Racing,SPORT | Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
@@ -305,8 +278,7 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6065639a7ec4e2633f0c7d83" group-title="SPORT"GRVTY
 https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Eurosport 2 HD CEE
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18099/index.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",ESPN US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/espn.us.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="SPORT",TVA Sports 2 HD (FR)
@@ -315,27 +287,20 @@ http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tsn4.ca.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="SPORT",Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SuperSport MaXimo 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.mximo.1.ze.m3u8
+
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",SuperSport Variety 3
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.variety.3.ze.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",S Sport 1 HD TR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6825/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Polsat Sport FHD PL
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7296/index.m3u8
+
+
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Sport Klub 1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.1.hr.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",DIGI Sport 2 HD RO
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2522/index.m3u8
+
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="SPORT",TRING SPORT 4
 http://cineapp.org:8000/Fernando/Fernando/9678
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Eleven Sports 1 HD PL
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2518/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",RMC SPORT 4
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19200/index.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Eurosport 2 HD CEE orig
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18100/index.m3u8
+
+
+
 
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",Sport1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport1.de.m3u8
@@ -344,10 +309,7 @@ http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8921
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORT",ESPN 3 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599
 
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ESPN2 ZE
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/espn2.ze.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pt.m3u8
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="SPORT",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT",Eleven Sports 5 HD
@@ -361,10 +323,8 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.spor
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.fox.footy.au.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="SPORT",TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Setanta Sports HD
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/271/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",FC Bayern TV
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19024/index.m3u8
+
+
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="SPORT",Sky Sports Action
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCz2uXIPtU_foiPmupAG4qk/ts
@@ -375,8 +335,7 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.foot
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="SPORT",DIGI Sport 3
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.3.ro.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",ELEVEN SPORTS 1 UHD PT
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19158/index.m3u8
+
 
 
 #EXTINF:-1 ,beIN Sports 1 ðŸ‡¶ðŸ‡¦
