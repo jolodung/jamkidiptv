@@ -184,6 +184,26 @@ http://mxu03.wanicelife.com:8880/12mm630085/35185694/59218
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157558
 #EXTINF:-1 tvg-id="" tvg-name="My: Astro SuperSport 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/astro_supersport_my.png"group-title="SPORT", Astro SuperSport 5 HD
 http://xtv.ooo:8080/Mohammad/Mohammad123/229526
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.1[Thai]
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115757
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.1[ENG]
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115758
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.2[ENG]
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115762
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.2[THAI]
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115508
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.3(THAI)
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115510
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.3[ENG]
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115511
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.4
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115513
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.4(THAI)
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115768
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.5HD
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115515
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.5
+http://clientsportals.com:2095/f778W3He/yj7FXRjr/115525
 #EXTINF:-1 xui-id="93" tvg-id="" tvg-name="Bein 1 Premium" tvg-logo="" group-title="SPORT",Bein 1 Premium
 https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vW7sl0JQ_2wSf4QqLuRTgb/m3u8
 #EXTINF:-1 xui-id="94" tvg-id="" tvg-name="Bein 2 Premium" tvg-logo="" group-title="SPORT",Bein 2 Premium
