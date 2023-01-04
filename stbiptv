@@ -211,6 +211,8 @@ http://cineapp.org:8000/Fernando/Fernando/76756
 http://cineapp.org:8000/Fernando/Fernando/76745
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SPORT",IN: Sony Ten 2
 http://cineapp.org:8000/Fernando/Fernando/76757
+#EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="SPORT",Sony Ten 3 HD
+http://watchindia.net:8880/live/80249/77103/1758.ts
 #EXTINF:-1,beIN Sports Global
 http://mjidiptv.com:1997/asem/1234567890/9626
 #EXTINF:-1,beIN SPORTS NEWS
@@ -517,7 +519,10 @@ http://rr1.dens.tv/h/h21/01.m3u8
 http://rr1.dens.tv/h/h20/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
 http://rr1.dens.tv/h/h07/01.m3u8
-
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="Movies",& Flix HD
+http://watchindia.net:8880/live/80249/77103/2088.ts
+#EXTINF:-1 tvg-id="prive.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="Movies",& Prive HD
+http://watchindia.net:8880/live/80249/77103/2103.ts
 
 
 
