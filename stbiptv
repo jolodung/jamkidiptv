@@ -1,7 +1,6 @@
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uxZk89FMy7ZJNHtjInRL1U/m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 http://mxu03.wanicelife.com:8880/12mm630085/35185694/1733
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
@@ -157,10 +156,7 @@ http://176.9.48.60:23055/play/a00t
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="SPORT",TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 1
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4tuyXNQ6gxnt2DF67k1WQgI/m3u8
-#EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="SPORT",USEE SPORT 2
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vpVV1lRC143CEEiSE4QYmI/m3u8
+
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="SPORT",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
@@ -212,18 +208,7 @@ http://clientsportals.com:2095/f778W3He/yj7FXRjr/115768
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/115515
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.5
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/115525
-#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="Bein 1 Premium" tvg-logo="" group-title="SPORT",Bein 1 Premium
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vW7sl0JQ_2wSf4QqLuRTgb/m3u8
-#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="Bein 2 Premium" tvg-logo="" group-title="SPORT",Bein 2 Premium
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4ubMkdym7R0mEkkald3IXyC/m3u8
-#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="Bein 3 Premium" tvg-logo="" group-title="SPORT",Bein 3 Premium
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uShL7RCTrIDVpyEqpVKP_b/m3u8
-#EXTINF:-1 xui-id="96" tvg-id="" tvg-name="Bein 1 English" tvg-logo="" group-title="SPORT",Bein 1 English
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4s4BNUEgBb0lA6htGlnk5tx/m3u8
-#EXTINF:-1 xui-id="97" tvg-id="" tvg-name="Bein 2 English" tvg-logo="" group-title="SPORT",Bein 2 English
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4tFIj4tkHQujc3nRDiBU9mY/m3u8
-#EXTINF:-1 xui-id="98" tvg-id="" tvg-name="Bein 3 English" tvg-logo="" group-title="SPORT",Bein 3 English
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vl2H_yT3trW4ai6_ICyoGL/m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sport LALIGA
 #https://raw.githubusercontent.com/krismrp123/modtv/main/Laliga240.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sports PREMIERE LEAGUE
