@@ -2,6 +2,8 @@
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
+http://4iptv.xyz:8080/Hp2c3bQ68P/638875/147029
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 http://mxu03.wanicelife.com:8880/12mm630085/35185694/1733
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/158355
