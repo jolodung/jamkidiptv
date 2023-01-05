@@ -38,7 +38,7 @@ http://h-rcti.rctiplus.id/RCTI2022-avc1_2500000=7-mp4a_128000=2.m3u8
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI
 http://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI+
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uxZk89FMy7ZJNHtjInRL1U/m3u8
+http://kuchini.site:8080/fungoldiptv/Qr6CMw9KWxZ8Ar9D/157591
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Lokal",GTV
@@ -52,6 +52,8 @@ http://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/512px-INews.png" group-title="Lokal",iNews
 http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ID: iNews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Lokal",ID: iNews
+http://kuchini.site:8080/fungoldiptv/Qr6CMw9KWxZ8Ar9D/157579
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
