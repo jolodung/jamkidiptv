@@ -104,12 +104,12 @@ https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:0 tvg-id="beINSports1.Id" tvg-logo="https://cdn.ksa.my.id/beinsports1.png" group-title="Sports",beIN Sports 1 indo
+#EXTINF:0 tvg-id="beINSports1.Id" tvg-logo="https://cdn.ksa.my.id/beinsports1.png" group-title="SPORT",beIN Sports 1 indo
 https://alstv.xyz/usee/bein1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:0 tvg-id="beINSports3.Id" tvg-logo="https://cdn.ksa.my.id/beinsports3.png" group-title="Sports",beIN Sports 2 indo
+#EXTINF:0 tvg-id="beINSports3.Id" tvg-logo="https://cdn.ksa.my.id/beinsports3.png" group-title="SPORT",beIN Sports 2 indo
 https://alstv.xyz/usee/bein2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORT",BEIN Xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
@@ -1537,7 +1537,7 @@ http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="THAILAND",Thai PBS HD
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 xui-id="164" tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-logo="" group-title="Sports",Astro Arena
+#EXTINF:-1 xui-id="164" tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-logo="" group-title="SPORT",Astro Arena
 https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4uTp3QXyakEhIVq2BZ9DFj3/m3u8
 #EXTINF:-1 xui-id="165" tvg-id="" tvg-name="TV1" tvg-logo="" group-title="Malaysia",TV1
 https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vSR2suydUxs9Xs8E47-Mh8/m3u8
@@ -1563,7 +1563,6 @@ https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vh5
 https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4vqtKrepHOSl9ZtDjEFK4pu/m3u8
 #EXTINF:-1 xui-id="177" tvg-id="AstroAwani.my" tvg-name="ASTRO AWANI" tvg-logo="" group-title="Malaysia",ASTRO AWANI
 https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4tAQTVgPk87CIaci9NLhSut/m3u8
-#EXTINF:-1 xui-id="178" tvg-id="AstroCricket.my" tvg-name="Astro Cricket" tvg-logo="" group-title="Sports",Astro Cricket
-https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4u4Ziwz2s7bEPznI_5XUxxO/m3u8
+
 #EXTINF:-1 xui-id="179" tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="" group-title="Malaysia",ASTRO CERIA
 https://live.fortunetv.me:443/play/SXkR40Tv_0Rh341H4CZkEX--JW4kavabV-VjGhZ3I4v8i1yEH2vo82rZ8iFXo_uX/m3u8
