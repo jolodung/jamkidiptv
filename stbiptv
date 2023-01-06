@@ -22,7 +22,7 @@ https://live.fortunetv.me:443/play/rRJkyTdEnznBLVFvcDchijEgVWY6wfYLes05WSOLtKYV_
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI
 http://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI+
-https://live.fortunetv.me:443/play/rRJkyTdEnznBLVFvcDchijEgVWY6wfYLes05WSOLtKYV_3N1AzmnlMgH0oJJJHhC/ts
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUgM3fntbbeXP-IHCpzDtLs
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Lokal",GTV
