@@ -142,7 +142,10 @@ https://on-load.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORT",MNC Sports 3
 https://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
+#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="Usee Sports 1" tvg-logo="https://live.fortunetv.me:443/images/f531eb745eea027e868e7b45b03792cd.png" group-title="SPORT",Usee Sports 1
+https://live.fortunetv.me:443/play/rRJkyTdEnznBLVFvcDchigx_aLYy1jLVh883ZrpOYK5sYNv_BDK23-SpujJMhXA6/ts
+#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="Usee Sports 2" tvg-logo="https://live.fortunetv.me:443/images/734ec83e2d946f5f763d9ebfcebb2997.png" group-title="SPORT",Usee Sports 2
+https://live.fortunetv.me:443/play/rRJkyTdEnznBLVFvcDchigx_aLYy1jLVh883ZrpOYK5Ei2bdmnGqkFB_mbYEyQiR/ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="SPORT",FIGHT SPORTS 
