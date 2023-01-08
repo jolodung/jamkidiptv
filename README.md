@@ -473,5 +473,1401 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 #EXTINF:-1 group-title="OJAA TV Nasional" tvg-logo="https://bit.ly/ojaatv-mentaritv", MENTARI TV
 http://tv.zonanime.my.id/vidio/mentaritv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 0/0" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 0/0
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297096
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 0/1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 0/1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297095
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 0/2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 0/2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297101
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 4K EVILANGEL CUM4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 4K EVILANGEL CUM4K
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296695
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 4K EVILANGEL CUSTOMS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 4K EVILANGEL CUSTOMS
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296694
+#EXTINF:-1 tvg-id="" tvg-name="XXX: 4K LIBERTY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 4K LIBERTY
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297027
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adult Channel 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Adult Channel 1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/290567
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adult Channel 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Adult Channel 2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296955
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adult Channel 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Adult Channel 3
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296956
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adult Channel 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Adult Channel 4
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296948
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adult Channel 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Adult Channel 5
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296954
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX 6
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/8312
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX HD1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/8311
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD1 +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX HD1 +1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296945
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX HD2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/8310
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Alba XXX HD2 +1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296946
 
+#EXTINF:-1 tvg-id="" tvg-name="XXX: ATK Galleria" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: ATK Galleria
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/291229
+#EXTINF:-1 tvg-id="" tvg-name="XXX: babes" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: babes
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296234
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BALKAN EROTIC
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3320
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BANG U
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3330
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BANG U +1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296951
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BANG U +2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BANG U +2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297094
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BARELY LEGAL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BARELY LEGAL
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/92037
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BEATE UHSE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BEATE UHSE
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3341
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue Hustler" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Blue Hustler
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/37296
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue TV Cuckold" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Blue TV Cuckold
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296961
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Blue TV Erotica" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Blue TV Erotica
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297023
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BRAZZERS
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/291234
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BRAZZERS 2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296072
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BRAZZERS 3
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296073
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS Espanol" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BRAZZERS Espanol
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/291241
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS Europe" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: BRAZZERS Europe
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/79
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Cento X Cento" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Cento X Cento
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/245142
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DDF Network" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: DDF Network
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296944
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DEEP LUSH" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: DEEP LUSH
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165895
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: DORCEL TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3283
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: DORCEL XXX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296960
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dream Porn" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/6c23e7109fa4df58436597223a7add63.jpeg" group-title="XXX",XXX: Dream Porn
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3288
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eca5ed8af4d5a989426f9763e793ba63.png" group-title="XXX",XXX: DUSK
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/75
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0cc88b5e1837a574d9afd4c0b5548666.png" group-title="XXX",XXX: erotic
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/37153
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3ecf142562fb0dd76722e5a3f3af9f5.png" group-title="XXX",XXX: erotic 2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/76
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cb3e377994e967a278f87247ac8d4090.png" group-title="XXX",XXX: erotic 3
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3317
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73b032b563fc35327ae7fe71903d64b3.png" group-title="XXX",XXX: erotic 4
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/52
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d784f6c8cc3da5b4f5a70e3fc0754145.png" group-title="XXX",XXX: erotic 5
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/35814
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad731974dee83ee4da6cadbfe518b414.png" group-title="XXX",XXX: erotic 6
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/77
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00837055688d2ce5957bb86611dfcd43.png" group-title="XXX",XXX: erotic 7
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3318
+#EXTINF:-1 tvg-id="" tvg-name="XXX: erotic 8" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60782fcb30648b1df7389d5351a3f0e5.png" group-title="XXX",XXX: erotic 8
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3319
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Erotic Spice" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Erotic Spice
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296970
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e72bd471b8065c856a5bce7de14fc471.png" group-title="XXX",XXX: EROX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3796
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EROX +1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296974
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROXXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3911eb41a72af8e58d98221401182480.png" group-title="XXX",XXX: EROXXX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/37276
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/69d3c688eed474f0dcfa9157d718e31d.png" group-title="XXX",XXX: EVIL ANGEL
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/146259
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EVIL ANGEL 2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296962
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EVIL ANGEL 3
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/291240
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EVIL ANGEL 4
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/295995
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EVIL ANGEL 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EVIL ANGEL 5
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/291237
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXPO EROX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EXPO EROX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296949
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8d7833a7af9700e7a01d8b3475f8ed9c.png" group-title="XXX",XXX: EXTASY
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/195567
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EXTASY +1
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297093
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EXTREME
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3329
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Exxxotica TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Exxxotica TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3345
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Fantazzy TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/73a0c0934dab32d4122d9bb858302204.png" group-title="XXX",XXX: Fantazzy TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296374
+#EXTINF:-1 tvg-id="" tvg-name="XXX: French Lover" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: French Lover
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3334
+#EXTINF:-1 tvg-id="" tvg-name="XXX: French Lover TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: French Lover TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297091
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HARDX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HARDX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296965
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT Gold" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HOT Gold
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/291250
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT GUYS FUCK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HOT GUYS FUCK
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296975
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT XXL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HOT XXL
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/15844
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1161b5609e8639fa7922c371e25c63c2.png" group-title="XXX",XXX: HUSTLER HD
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/6028
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler TV RED" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/39f670616f23f6bfb21d6f0aed98de65.png" group-title="XXX",XXX: Hustler TV RED
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/290277
+#EXTINF:-1 tvg-id="" tvg-name="XXX: IPPA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: IPPA
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297092
+#EXTINF:-1 tvg-id="" tvg-name="XXX: KINK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: KINK
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296976
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Lust Pur TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Lust Pur TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/290294
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Luxure TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Luxure TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296950
+#EXTINF:-1 tvg-id="" tvg-name="XXX: mano job" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: mano job
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297088
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Meiden Van Holland" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Meiden Van Holland
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3311
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1731
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV International" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV International
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/55212
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Jenny For You" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV Jenny For You
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296366
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Jenny Live" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV Jenny Live
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/285514
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Latino" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV Latino
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/18344
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MILF TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: MILF TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3327
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: NET XX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: NET XX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3324
+#EXTINF:-1 tvg-id="" tvg-name="XXX: O.La.La" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/89cbca28208f364ef1b47c06315afd71.png" group-title="XXX",XXX: O.La.La
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/36535
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OX-AX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: OX-AX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296984
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8712b8aa05c4d22e29838d4eefe9e03.png" group-title="XXX",XXX: Passie XXX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/28298
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/db94ebdf2fe455251214a0f15a9ea99a.png" group-title="XXX",XXX: Passion XXX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/48
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae248ced9cd536ee1723ab55d0a3e7c2.png" group-title="XXX",XXX: PENTHOUSE Gold
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/32056
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE Passion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PENTHOUSE Passion
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/172382
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE REALITY TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PENTHOUSE REALITY TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296983
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINKO CLUB" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PINKO CLUB
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3342
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png" group-title="XXX",XXX: PLAYBOY
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/14222
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Latino" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY Latino
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/290309
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNBOX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PORNBOX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297098
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Private TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9150f35348b9d8da4226de2b9ce6c9b2.png" group-title="XXX",XXX: Private TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3281
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RAW X 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: RAW X 2
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296953
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RAW X 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: RAW X 3
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296967
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1a65ebbea073d02a2e015181b94f4a3.png" group-title="XXX",XXX: Reality Kings TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/383
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Reality Kings TV - Sugar Street" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Reality Kings TV - Sugar Street
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296988
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RED XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: RED XXX
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297089
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf9a9c45c6293b91fc1f144f40e898e.png" group-title="XXX",XXX: REDLIGHT
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/85
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Russian Night" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Russian Night
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/49168
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Secret Circle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Secret Circle
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/290298
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SeXation" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: SeXation
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/146437
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: SEXTREME
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3309
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sexy HOT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Sexy HOT
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3310
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SHALUN TV (Шалун ТВ)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: SHALUN TV (Шалун ТВ)
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/290291
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b6d6e0bb58bd4e3c2b4874c609918a94.png" group-title="XXX",XXX: VENUS
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3258
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VISIT-X TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80ca765246e54cb9c7f6744b550ccd21.png" group-title="XXX",XXX: VISIT-X TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/28531
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID Red" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: VIVID Red
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3989
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID Touch" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: VIVID Touch
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3295
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57f0394829c11df6816fc99acd551126.png" group-title="XXX",XXX: VIVID TV
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/146434
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5412f754d84f76d71e0af50dd73b23b1.png" group-title="XXX",XXX: VIXEN
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/290296
+#EXTINF:-1 tvg-id="" tvg-name="XXX: W4B" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: W4B
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296977
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Bizarre" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: X Bizarre
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3313
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X Bunga Bunga" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: X Bunga Bunga
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/3315
+#EXTINF:-1 tvg-id="" tvg-name="XXX: X-MO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: X-MO
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/297028
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY FHD H264¹" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png" group-title="XXX",PLAYBOY FHD H264¹
+http://pdsrv.io:80/s77hGbcbHe/PCgg50at46/93302
+
+#EXTINF:0 tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png" group-title="XXX",Playboy
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/527/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png" group-title="XXX",Playboy Plus
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6242/index.m3u8
+
+
+#EXTINF:-1 group-title="XXX",FAKE HOSTEL
+http://nubiatv.live:80/zero514/zero514/194488.m3u8
+
+#EXTINF:-1 group-title="XXX",BUMSBUS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70716.ts
+
+#EXTINF:-1 group-title="XXX",Casting Couch
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70717.ts
+
+#EXTINF:-1 group-title="XXX",Babes
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70718.ts
+
+#EXTINF:-1 group-title="XXX",Pure Mature
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70719.ts
+
+#EXTINF:-1 group-title="XXX",Sweet Sinner
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70720.ts
+
+#EXTINF:-1 group-title="XXX",Massage Rooms
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70721.ts
+
+#EXTINF:-1 group-title="XXX",Perv City
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70722.ts
+
+#EXTINF:-1 group-title="XXX",Interracial Pass
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70723.ts
+
+#EXTINF:-1 group-title="XXX",Big Naturals
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70725.ts
+
+#EXTINF:-1 group-title="XXX",Blacked
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70726.ts
+
+#EXTINF:-1 group-title="XXX",Blacked Raw
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70727.ts
+
+#EXTINF:-1 group-title="XXX",Bratty Sis
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70728.ts
+
+#EXTINF:-1 group-title="XXX",Brazzers 
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70729.ts
+
+#EXTINF:-1 group-title="XXX",A Girl Knows
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70730.ts
+
+#EXTINF:-1 group-title="XXX",Cum 4K
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70731.ts
+
+#EXTINF:-1 group-title="XXX",EROCOM.TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70732.ts
+
+#EXTINF:-1 group-title="XXX",EVIL ANGEL
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70733.ts
+
+#EXTINF:-1 group-title="XXX",FAMILY SWAP
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70734.ts
+
+#EXTINF:-1 group-title="XXX",DIGITAL PLAYGROUND
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70735.ts
+
+#EXTINF:-1 group-title="XXX",FAPADOO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70736.ts
+
+#EXTINF:-1 group-title="XXX",FIRST ANAL QUEST
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70737.ts
+
+#EXTINF:-1 group-title="XXX",GOT MYLF
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70738.ts
+
+#EXTINF:-1 group-title="XXX",HENTAIED
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70739.ts
+
+#EXTINF:-1 group-title="XXX",AMATEUR EURO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70740.ts
+
+#EXTINF:-1 group-title="XXX",HER LIMIT
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70741.ts
+
+#EXTINF:-1 group-title="XXX",HOTWIFEXXX
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70742.ts
+
+#EXTINF:-1 group-title="XXX",Fake Taxi
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70744.ts
+
+#EXTINF:-1 group-title="XXX",Family Strokes
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70745.ts
+
+#EXTINF:-1 group-title="XXX",JESH
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70746.ts
+
+#EXTINF:-1 group-title="XXX",JOIBABES
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70747.ts
+
+#EXTINF:-1 group-title="XXX",KINKYINLAWS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70748.ts
+
+#EXTINF:-1 group-title="XXX",KINKYSPA
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70749.ts
+
+#EXTINF:-1 group-title="XXX",JAYSPOV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70751.ts
+
+#EXTINF:-1 group-title="XXX",WHITEBOXXX
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70752.ts
+
+#EXTINF:-1 group-title="XXX",TAKE CONTROL AT LIFE SELECTOR
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70753.ts
+
+#EXTINF:-1 group-title="XXX",Love Her Ass
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70754.ts
+
+#EXTINF:-1 group-title="XXX",SLIM4K.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70755.ts
+
+#EXTINF:-1 group-title="XXX",REALITYJUNKIES
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70756.ts
+
+#EXTINF:-1 group-title="XXX",Mofos
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70757.ts
+
+#EXTINF:-1 group-title="XXX",REALDIRTYVIDEOS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70758.ts
+
+#EXTINF:-1 group-title="XXX",Mom Teach Sex
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70759.ts
+
+#EXTINF:-1 group-title="XXX",PORNWORLD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70760.ts
+
+#EXTINF:-1 group-title="XXX",My Family Pies
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70762.ts
+
+#EXTINF:-1 group-title="XXX",FAMILY MANIPULATION
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70764.ts
+
+#EXTINF:-1 group-title="XXX",NF BUSTY.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70765.ts
+
+#EXTINF:-1 group-title="XXX",ANAL MOM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70766.ts
+
+#EXTINF:-1 group-title="XXX",LOVEHOMEPORN.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70767.ts
+
+#EXTINF:-1 group-title="XXX",NURUMASSAGE.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70768.ts
+
+#EXTINF:-1 group-title="XXX",MYDIRTYHOBBIES
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70769.ts
+
+#EXTINF:-1 group-title="XXX",Nubile Films
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70770.ts
+
+#EXTINF:-1 group-title="XXX",PORNOCHIC.FR
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70771.ts
+
+#EXTINF:-1 group-title="XXX",Perv Mom
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70772.ts
+
+#EXTINF:-1 group-title="XXX",BIPHORIA
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70773.ts
+
+#EXTINF:-1 group-title="XXX",POVD.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70774.ts
+
+#EXTINF:-1 group-title="XXX",PRINCESSCUM.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70775.ts
+
+#EXTINF:-1 group-title="XXX",LUXURE.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70777.ts
+
+#EXTINF:-1 group-title="XXX",PRIVATE.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70778.ts
+
+#EXTINF:-1 group-title="XXX",Property Sex
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70779.ts
+
+#EXTINF:-1 group-title="XXX",Public Agent
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70780.ts
+
+#EXTINF:-1 group-title="XXX",ANALIZED
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70781.ts
+
+#EXTINF:-1 group-title="XXX",SUGARBABES
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70782.ts
+
+#EXTINF:-1 group-title="XXX",ASIA-M
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70783.ts
+
+#EXTINF:-1 group-title="XXX",THROATED.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70784.ts
+
+#EXTINF:-1 group-title="XXX",BUNNIED
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70785.ts
+
+#EXTINF:-1 group-title="XXX",MAMACITAS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70786.ts
+
+#EXTINF:-1 group-title="XXX",STROKIES
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70787.ts
+
+#EXTINF:-1 group-title="XXX",PORNBOX
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70788.ts
+
+#EXTINF:-1 group-title="XXX",HUSSIEPASS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70789.ts
+
+#EXTINF:-1 group-title="XXX",FAKEHOSTEL
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70791.ts
+
+#EXTINF:-1 group-title="XXX",CUCKOLD SESSIONS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70792.ts
+
+#EXTINF:-1 group-title="XXX",DIABOLIC
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70795.ts
+
+#EXTINF:-1 group-title="XXX",PORNWORLD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70797.ts
+
+#EXTINF:-1 group-title="XXX",ALLBLACK
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70799.ts
+
+#EXTINF:-1 group-title="XXX",ADULT TIME
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70800.ts
+
+#EXTINF:-1 group-title="XXX",BROKENBABES
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70802.ts
+
+#EXTINF:-1 group-title="XXX",BOSKOW
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70804.ts
+
+#EXTINF:-1 group-title="XXX",NEW SENSATIONS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70806.ts
+
+#EXTINF:-1 group-title="XXX",JULES JORDAN
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70807.ts
+
+#EXTINF:-1 group-title="XXX",SWEETHEARTVIDEOS.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70808.ts
+
+#EXTINF:-1 group-title="XXX",111CUSTOMS.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70810.ts
+
+#EXTINF:-1 group-title="XXX",PURGATORYX.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70811.ts
+
+#EXTINF:-1 group-title="XXX",STARSEXCLUSIVE
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70819.ts
+
+#EXTINF:-1 group-title="XXX",BRAZZERS.COM
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70820.ts
+
+#EXTINF:-1 group-title="XXX",POVCUCKOLD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/70822.ts
+
+#EXTINF:-1 ext" group-title="XXX",LEO TV HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6272/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",EXTREME
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6273/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",BALKAN EROTIC
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6270/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Adult Time
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6166/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Alba 1
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12106/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Alba 2
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12108/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Alba 3
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12109/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Alba 4
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12110/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Analized HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6168/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Babes HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6171/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",BAG U
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12170/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Bang Bros HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6173/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Bang U
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12114/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Bang!
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6174/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Barely legal
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/871/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Big Ass Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6175/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Big Tits Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6177/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Blacked HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6178/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Blue Hustler
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/1064/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Brazzers eXXtra
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6181/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Brazzers HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6182/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",BRAZZERS TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12113/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Brazzers TV Europe
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/910/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Brunette Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6183/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",cento x cento
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6184/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Cherry Pimps
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6185/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Club 17
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6186/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Compilation Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6187/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Cum Louder
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6189/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Cum4k
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6190/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Daughter Swap
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6191/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Day with a Pornstar
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6192/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",DDF Busty
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6193/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",DDF Network
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6194/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Digital Desire HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6195/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Digital Playground HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6196/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Dorcel Club
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6197/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Dorcel TV HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/245/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",DORCEL XXX TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12132/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Dusk
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6198/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",DUSK TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12129/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",LEO
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6272/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Erotic
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6289/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Erotic 2
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6290/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Erotic 3
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6291/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Erotic 4
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6292/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Erotic 6
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6293/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Erotic 7
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6294/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Erotic 8
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6295/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Erox HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6296/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Eroxxx HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5015/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Evil Angel HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6199/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="7",Extasy HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6201/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Extreme
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6273/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fake Taxi HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6202/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV 2
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6203/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV 3
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6204/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV 4
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6205/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV Anal
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6206/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV BBW
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6207/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV Compilation
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6208/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV Lesbian
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6209/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV Parody
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6210/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fap TV Teens
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6211/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Fast Boyz
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6274/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",FemJoy
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6212/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",FREE X TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12134/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",French Lover
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12124/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Gangbang Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6214/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",GANGBANG CREAMPIE
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12184/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Got MYLF
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6216/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Hands on Hardcore
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6217/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Hard X
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6218/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Holed
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6221/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",HOT
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6275/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Hot and Mean
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6222/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Hot Pleasure
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6277/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",HOT XXL HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6276/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",HOTWIFE PREMIUM
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12187/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Hustler HD Europe
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/244/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",LATINA TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12172/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Lesbea
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6227/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Lethal Hardcore
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6229/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",LIBERTY EROTIKA HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/16069/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Little Asians HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6230/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Live Cams Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6231/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Lust Cinema
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6232/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Meiden Van Holland
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12125/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",MetArt HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6233/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",MILF TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12173/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Monsters of Cock
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6235/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",MvH Hard
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6297/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",MYLF TV HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6236/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Naughty America
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6237/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Nubiles TV HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6238/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",O-la-la
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/2161/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",ox-ax HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6239/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PASSIE TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12136/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Penthouse Gold HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5011/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Penthouse Passion
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5010/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Penthouse Passion
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6274/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Penthouse Quickies HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5013/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PINK EROTICA 1
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12146/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PINK EROTICA 2
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12147/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PINK EROTICA 3
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12148/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PINK EROTICA 4
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12149/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PINK EROTICA 5
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12150/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PINK EROTICA 6
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12151/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PINK EROTICA 7
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12152/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PINK EROTICA 8
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12153/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Pink'o TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/874/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Playboy
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/527/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Playboy LA
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6280/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Playboy Plus
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6242/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PORNSTAR TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12174/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",POV Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6244/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",POV TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12175/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Private HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6245/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Private TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/243/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PROKOPTV XXX HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19401/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Public Agent
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6246/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",PURE BABES
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12112/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Reality Kings HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6247/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Red Lips
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6271/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Red XXX
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6281/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Redlight HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/242/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",RK Prime
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6248/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",RK TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6249/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Rough Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6250/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",ROUGH TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12176/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Russian Adult TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6251/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",RUSSIAN TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12177/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SCT
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/876/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Sex With Muslims
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6252/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SexArt
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6253/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",sext 6 senso
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6254/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Sexy Hot
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6282/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SINematica
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6255/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SKY_HIGH_SEX_VR
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19406/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL EROTIC HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12160/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 1 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12161/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 2 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12162/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 3 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12163/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 4 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12164/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 5 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12165/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 6 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12166/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 7 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12167/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 8 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12168/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SL HOT 9 HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12169/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",SuperOne HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6298/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Teen Red TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6256/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",TEEN TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12178/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",THREESOME TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12180/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Tiny4K
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6258/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",True Amateurs
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6260/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Tushy HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6261/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",TushyRAW
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6262/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Visit-X TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6263/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Vivid TV Europe
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6264/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Vixen HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6265/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",We Live Together
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6266/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",White Boxxx
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6267/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Wicked
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6268/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",X Plus Milf HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12130/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",X-MO
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6285/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Xpanded TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6269/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",XXL
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5009/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XXX Love's Berry HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/14140/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XXXINTERRACIAL TV
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12171/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XY Max HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6286/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XY Mix HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6287/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XY Plus 1
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12115/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XY Plus 12
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12118/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XY Plus 2
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12116/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XY Plus 24
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12119/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XY Plus 6
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12117/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",XY Plus HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6288/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="7",ОХ-АХ HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/11068/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Русская Ночь
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/147/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="7",KinoXXX
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/11052/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",Kinoshka Adult HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18060/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",BCU Charm HD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18053/index.m3u8
+#EXTINF:-1 ext" group-title="XXX",HOT
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6275/index.m3u8
+EXTINF:-1 ext" group-title="XXX",HOT XXL
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6276/index.m3u8
+EXTINF:-1 ext" group-title="XXX",HOT PLEASURE
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6277/index.m3u8
+EXTINF:-1 ext" group-title="XXX",NUDE
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6280/index.m3u8
+EXTINF:-1 ext" group-title="XXX",NUDE
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6280/index.m3u8
+EXTINF:-1 ext" group-title="XXX",REDXXX
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6281/index.m3u8
+EXTINF:-1 ext" group-title="XXX",SEXYHOT
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6282/index.m3u8
+EXTINF:-1 ext" group-title="XXX",VENUS
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6284/index.m3u8
+EXTINF:-1 ext" group-title="XXX",VENUS
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6284/index.m3u8
+EXTINF:-1 ext" group-title="XXX",XYMAX
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6286/index.m3u8
+EXTINF:-1 ext" group-title="XXX",XYMIX
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6287/index.m3u8
+EXTINF:-1 ext" group-title="XXX",XYPLUS
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6288/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6289/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6289/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC2
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6290/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC2
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6291/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC3
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6292/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC4
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6293/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC6
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6293/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC7
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6294/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC8
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6295/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROTIC8
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6295/index.m3u8
+EXTINF:-1 ext" group-title="XXX",EROXXX
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6296/index.m3u8
+EXTINF:-1 ext" group-title="XXX",MEIDENVANHOLLAND
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6297/index.m3u8
+EXTINF:-1 ext" group-title="XXX",SUPERONE
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6298/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",Extasy4K
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5014/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",PENTHOUSE REALITY
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5013/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",PENTHOUSE REALITY
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5012/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",PENTHOUSE GOLD
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5011/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",PENTHOUSE PASSION
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5010/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",XXL
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5009/index.m3u8
+#EXTINF:-1 ext" group-title="XXX" tvg-rec="3",XXL
+
+http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5009/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="XXX",Japan HDV
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6225/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="XXX",Little Asians HD
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6230/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="XXX",EVOLVED FIGHTS
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6200/index.m3u8
+
+#EXTINF:-1 group-title="XXX",Fake Taxi HD
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6202/index.m3u8
+
+#EXTINF:-1 group-title="XXX",THREESOME
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6202/index.m3u8
+
+#EXTINF:-1 group-title="XXX",HITZEFREI
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6220/index.m3u8
+
+#EXTINF:-1 group-title="XXX",HARDX
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6218/index.m3u8
+
+#EXTINF:-1 group-title="XXX",DDF NETWORK
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6217/index.m3u8
+
+#EXTINF:-1 group-title="XXX",HOTGUYSFUCK
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6223/index.m3u8
+
+#EXTINF:-1 group-title="XXX",LESBEA
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6227/index.m3u8
+
+#EXTINF:-1 group-title="XXX",LETHAL PASS
+http://52daab4f.cbilant.com/iptv/LVWUP96P9876E9/6229/index.m3u8
+
+#EXTINF:-1 group-title="XXX",PURE BABES
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12112/index.m3u8
+
+#EXTINF:-1 group-title="XXX",ALBA 1
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12105/index.m3u8
+
+#EXTINF:-1 group-title="XXX",ALBA 2
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12107/index.m3u8
+
+#EXTINF:-1 group-title="XXX",ALBA 5
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12108/index.m3u8
+
+#EXTINF:-1 group-title="XXX",ALBA 3
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12108/index.m3u8
+
+#EXTINF:-1 group-title="XXX",BANG U
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12114/index.m3u8
+
+#EXTINF:-1 group-title="XXX",PASSIONXXX Lesbian
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12120/index.m3u8
+
+#EXTINF:-1 group-title="XXX",FRENCHLOVER
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/12124/index.m3u8
+
+#EXTINF:-1 group-title="XXX",SEXART
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6253/index.m3u8
+
+#EXTINF:-1 group-title="XXX",NUART
+http://s.only4.tv/8114/video.m3u8?token=y3DBG7q3sk
+
+
+
+#EXTINF:-1 group-title="XXX",EROTIC 6
+http://ipflix.click:80/live/sq1x0qr86b/7777/19678.m3u8
+
+#EXTINF:-1 group-title="XXX",EROTIC 8
+http://ipflix.click:80/live/sq1x0qr86b/7777/5528.m3u8
+
+#EXTINF:-1 group-title="XXX",HOT PLEASURE
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6277/index.m3u8
+
+#EXTINF:-1 group-title="XXX",PLAYBOY LATIN
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6280/index.m3u8
+
+#EXTINF:-1 group-title="XXX",HUSTLER HD
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/244/index.m3u8
+
+#EXTINF:-1 group-title="XXX",BLUE HUSTLER
+http://es.pp6uv.top/qw643/654grth5r/2066
+
+#EXTINF:-1 group-title="XXX",HARDHOTTV
+http://es.pp6uv.top/qw643/654grth5r/2065
+
+#EXTINF:-1 tvg-id="" tvg-name="Mia Khalifa" tvg-logo="" group-title="XXX",Mia Khalifa
+http://es.pp6uv.top/qw643/654grth5r/2054
+
+#EXTINF:-1 tvg-id="" tvg-name="Little Caprice" tvg-logo="" group-title="XXX",POV DREAMS
+http://es.pp6uv.top/qw643/654grth5r/2053
+
+#EXTINF:-1 group-title="XXX",VIVID RED
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/2162/index.m3u8
+
+#EXTINF:-1 group-title="XXX",Vivid TV Europe
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6264/index.m3u8
+
+#EXTINF:-1 group-title="XXX",LADY FYRE
+http://nubiatv.live:80/zero514/zero514/195367.m3u8
+
+#EXTINF:-1 group-title="XXX",Sweetie Fox
+http://nubiatv.live:80/zero514/zero514/221766.m3u8
+
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Anal (720p)
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Asian (720p)
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Big Ass (720p)
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Big Dick (720p)
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Big Tits (720p)
+http://cdn.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Blonde (720p)
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Blowjob (720p)
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Brunette (720p)
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Compilation (720p)
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Cuckold (720p)
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Fetish (720p)
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Gangbang (720p)
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Hardcore (720p)
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Interracial (720p)
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Latina (720p)
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Lesbian (720p)
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Live Cams (720p)
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net MILF (720p)
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Pornstar (720p)
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net POV (720p)
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Rough (720p)
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Russian (720p)
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Teen (720p)
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Threesome (720p)
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Woman (720p)
+http://live.redtraffic.net/woman.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BMJDW7r.png" group-title="XXX",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iNmHyo2.png" group-title="XXX",RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L0VcV7w.png" group-title="XXX",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xfIelNY.png" group-title="XXX",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rzZYfkN.png" group-title="XXX",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bp1qW74.png" group-title="XXX",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6LqaFuD.png" group-title="XXX",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t3LXxuv.png" group-title="XXX",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uosNpWk.png" group-title="XXX",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6dgyIz0.png" group-title="XXX",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/acW4Fe9.png" group-title="XXX",RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S2kSwfv.png" group-title="XXX",RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvqysKS.png" group-title="XXX",RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5WSwI1A.png" group-title="XXX",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3nOaNzu.png" group-title="XXX",RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k85bqov.png" group-title="XXX",RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 group-title="XXX",EVIL ANGEL
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126171
+
+
+#EXTINF:-1 group-title="XXX",White Flower
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/147/index.m3u8
+
+#EXTINF:-1 group-title="XXX",Digital Desire HD
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6195/index.m3u8
+
+#EXTINF:-1 group-title="XXX",Digital Playground HD
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6196/index.m3u8
+
+#EXTINF:-1 group-title="XXX",Lust Cinema
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6232/index.m3u8
+
+#EXTINF:-1 group-title="XXX",Tiny4K
+http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/6258/index.m3u8
 
