@@ -3,7 +3,7 @@ https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="LIVE EVENT",Live 1
-https://anv-livechannel-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157591
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="LIVE EVENT",Live 2
 https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
