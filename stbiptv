@@ -548,16 +548,7 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
 
 
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="USA | DISNEY CHANNEL" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" group-title="Kids", DISNEY CHANNEL
-http://sansat.net:25461/peamz2GzC5FuMbv/VXavpDSEYZfmMnr/101026
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA | DISNEY JR" tvg-logo="http://un-pluggedtv.net:8080/images/7b560a73185805d6904181cd85bc8d1d.png" group-title="Kids", DISNEY JR
-http://sansat.net:25461/peamz2GzC5FuMbv/VXavpDSEYZfmMnr/101027
-#EXTINF:-1 tvg-id="" tvg-name="EL: BOOMERANG" tvg-logo="" group-title="Kids", BOOMERANG
-http://sansat.net:25461/peamz2GzC5FuMbv/VXavpDSEYZfmMnr/101028
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="[ES] NICKELODEON  HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NICKELODEONHD.png" group-title="Kids ",NICKELODEON  HD
-http://sansat.net:25461/peamz2GzC5FuMbv/VXavpDSEYZfmMnr/101029
-#EXTINF:-1 tvg-id="" tvg-name="EL: NICKTOONS" tvg-logo="" group-title="Kids" ,NICKTOONS
-http://sansat.net:25461/peamz2GzC5FuMbv/VXavpDSEYZfmMnr/101030
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="Kids ",ANIPLUS
