@@ -62,7 +62,7 @@ http://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/D70rSkE.png" ,Moji O ch
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+https://devds.site/api/v.m3u8?ch=moji
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Lokal",,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Lokal",,TRANS 7
