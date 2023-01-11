@@ -1,43 +1,13 @@
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png","WELCOME to JAMKID STB"
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-http://golive.yn.lt/live/liga1/04.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/158355
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157485
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-http://golive.yn.lt/live/liga1/01.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-https://go.kliniktv.tech/pantekkaumaling.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/gJKzTmcN/live.png", LIVE EVENT
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="LIVE EVENT",Live 1
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157591
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="LIVE EVENT",Live 2
-http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/157579
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="LIVE EVENT",Live 3
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="LIVE EVENT",Live 4
-http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/352604/piala_aff_2022_1-169.jpg?w=636&h=358" group-title="LIVE EVENT",Live 5
-http://iptvtree.net:8080/babar2020ex/q8tJoxpK6QLH9z2mW9Yl/158355
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI
 http://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI+
-https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUgM3fntbbeXP-IHCpzDtLs
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157591
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Lokal",GTV
@@ -126,9 +96,9 @@ https://on-load.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORT",MNC Sports 3
 https://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 xui-id="84" tvg-id="" tvg-name="Usee Sports 1" tvg-logo="https://live.fortunetv.me:443/images/f531eb745eea027e868e7b45b03792cd.png" group-title="SPORT",Usee Sports 1
-https://live.fortunetv.me:443/play/rRJkyTdEnznBLVFvcDchigx_aLYy1jLVh883ZrpOYK5sYNv_BDK23-SpujJMhXA6/ts
+http://pprotv.com:80/live/20042004/20202020/39554.ts
 #EXTINF:-1 xui-id="85" tvg-id="" tvg-name="Usee Sports 2" tvg-logo="https://live.fortunetv.me:443/images/734ec83e2d946f5f763d9ebfcebb2997.png" group-title="SPORT",Usee Sports 2
-https://live.fortunetv.me:443/play/rRJkyTdEnznBLVFvcDchigx_aLYy1jLVh883ZrpOYK5Ei2bdmnGqkFB_mbYEyQiR/ts
+http://pprotv.com:80/live/20042004/20202020/39555.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="SPORT",FIGHT SPORTS 
