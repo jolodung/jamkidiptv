@@ -689,7 +689,7 @@ http://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/OsbTFpv.png?v=1.0.0.1" group-title="FASHION" , Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="FASHION" ,Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w186 9403172_b1896000.m3u8 
+http://iptvtree.net:8080/4467299f/8b713e1a54/36535
 
 #EXTINF:-1 group-title="FASHION" ,Miami TV JennyLive
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
@@ -703,61 +703,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/70431
 
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/18267
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1609
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/3581
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1612
 
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1614
-
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/74926
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/74928
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/78076
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79933
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79934
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79936
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79937
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79938
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79939
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79942
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79943
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79944
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79946
-
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79947
-#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
-http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/87082
 #EXTINF:-1,tvN
 http://rr1.dens.tv/h/h20/01.m3u8
 
