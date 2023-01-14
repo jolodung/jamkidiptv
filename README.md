@@ -88,7 +88,21 @@ https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
 
 #EXTINF:-1 group-title="KIDS",Toon Googles
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/640x360_700000/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",Playboy KR
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",Midnight KR
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",Playy Premium Movie KR
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYPremiumMovie.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",Playy Action Movie KR
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
 
 
 
