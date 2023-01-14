@@ -521,19 +521,15 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
 https://allanf181.github.io/adaptive-streams/streams/kr/OCN.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Playboy KR
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Midnight KR
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Playy Premium Movie KR
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYPremiumMovie.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies"tvg-id="" tvg-name="",Playy Action Movie KR
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
 
 
