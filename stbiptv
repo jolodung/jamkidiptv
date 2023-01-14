@@ -515,7 +515,26 @@ http://rr1.dens.tv/h/h21/index.m3u8
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
 #EXTINF:-1  tvg-id="" tvg-name="ID: Fox Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c85ad235530bb281fd6f98305aabd244.png" group-title="Movies"  Fox Movies Action
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
+#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",KR: OCN movies KR
+https://allanf181.github.io/adaptive-streams/streams/kr/OCN.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Playboy KR
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Midnight KR
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Playy Premium Movie KR
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYPremiumMovie.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies"tvg-id="" tvg-name="",Playy Action Movie KR
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
 
 
 
