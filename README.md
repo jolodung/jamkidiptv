@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://103.150.197.50:25461/images/72cbdc4cc86b3096b1d15cb99647095a.png" group-title="INDONESIA",RCTI
-http://live.zaltvindo.com:80/live/AF581B06BF368A59B43B02069535B183/642.m3u8
+http://live.zaltvindo.com:80/live/AF581B06BF368A59B43B02069535B183/2506.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://103.150.197.50:25461/images/7e08f27db9bd93e9b50b1de7df9d8981.png" group-title="INDONESIA",MNC TV
 https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://103.150.197.50:25461/images/08c1fe6acec1db1aeebfc7271f123fbf.png" group-title="INDONESIA",GTV
