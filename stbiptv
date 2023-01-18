@@ -30,7 +30,7 @@ http://get.gretongan.devs.id/iptv-query?streaming-ip=https://vidio.com/live/204
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR
 http://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+http://gretong.devs.id/live/bri1
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/D70rSkE.png" ,Moji O ch
 https://devds.site/api/v.m3u8?ch=moji
