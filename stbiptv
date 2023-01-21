@@ -157,26 +157,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="SPORT",Fox Sport3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.1[Thai]
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115757
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.1[ENG]
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115758
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.2[ENG]
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115762
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.2[THAI]
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115508
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.3(THAI)
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115510
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.3[ENG]
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115511
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.4
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115513
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.4(THAI)
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115768
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.5HD
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115515
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KCcLMy/True-Sports-shareext.jpg" group-title="SPORT",Premier.Football.5
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/115525
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/supersport-logo-072E95A5CB-seeklogo.com.png" group-title="SPORT",Super Sport LALIGA
 #https://raw.githubusercontent.com/krismrp123/modtv/main/Laliga240.m3u8
@@ -186,13 +167,13 @@ http://clientsportals.com:2095/f778W3He/yj7FXRjr/115525
 #https://raw.githubusercontent.com/krismrp123/modtv/main/Seriea1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN:  Sony Six SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORT",IN:  Sony Six SD
-http://cineapp.org:8000/Fernando/Fernando/76756
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="USA1: Sony Ten 1 Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="SPORT", Sony Ten 1
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Sony Six SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORT",IN:  Sony Six HD
+http://watchindia.net:8880/live/80249/77103/1763.ts
+
 #EXTINF:-1 tvg-id="TenHD.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJ9MvN6YTDr4j_2cd_uwFanfKgyYqAF9jjQ&usqp=CAU" group-title="SPORT",SONY TEN 1 HD
-http://cineapp.org:8000/Fernando/Fernando/76745
+http://watchindia.net:8880/live/80249/77103/1756.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SPORT",IN: Sony Ten 2
-http://cineapp.org:8000/Fernando/Fernando/76757
+http://watchindia.net:8880/live/80249/77103/1757.ts
 #EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="SPORT",Sony Ten 3 HD
 http://watchindia.net:8880/live/80249/77103/1758.ts
 #EXTINF:-1,beIN Sports Global
@@ -334,8 +315,7 @@ http://mjidiptv.com:1997/asem/1234567890/18414
 http://mjidiptv.com:1997/asem/1234567890/18412
 #EXTINF:-1,BeinSports6
 http://mjidiptv.com:1997/asem/1234567890/18411
-#EXTINF:-1,BeinSports7
-http://mjidiptv.com:1997/asem/1234567890/18410
+
 
 
 
@@ -364,8 +344,7 @@ https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272308
 https://m3u-editor.com/serve/b304fb20-8318-11ec-ab0c-51219e0fff3d/489272309
 
 
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="SPORT",EUROSPORT2
-http://cineapp.org:8000/Fernando/Fernando/5598
+
 
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",Fight Network CA
@@ -410,8 +389,7 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.vari
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="SPORT",Sport Klub 1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sk.1.hr.m3u8
 
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="SPORT",TRING SPORT 4
-http://cineapp.org:8000/Fernando/Fernando/9678
+
 
 
 
@@ -419,16 +397,12 @@ http://cineapp.org:8000/Fernando/Fernando/9678
 
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="SPORT",Sport1
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport1.de.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="SPORT",Sky Sport Action FHD
-http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8921
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="SPORT",ESPN 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599
+
 
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="SPORT",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT",Eleven Sports 5 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
+
 
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SPORT",FreeSports
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/freesports.uk.m3u8
@@ -453,8 +427,6 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sp
 
 
 
-#EXTINF:-1 ,beIN Sports 1 ðŸ‡¶ðŸ‡¦
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
 
 
 
