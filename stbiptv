@@ -8,6 +8,19 @@ http://seduluran.xyz/Live/LOKAL/indosiar1.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIGA BRI",Live 4
 http://seduluran.xyz/Live/LOKAL/indosiar3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/XY44RPp8/Channel-True-Premier-Football-HD1.png" group-title="LIGA PREMIER", True visions 1
+http://ptv.is/live/zAz2dftx/czrYyDeu/115758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/vTb0Y59p/Channel-True-Premier-Football-HD2.png" group-title="LIGA PREMIER", True visions 2
+h#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC9FLq6m/beinsportsenglish1.png" group-title="LIGA PREMIER", BeIN English 1
+https://sport.bystreamtv.workers.dev/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#Jangan_di_curi_bos,_gua_udah_gak_punya_duit_untuk_bayar_servernya(ini_serius)
+#Mending_donasi_biar_servernya_bisa_jalan_terus_https://saweria.co/streambayu
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM7vwWz6/beinsportsenglish2.png" group-title="LIGA PREMIER", BeIN English 2
+https://sport.bystreamtv.workers.dev/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg150tbJ/beinsportsenglish3.png" group-title="LIGA PREMIER", BeIN English 3
+https://sport.bystreamtv.workers.dev/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENTttp://ptv.is/live/zAz2dftx/czrYyDeu/115762.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
