@@ -58,7 +58,10 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 
 #EXTINF:-1  group-title="BERITA",The Indonesian Chanel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/03.m3u8
-
+#EXTINF:-1 group-title="WORLD 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png",Astro Super Sport 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+#EXTINF:-1 group-title="WORLD 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png",Astro Super Sport 4K-1
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
 
 
 #EXTINF:-1  group-title="KIDS",Kidsflix
