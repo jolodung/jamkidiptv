@@ -27,6 +27,8 @@ https://sport.bystreamtv.workers.dev/lb/premium111/index.m3u8?|referer=https://w
 https://sport.bystreamtv.workers.dev/lb/premium112/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI Sports" tvg-logo="https://i.postimg.cc/wjQLznFT/tsn3.png" group-title="LIGA PREMIER", TSN 3
 https://sport.bystreamtv.workers.dev/lb/premium113/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/vmqnCRjF/mutv.png" group-title="LIGA PREMIER",MU TV
+https://bystream.my.id/sports/mutv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
