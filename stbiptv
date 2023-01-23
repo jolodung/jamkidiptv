@@ -21,16 +21,14 @@ http://superbits.tv:2095/d4Je5xwD/yadTXB63/141856
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/141845
 #EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/vmqnCRjF/mutv.png" group-title="LIGA PREMIER",MU TV
 https://bystream.my.id/sports/mutv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Optus 1 HD AU" tvg-logo="" group-title="LIGA PREMIER", Optus 1 HD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/350480
-#EXTINF:-1 tvg-id="" tvg-name="Optus 2 HD AU" tvg-logo="" group-title="LIGA PREMIER", Optus 2 HD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/350481
-#EXTINF:-1 tvg-id="" tvg-name="Optus 3 HD AU" tvg-logo="" group-title="LIGA PREMIER", Optus 3 HD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/350482
-#EXTINF:-1 tvg-id="" tvg-name="Optus 4  HD AU" tvg-logo="" group-title="LIGA PREMIER", Optus 4  HD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/350483
-#EXTINF:-1 tvg-id="" tvg-name="Optus 5  HD AU" tvg-logo="" group-title="LIGA PREMIER", Optus 5  HD 
-http://superbits.tv:2095/d4Je5xwD/yadTXB63/350484  
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="" group-title="LIGA PREMIER",ASTRO SUPERSPORTS 1 HD 
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/115615
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="" group-title="LIGA PREMIER",ASTRO SUPERSPORTS 2 HD 
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/115616
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="" group-title="LIGA PREMIER",ASTRO SUPERSPORTS 3 HD 
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/115617
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="LIGA PREMIER",ASTRO SUPERSPORTS 4 HD 
+http://superbits.tv:2095/d4Je5xwD/yadTXB63/115618 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
