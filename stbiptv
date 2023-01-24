@@ -105,8 +105,6 @@ https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Bein 1 ID" tvg-logo="http://live.fortunetv.me:25461/images/5a560adfe2da6b520e60022150e667d6.png" group-title="SPORT",Bein 1 ID
-http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/82.ts
 
 #EXTINF:-1  tvg-logo="" group-title="SPORT",BEIN Xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
