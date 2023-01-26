@@ -184,19 +184,19 @@ http://176.9.48.60:23055/play/a00t
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg" group-title="SPORT",TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="SPORT",SPOTV
+#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="SPORT",SPOTV 
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497720
 
 #EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="SPORT",SPOTV 2
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497721
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="SPORT",SPOTV
+#EXTINF:-1 group-title="SPORT",SPOTV mnc
 https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="SPORT",SPOTV 2
+#EXTINF:-1 group-title="SPORT",SPOTV 2 mnc
 https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Sport 1 HD IT" tvg-logo="" group-title="SPORT",DAZN Sport 1 HD 
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/50832
