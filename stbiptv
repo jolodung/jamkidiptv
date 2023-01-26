@@ -189,13 +189,15 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497720
 
 #EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="SPORT",SPOTV 2
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497721
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png" group-title="SPORT",SPOTV
-https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KVnxjrH/Spotv-2.png" group-title="SPORT",SPOTV 2
-https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="SPORT",SPOTV
+https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="SPORT",SPOTV 2
+https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Sport 1 HD IT" tvg-logo="" group-title="SPORT",DAZN Sport 1 HD 
 http://superbits.tv:2095/d4Je5xwD/yadTXB63/50832
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Sport 3 HD IT" tvg-logo="" group-title="SPORT",DAZN Sport 3 HD 
