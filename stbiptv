@@ -41,20 +41,7 @@ http://line5.protv.cc:80/Joao/1234567/923432
 http://line5.protv.cc:80/Joao/1234567/923431
 #EXTINF:-1 tvg-id="beIN_SPORTS3_ENGLISH" tvg-name="UK| BEIN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-3UHD.png" group-title=""LIVE EVENT", BEIN SPORTS 3 HD
 http://line5.protv.cc:80/Joao/1234567/923430
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 1 ) 
-http://golive.yn.lt/live/volleyball/01.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 2 ) 
-http://golive.yn.lt/live/volleyball/02.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 3 ) 
-http://golive.yn.lt/live/volleyball/03.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 4 ) 
-http://golive.yn.lt/live/volleyball/04.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 5 ) 
-http://golive.yn.lt/live/volleyball/05.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
