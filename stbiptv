@@ -581,20 +581,9 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",KR: OCN movies KR
-https://allanf181.github.io/adaptive-streams/streams/kr/OCN.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Playboy KR
-https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Midnight KR
-https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Playy Premium Movie KR
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYPremiumMovie.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies"tvg-id="" tvg-name="",Playy Action Movie KR
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
 
 
 
@@ -774,7 +763,7 @@ http://iptvtree.net:8080/4467299f/8b713e1a54/36535
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 group-title="FASHION" ,Beach TV
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+https://bit.ly/3RaKVLj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/8X9FDe3.png?v=1.0.0.1" group-title="FASHION" , Global Fashion Channel
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1"" group-title="FASHION" , Fashion TV Midnight Secrets
