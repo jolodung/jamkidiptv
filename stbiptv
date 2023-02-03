@@ -7,8 +7,8 @@ http://103.167.167.5:8111/play/a00r/index.m3u8
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE EVENT",INDOSIAR 2
 http://seduluran.xyz/Live/LOKAL/indosiar3.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/D70rSkE.png" ,Moji 
-https://gratis.broiptv.com/play/gratis-3@broiptv.com/25196769/C3hSfeFF/gerbil/206_gerbil/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/XY44RPp8/Channel-True-Premier-Football-HD1.png" group-title="LIVE EVENT", True visions 1
 http://ptv.is/live/zAz2dftx/czrYyDeu/115758.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/vTb0Y59p/Channel-True-Premier-Football-HD2.png" group-title="LIVE EVENT", True visions 2
@@ -74,7 +74,7 @@ http://103.167.167.5:8111/play/a00r/index.m3u8
 
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/D70rSkE.png" ,Moji O ch
-https://geocities.ws/ariev7xx/moji.m3u8
+http://tv.zonanime.my.id/vidio/ochannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Lokal",,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Lokal",,TRANS 7
