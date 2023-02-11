@@ -66,7 +66,7 @@ http://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
-http://rr2.dens.tv/s/s03/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1676089649~acl=/hls-b/ingest_204_*/*~hmac=93e6a3ac117a384c44dc36bdb072c6f82eb14060f3023e02093a027205926fcf/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
 https://geocities.ws/ariev7xx/sctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR
