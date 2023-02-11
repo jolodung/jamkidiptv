@@ -566,13 +566,6 @@ http://rr.dens.tv/h/h194/index.m3u8
 http://rr.dens.tv/h/h143/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="group-title="Movies" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/tvnmovies.png",TVN Movies Indonesia
 http://rr1.dens.tv/h/h21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fox Family Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3c80306dd7c7ecc095c9d4d21750f1b.png" group-title="Movies" fox Action
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
-#EXTINF:-1  tvg-id="" tvg-name="ID: Fox Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/c85ad235530bb281fd6f98305aabd244.png" group-title="Movies"  Fox Movies Action
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-
 
 
 ---------------------------------------------------------------------------------------KIDS-------------------------------------------------------------------------------------------------------
