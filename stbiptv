@@ -143,7 +143,7 @@ http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52861.ts
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
 
 #EXTINF:-1 xui-id="84" tvg-id="" tvg-name="Usee Sports 1" tvg-logo="https://live.fortunetv.me:443/images/f531eb745eea027e868e7b45b03792cd.png" group-title="SPORT",Usee Sports 1
-http://live.fortunetv.me:25461/PagiCeriaa/SeninGembira/84.ts
+https://beetv.my.id/x/usee-useesport-masihsama.m3u8
 #EXTINF:-1 xui-id="85" tvg-id="" tvg-name="Usee Sports 2" tvg-logo="https://live.fortunetv.me:443/images/734ec83e2d946f5f763d9ebfcebb2997.png" group-title="SPORT",Usee Sports 2
 http://pprotv.com:80/live/20042004/20202020/39555.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
