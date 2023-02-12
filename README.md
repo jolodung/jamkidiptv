@@ -1647,4 +1647,107 @@ http://vod3.freeddns.org:80/195181164146/BangBusAlexisAndrews.mp4
 http://vod3.freeddns.org:80/1492028071/BangBusAlly.mp4
 #EXTINF:-1,XXX - BangBus Alyssa Cole - Bang Bus to The Rescue (22.06.2016)			
 http://vod3.freeddns.org:80/1492026922/BagA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO
+http://p23.miami:80/live/Rp0808337/Bk20305060/181512.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 1" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 1
+http://p23.miami:80/live/Rp0808337/Bk20305060/181541.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 10" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 10
+http://p23.miami:80/live/Rp0808337/Bk20305060/181535.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 2" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 2
+http://p23.miami:80/live/Rp0808337/Bk20305060/181545.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 3" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 3
+http://p23.miami:80/live/Rp0808337/Bk20305060/181543.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 4" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 4
+http://p23.miami:80/live/Rp0808337/Bk20305060/181542.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 5" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 5
+http://p23.miami:80/live/Rp0808337/Bk20305060/181540.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 6" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 6
+http://p23.miami:80/live/Rp0808337/Bk20305060/181539.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 7" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 7
+http://p23.miami:80/live/Rp0808337/Bk20305060/181538.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 8" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 8
+http://p23.miami:80/live/Rp0808337/Bk20305060/181537.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO 9" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX ADULTO 9
+http://p23.miami:80/live/Rp0808337/Bk20305060/181536.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BLUE HUSTLER" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BLUE HUSTLER
+http://p23.miami:80/live/Rp0808337/Bk20305060/181511.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS
+http://p23.miami:80/live/Rp0808337/Bk20305060/181532.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: AMIGAS DA MINHA IRMA" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: AMIGAS DA MINHA IRMA
+http://p23.miami:80/live/Rp0808337/Bk20305060/181533.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: ASSIM VC ME MATA" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: ASSIM VC ME MATA
+http://p23.miami:80/live/Rp0808337/Bk20305060/181520.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: BABANDO DE TESAO" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: BABANDO DE TESAO
+http://p23.miami:80/live/Rp0808337/Bk20305060/181518.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: BIG MACK" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: BIG MACK
+http://p23.miami:80/live/Rp0808337/Bk20305060/181530.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: CLUBE PRIVE" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: CLUBE PRIVE
+http://p23.miami:80/live/Rp0808337/Bk20305060/181534.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: DEPOIS DOS 40" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: DEPOIS DOS 40
+http://p23.miami:80/live/Rp0808337/Bk20305060/181521.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER
+http://p23.miami:80/live/Rp0808337/Bk20305060/181531.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRASILEIRINHAS: FAZENDO SACANAGEM" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRASILEIRINHAS: FAZENDO SACANAGEM
+http://p23.miami:80/live/Rp0808337/Bk20305060/181519.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX BRAZZERS EUROPE" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX BRAZZERS EUROPE
+http://p23.miami:80/live/Rp0808337/Bk20305060/181522.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX CANDY" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX CANDY
+http://p23.miami:80/live/Rp0808337/Bk20305060/181517.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX CENTOXCENTO" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX CENTOXCENTO
+http://p23.miami:80/live/Rp0808337/Bk20305060/181514.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Century" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Century
+http://p23.miami:80/live/Rp0808337/Bk20305060/182182.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Century 2" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Century 2
+http://p23.miami:80/live/Rp0808337/Bk20305060/182183.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Century 3" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Century 3
+http://p23.miami:80/live/Rp0808337/Bk20305060/182184.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Century 4" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Century 4
+http://p23.miami:80/live/Rp0808337/Bk20305060/182186.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Century 5" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Century 5
+http://p23.miami:80/live/Rp0808337/Bk20305060/182185.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Century 6" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Century 6
+http://p23.miami:80/live/Rp0808337/Bk20305060/182187.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Century 7" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Century 7
+http://p23.miami:80/live/Rp0808337/Bk20305060/182188.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Century 8" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Century 8
+http://p23.miami:80/live/Rp0808337/Bk20305060/182189.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX DORCEL TV" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX DORCEL TV
+http://p23.miami:80/live/Rp0808337/Bk20305060/181513.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Jasmin tv HD²" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Jasmin tv HD²
+http://p23.miami:80/live/Rp0808337/Bk20305060/182191.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX Milf channel" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX Milf channel
+http://p23.miami:80/live/Rp0808337/Bk20305060/182190.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX PASSION" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX PASSION
+http://p23.miami:80/live/Rp0808337/Bk20305060/181544.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX PENTHOUSE QUICKIES" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX PENTHOUSE QUICKIES
+http://p23.miami:80/live/Rp0808337/Bk20305060/181546.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX PINK-O" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX PINK-O
+http://p23.miami:80/live/Rp0808337/Bk20305060/181515.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX PLAYBOY HD" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX PLAYBOY HD
+http://p23.miami:80/live/Rp0808337/Bk20305060/181547.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX PRIVATE HD" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX PRIVATE HD
+http://p23.miami:80/live/Rp0808337/Bk20305060/181529.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX REDLIGHT" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX REDLIGHT
+http://p23.miami:80/live/Rp0808337/Bk20305060/181528.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX RUSNOCH" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX RUSNOCH
+http://p23.miami:80/live/Rp0808337/Bk20305060/181527.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SCT" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX SCT
+http://p23.miami:80/live/Rp0808337/Bk20305060/181516.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SEXT6SENSO" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX SEXT6SENSO
+http://p23.miami:80/live/Rp0808337/Bk20305060/181526.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX SEXTREME" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX SEXTREME
+http://p23.miami:80/live/Rp0808337/Bk20305060/181525.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX VENUS" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX VENUS
+http://p23.miami:80/live/Rp0808337/Bk20305060/181524.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX VIVID RED" tvg-logo="https://i.imgur.com/MV8Lfht.jpg" group-title="Canais | Adultos",XXX VIVID RED
+http://p23.miami:80/live/Rp0808337/Bk20305060/181523.ts
+
+
+
+
+
+
+
+
+
 
