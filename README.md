@@ -287,7 +287,7 @@ http://202.147.204.114/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORTS",Soccer Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://202.147.204.114/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="SPORTS" tvg-logo="http://magott.net:80/images/fea5ba992444812ee6103f4fd938582b.png",BeINSport ENGLISH 1 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/53
