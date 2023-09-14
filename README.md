@@ -1788,7 +1788,9 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165108
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
  
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="MUSIK", Song TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/169020
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDqEmrrlNiz0mVVIYLNs-zMqHYbn-kxuisg&usqp=CAU" group-title="MUSIK", Dens ShowBiz
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
@@ -1802,7 +1804,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u
  
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="MUSIK", Pop Nagaswara
-http://jakarta.nagaswarafm.com:8100/stream
+[http://jakarta.nagaswarafm.com:8100/stream](https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8)
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="MUSIK", Nagaswara Dangdut
 http://jakarta.nagaswarafm.com:8200/stream
@@ -1811,7 +1813,7 @@ http://jakarta.nagaswarafm.com:8200/stream
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w7674435128_b2028000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3VqOU-MabtqrjU9HDw2ZEH43I6WkKRixyRg&usqp=CAU" group-title="MUSIK", Retro Music
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
  -----------------------------------------LIFE STYLE-------------------------------------------------------------------
 
  
