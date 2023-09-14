@@ -1337,7 +1337,7 @@ http://51.210.199.18/hls/stream.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASTRO",TV OKEY
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303975 
-#EXTINF:-1 tvg-id="" tvg-name="TVIKIM" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png" group-title="ASTRO",CERIA
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png" group-title="ASTRO",CERIA
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157481
  
 #EXTINF:-1 tvg-id="TV1" ch-number="102" tvg-name="TV1" radio="false" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
