@@ -111,11 +111,11 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&exten
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59mMYtsc/mls-logo.png" group-title="LIVE EVENT",LIVE ONLY 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 2
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59mMYtsc/mls-logo.png" group-title="LIVE EVENT", LIVE ONLY 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
 http://942167728957585369.of090823.xyz:80/play/fe86355/qVmQ6PPBb@76/585369.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59mMYtsc/mls-logo.png" group-title="LIVE EVENT", LIVE ONLY 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 4
 http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 5
