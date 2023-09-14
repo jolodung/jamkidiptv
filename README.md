@@ -109,11 +109,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&exten
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn
 
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCxScxPk/AFC-U-23-Asian-Cup-logo.png" group-title="LIVE EVENT",LIVE INDONESIA VS TURKMENISTAN
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCxScxPk/AFC-U-23-Asian-Cup-logo.png" group-title="LIVE EVENT", LIVE INDONESIA VS TURKMENISTAN *
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59mMYtsc/mls-logo.png" group-title="LIVE EVENT",LIVE ONLY 2
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
