@@ -743,7 +743,8 @@ http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3246.ts
 
  
 ----------------------------------------------------MOVIES-------------------------------------------------------------------
-
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.postimg.cc/wTgGGfhr/HBO.jpg" group-title="MOVIES", HBO fhd
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT2oT3aJVr0-0TfxhZyHHWiQ/ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbop.openwindow040.workers.dev
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
@@ -771,8 +772,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
  
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN: SONY PIX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="MOVIES", SONY PIX HD
 http://humiptv.live:8080/live/0192838773/9948381838/147.ts
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="http://postimg.cc/hztvbVJZ" group-title="MOVIES", HBO
-http://sysadminhost.net:8080/stadnik/6a627b52a9/197972
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO Hits" tvg-logo="https://i.postimg.cc/k4cx8czc/HBO-HITS.jpg" group-title="MOVIES",HBO Hits
 http://sysadminhost.net:8080/stadnik/6a627b52a9/196480
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="http://postimg.cc/hztvbVJZ" group-title="MOVIES", HBO FAMILY
