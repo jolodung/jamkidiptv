@@ -683,23 +683,23 @@ http://zeintv.xyz:8080/moha/2020/129167
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 4
 http://zeintv.xyz:8080/moha/2020/203309
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 5
-http://clubtv.live:80/Morotv/QEQktg4Rkn/5729
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3245.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 6
 http://zeintv.xyz:8080/moha/2020/129165
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 7
-http://clubtv.live:80/Morotv/QEQktg4Rkn/5727
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49383.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Low
 http://new-pro.tv:8080/99622282/etbVXafU6f/381749
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 1 HD
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143060.ts
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/1.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 FHD
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143061.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Premium 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143063.ts
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/48878.ts
+#EXTIhttp://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3246.tsNF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Premium 3
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143064.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 3
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57803_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 4
@@ -707,9 +707,9 @@ http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57806_&extens
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 SD
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57734_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Premium 2 Low
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143059.ts
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/54473.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 3 HD
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/143062.ts
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2
@@ -730,49 +730,16 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/165105
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298506
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" , BEIN 1 HD
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/4468.ts
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/54470.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", BEIN 2 HD
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/4469.ts
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/54469.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", BEIN 3 HD
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/4470.ts
+http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3246.ts
 
  
  
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 4 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/154701
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 4 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/33699
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 4 4K
-http://new-pro.tv:8080/99622282/etbVXafU6f/66108
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 4 SD
-http://new-pro.tv:8080/99622282/etbVXafU6f/33681
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 5 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/154702
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" ,BeIN Sports 5 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/33698
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" ,BeIN Sports 5 4K
-http://new-pro.tv:8080/99622282/etbVXafU6f/66109
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 5 SD
-http://new-pro.tv:8080/99622282/etbVXafU6f/33680
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" ,BeIN Sports 6 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/154703
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 6 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/33697
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 6 4K
-http://new-pro.tv:8080/99622282/etbVXafU6f/66110
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 6 SD
-http://new-pro.tv:8080/99622282/etbVXafU6f/33679
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 7 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/154704
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 7 4K
-http://new-pro.tv:8080/99622282/etbVXafU6f/66102
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 7 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/33696
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 7 SD
-http://new-pro.tv:8080/99622282/etbVXafU6f/33678
- 
- 
+
  
  
  
