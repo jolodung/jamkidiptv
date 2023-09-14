@@ -250,7 +250,7 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 4
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/756
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298577
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298577
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298578
