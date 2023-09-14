@@ -1775,10 +1775,7 @@ http://5.255.90.238:5002/play/a00w/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREO9IBFHrUrcw-d6ay59hzoCuZtZ2iGaIivw&usqp=CAU" group-title="KNOWLEDGE", Arirang Korea
 http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
- 
- 
- 
- 
+ ----------------------------------------------------------musik-------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIK", Musik Indonesia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165108
  
@@ -1786,7 +1783,9 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165108
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
- 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NLgzmN6/DANGDUT.png" group-title="MUSIK",DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="MUSIK", Song TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1813,7 +1812,7 @@ http://jakarta.nagaswarafm.com:8200/stream
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w7674435128_b2028000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3VqOU-MabtqrjU9HDw2ZEH43I6WkKRixyRg&usqp=CAU" group-title="MUSIK", Retro Music
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
  -----------------------------------------LIFE STYLE-------------------------------------------------------------------
 
  
