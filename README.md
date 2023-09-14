@@ -112,7 +112,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&exten
 
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 2
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6686_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6686/primary/720p/v-720p-1694661541_69666000.m4s
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
 http://942167728957585369.of090823.xyz:80/play/fe86355/qVmQ6PPBb@76/585369.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 4
