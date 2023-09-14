@@ -1780,13 +1780,15 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u
  
  
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIK", Musik Indonesia
-https://cdnjkthw.transvision.co.id/live/master/2/4028c685730a4243017317dee5df1572/manifest.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165108
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png" group-title="MUSIK", Music TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
  
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="MUSIK", Song TV
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560acf62436a/manifest.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/169020
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDqEmrrlNiz0mVVIYLNs-zMqHYbn-kxuisg&usqp=CAU" group-title="MUSIK", Dens ShowBiz
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
@@ -1810,6 +1812,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76744351
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3VqOU-MabtqrjU9HDw2ZEH43I6WkKRixyRg&usqp=CAU" group-title="MUSIK", Retro Music
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ -----------------------------------------LIFE STYLE-------------------------------------------------------------------
+
  
 logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be292d655725/38d70128854b459b87ca947e19c982f8.png" group-title="LIFESTYLE", ATV
 https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
