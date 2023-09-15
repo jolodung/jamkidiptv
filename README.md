@@ -114,9 +114,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&exten
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE HONGKONG OPEN BWF
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT35l1s9_VnRFmryv93YL0vo/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6685_stream.mpd
+https://179720687.global.cdnfastest.com/live/sd-y39mp1hz5kvvmoj/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 4
-http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
+https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwdolxql0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 5
 https://etslive-2-vidio-com.akamaized.net/exp=1694517236~acl=/hls-p/ingest_6685_*/*~hmac=2deaf16a0ffe62b5c2fb9eef27595898e06b577a25f107e6ff0e363636f59e42/hls-p/ingest_6685_720p/index.m3u8
