@@ -53,9 +53,9 @@ http://starshare.live:8080/live/Agness/Agness/98868.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 3
 http://103.162.136.103:25461/live/FAH/fah/123.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 4
-http://magott.net:80/okota380/RvPBwTrjvRPM/53
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162591
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162592
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 6
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE​ 7
