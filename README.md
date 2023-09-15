@@ -1832,23 +1832,16 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
  -----------------------------------------LIFE STYLE-------------------------------------------------------------------
 
  
-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be292d655725/38d70128854b459b87ca947e19c982f8.png" group-title="LIFESTYLE", ATV
-https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
- 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be292d655725/38d70128854b459b87ca947e19c982f8.png" group-title="LIFESTYLE", Antara TV
-https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
+
  
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIFESTYLE", Dens Lifestyle
 http://210.210.155.37/x6bnqe/s/s65/index2.m3u8
  
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be292d655725/38d70128854b459b87ca947e19c982f8.png" group-title="LIFESTYLE", INSERT
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+
  
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6c3a722be5/c57094c5b4b24827ae82a64e01841bc8.jpg" group-title="LIFESTYLE", Gossip
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.m3u8
+
  
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2b660c5727/7f71d84d3d754fd98b8439ab612092b8.jpg" group-title="LIFESTYLE", Seru Channel
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" group-title="LIFESTYLE", Fashion TV
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
