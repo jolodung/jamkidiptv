@@ -235,10 +235,24 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df935
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8ZrVdbN/cnn.png" group-title="NASIONAL", CNN Indonesia*
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.m3u8
+---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/qvwF5yXg/pptvhd.png" group-title="ASIAN GAMES",PPTV HD
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281639
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/pXpyTJyM/true4u.png" group-title="ASIAN GAMES",TRUE4U 
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/54319
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/sfBvfJMd/nbt.png" group-title="ASIAN GAMES",NBT
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23886
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/rsWV1Q4D/thai-tv.png" group-title="ASIAN GAMES",THAI TV5
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162537
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/qq8rhgfn/thairat.png" group-title="ASIAN GAMES",THAIRAT TV
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23909
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/BbJYpvL2/workpoint.png" group-title="ASIAN GAMES",WORK POINT
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23405
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fbxfPNhC/gmm.jpg" group-title="ASIAN GAMES",GMM25
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146729
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/vZ5nYtSH/bbtv.jpg" group-title="ASIAN GAMES",BBTV
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23853
 
- 
- 
- 
 ---------------------------------------------SPORT-----------------------------------------------------------
  
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 1
