@@ -209,7 +209,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ07ts06/NET-TV1.png" group-title="NASIONAL", NET. HD
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ07ts06/NET-TV1.png" group-title="NASIONAL", NET. HD
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/80292
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
