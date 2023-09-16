@@ -201,13 +201,9 @@ http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq8GYBBG/rtv.jpg" group-title="NASIONAL", RTV
 https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq8GYBBG/rtv.jpg" group-title="NASIONAL", RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ07ts06/NET-TV1.png" group-title="NASIONAL", NET. HD
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://nonton.site:8443/live/ekos/7483/24.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ07ts06/NET-TV1.png" group-title="NASIONAL", NET. HD
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/80292
  
