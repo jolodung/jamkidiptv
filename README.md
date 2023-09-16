@@ -1924,7 +1924,30 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u
  ----------------------------------------------------------musik-------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIK", Musik Indonesia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165108
- 
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Biarku Sendiri
+https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Cucak Rowo
+https://m.vidio.com/videos/2239073/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Relaku Mengalah
+https://m.vidio.com/videos/7268899/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Vita Alfia
+https://m.vidio.com/videos/7175171/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Kau Tercipta
+https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Cinta Tak Memilih
+https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Kangen Dangdut
+https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Jangan Marah
+https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Hanyut Dalam Kecewa
+https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Rindu
+https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Mungkinkah
+https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Hanya Kamu yang Bisa
+https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png" group-title="MUSIK", Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
