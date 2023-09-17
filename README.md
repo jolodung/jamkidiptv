@@ -52,7 +52,7 @@ http://starshare.live:8080/live/Agness/Agness/98867.ts
 http://starshare.live:8080/live/Agness/Agness/98868.ts
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 3
-http://103.162.136.103:25461/live/FAH/fah/123.m3u8
+https://stream.live12.ir/hls2/persiana.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 4
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162591
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 5
