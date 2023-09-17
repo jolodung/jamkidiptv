@@ -62,7 +62,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extens
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE​ 7
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1327365&extension=ts&play_token=lwAilS7Izs
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 8
-http://magott.net:80/okota380/RvPBwTrjvRPM/45
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110622&extension=ts&play_token=BrD8bb6Q6I
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="LIGA EROPA",LA LIGA 1
 http://starshare.live:8080/live/Agness/Agness/6625.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="LIGA EROPA"​,LA LIGA 2
@@ -72,10 +72,10 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 2
-
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692383&extension=ts&play_token=SdRCQMYhc7
  
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 3
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/19042/index.m3u8
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692322&extension=ts&play_token=j0EcaqQhY1
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
@@ -109,7 +109,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&exten
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn
 #EXTINF:-1 tvg-ID="" tvg-name="APPLE+ 1 PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 1 
-http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/378690
+ttp://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1316356&extension=ts&play_token=gRGVioq3N9
 #EXTINF:-1 tvg-ID="" tvg-name=" APPLE+ 2 PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 2 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/378691
 #EXTINF:-1 tvg-ID="" tvg-name=" APPLE+ 3 PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 3 
