@@ -111,8 +111,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&exten
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE HONGKONG OPEN BWF
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT35l1s9_VnRFmryv93YL0vo/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ORLANDO VS CLB
+http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/378691
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
 https://179720687.global.cdnfastest.com/live/sd-y39mp1hz5kvvmoj/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 4
