@@ -140,11 +140,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1694517236~acl=/hls-p/ingest_6685_
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ONLY 6
 https://etslive-2-vidio-com.akamaized.net/exp=1694519162~acl=/hls-p/ingest_6686_*/*~hmac=49f9dc4ea6e5b626d559564b3ba817ed9c1db53832702bd0a9d567cd29427f4e/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE PHIPILPINA VS AFGANISTAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 7
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h71yzzqdy/chunklist_w1503880330.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE KOREA VS MYANMAR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 8
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE SINGAPURA VS CHNA TAIPE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ONLY 9
 https://179720687.global.cdnfastest.com/live/sd-23xmvkh8oo9wqg8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 10
 https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
