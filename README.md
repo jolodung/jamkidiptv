@@ -335,13 +335,12 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/157557
 http://kuchini.site:8080/dooby1312/b244f7ab/157558
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="SPORTS", ASTRO SUPER SPORT 5
 http://kuchini.site:8080/dooby1312/b244f7ab/287792
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02gqtCxD/true-sport-hd.png" group-title="SPORTS", TRUE SPORT 1
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115531_&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzTt2TXD/A-SPORT.png" group-title="SPORTS", A SPORT
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=281100&extension=ts&play_token=SNFibxjSSv   
  
-#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/259snQ2q/TRUE-2.png" ,TRUE SPORTS 2
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115533_&extension=ts
-#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/W3QxH2RT/TRUE-3.png" ,TRUE SPORTS 3
-http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115537_&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/hGVShNJV/Sports18.png" ,18 SPORT
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1057243&extension=ts&play_token=hD9xbee4BC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​,Arena Sport 1 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/116136
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​,Arena Sport 2 HD
