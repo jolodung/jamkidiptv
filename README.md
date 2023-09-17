@@ -101,7 +101,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&exten
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=qBeBPHlYKO
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032469&extension=ts&play_token=WZ8jVxGqCR
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=317021&extension=ts&play_token=WzEiY89Z7Q
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&extension=ts&play_token=rNx65mVDBT
