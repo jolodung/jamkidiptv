@@ -135,10 +135,10 @@ http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 2
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2ekOXYaxz4AQ7bkY4QS-Po47oeyYgrZRtbXJ-79Id3df46_DXiwR38UD-gGjAnUVYw-KbYDz5SPo3qWHhNUGLNOh2t3sHmt5RZc5LgMoRgKJXo-sYx22sDEX6m74FmAUTyV0KgcdEI2LrkHqjplFIHtIHJ8YwT6FEFw5fL_J38NBpaoxIFyP7lsRjmdaCqxs4nMBZJR5nvYALuzhsvi6SYXfSOIPKzQIalzJrukiHocBxetJ-bWwjSPD8-chjFvUlw.m3u8?u=1695020099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
-https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwdolxql0/playlist.m3u8
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2frIWvTJgvlI3TqRfC6GlLLCf_pKWLTnQvK2Lim1t8FDwYqzkm_X8MOjny7-qwd9feMpwLlMVZVqo_RGFLabt0F95XAgGpmZnivagXEbMqtGbh8x6K8tXO2j-vH0I_YXmr4VqskrzCEGFVZxEN4ul7GmGMaS55c8argDP3nM3khn-CpqrLKArZswRbCdMwDZn2kfQ8OWLuhh0ENu3bKZErCNPOguBIiPQgiQRsDQgfajiccgD3aPuBK4xnmUrrX0Dw.m3u8?u=1695020099
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 5
-https://etslive-2-vidio-com.akamaized.net/exp=1694517236~acl=/hls-p/ingest_6685_*/*~hmac=2deaf16a0ffe62b5c2fb9eef27595898e06b577a25f107e6ff0e363636f59e42/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 4
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2XUZvXv4Z_9XxYi6NnkyPisGz8rP4qIonnCrUx07liMiIO25BUse6aUE0bTQNefpOo4AcadsKBKXbQrs3v2TnV33bQap_sejeT0kWen7MLFYRUVGlGSr_GTwNL4YMOZGVg7acl2yPw2fVhDoxblEyoUrSL8RV9yAkK55ftKNhlAEcqjxgAYDOs-pr4T5_ognAnQZ7z6GHyoX7bI2qrJNWsrSClAWL4YVxx6Qz4gOXdPphEFZrlWx4jT_ukksh4B3Aw.m3u8?u=1695020099
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ONLY 6
 https://etslive-2-vidio-com.akamaized.net/exp=1694519162~acl=/hls-p/ingest_6686_*/*~hmac=49f9dc4ea6e5b626d559564b3ba817ed9c1db53832702bd0a9d567cd29427f4e/hls-p/ingest_6686_720p/index.m3u8
