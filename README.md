@@ -108,15 +108,16 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&exten
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn
+
 #EXTINF:-1 tvg-ID="" tvg-name="APPLE+ 1 PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 1 
-ttp://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1316356&extension=ts&play_token=gRGVioq3N9
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1316356&extension=ts&play_token=gRGVioq3N9
 #EXTINF:-1 tvg-ID="" tvg-name=" APPLE+ 2 PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 2 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/378691
 #EXTINF:-1 tvg-ID="" tvg-name=" APPLE+ 3 PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 3 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/378692
 #EXTINF:-1 tvg-ID="" tvg-name=" APPLE+ 4PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 4
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/378693
-#EXTINF:-1 tvg-ID="" tvg-name=" APPLE+ 4PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 4
+#EXTINF:-1 tvg-ID="" tvg-name=" APPLE+ 4PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 5
 http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 
 
