@@ -717,9 +717,17 @@ http://4k.boxip.org:8080/698018479252002/2063753535/110746.ts
 http://4k.boxip.org:8080/698018479252002/2063753535/110747.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beiN SP⚽️RTS 3 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110748.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Low
-http://new-pro.tv:8080/99622282/etbVXafU6f/381749
- 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SP⚽️RTS 1 UHD
+http://4k.boxip.org:8080/698018479252002/2063753535/106636.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SP⚽️RTS 2 UHD
+http://4k.boxip.org:8080/698018479252002/2063753535/106637.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SPORTS 3 UHD
+http://4k.boxip.org:8080/698018479252002/2063753535/106638.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SPORTS 4 UHD
+http://4k.boxip.org:8080/698018479252002/2063753535/106639.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SPORTS 5 UHD
+http://4k.boxip.org:8080/698018479252002/2063753535/106640.ts 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 1 HD
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/1.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 FHD
