@@ -10,7 +10,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/k4DT2g5C/Channel-Jowo.png" group-title="FREE FOR WATCH",Jowo Channel
 http://tvkuonline.my.id:25461/riyad/riyad/421
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="LIVE EVENT",PRO LIGA
-http://103.166.27.2:800/play/a017
+http://smartv.pro:80/live/828282/484848/39531.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="LIVE EVENT",VOLLY
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="LIVE EVENT",BRI LIGA1
@@ -131,7 +131,7 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2XUZvXv4Z_9XxYi6NnkyPisGz8rP4qIonnCrUx07liMiIO25BUse6aUE0bTQNefpOo4AcadsKBKXbQrs3v2TnV33bQap_sejeT0kWen7MLFYRUVGlGSr_GTwNL4YMOZGVg7acl2yPw2fVhDoxblEyoUrSL8RV9yAkK55ftKNhlAEcqjxgAYDOs-pr4T5_ognAnQZ7z6GHyoX7bI2qrJNWsrSClAWL4YVxx6Qz4gOXdPphEFZrlWx4jT_ukksh4B3Aw.m3u8?u=1695020099
+https://etslive-2-vidio-com.akamaized.net/exp=1695043394~acl=/hls-p/ingest_206_*/*~hmac=ea4ad740953ab5aa5fb4d78d293fbc41d31b82e11e300a94eb218c98f10fa59d/hls-p/ingest_206_720p/1695029015000.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 2
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2ekOXYaxz4AQ7bkY4QS-Po47oeyYgrZRtbXJ-79Id3df46_DXiwR38UD-gGjAnUVYw-KbYDz5SPo3qWHhNUGLNOh2t3sHmt5RZc5LgMoRgKJXo-sYx22sDEX6m74FmAUTyV0KgcdEI2LrkHqjplFIHtIHJ8YwT6FEFw5fL_J38NBpaoxIFyP7lsRjmdaCqxs4nMBZJR5nvYALuzhsvi6SYXfSOIPKzQIalzJrukiHocBxetJ-bWwjSPD8-chjFvUlw.m3u8?u=1695020099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
