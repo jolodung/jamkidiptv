@@ -27,11 +27,11 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/69380
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="LIVE EVENT",MOTO GP 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:0 tvg-id="SPOTV2.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png" group-title="LIVE EVENT",SPOTV2
+#EXTINF:0 tvg-id="SPOTV2.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png" group-title="LIVE EVENT",MOTO GP 3
 http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="LIVE EVENT",MOTO GP 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="LIVE EVENT",MOTO GP 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
+#EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="LIVE EVENT",MOTO GP 5
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=507710&extension=ts&play_token=Sz8tR5qbs6 canal.sport 
  
  
