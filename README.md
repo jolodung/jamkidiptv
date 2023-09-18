@@ -160,28 +160,15 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 --------------------------------------------------LOKAL--------------------------------------------------------------------------
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="NASIONAL", MNCTV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/165054
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/157591
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD 2
 http://sysadminhost.net:8080/stadnik/6a627b52a9/157591
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="NASIONAL", GTV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTtkH4sq/INews1.png" group-title="NASIONAL", iNews
-https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTtkH4sq/INews1.png" group-title="NASIONAL", iNews 2
-http://iptvtree.net:8080/05add9be/df28c0b5be/157579
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/157578
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTtkH4sq/INews1.png" group-title="NASIONAL", iNews 
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/157579
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="NASIONAL", Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="NASIONAL", Indosiar
