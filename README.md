@@ -132,8 +132,8 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2XUZvXv4Z_9XxYi6NnkyPisGz8rP4qIonnCrUx07liMiIO25BUse6aUE0bTQNefpOo4AcadsKBKXbQrs3v2TnV33bQap_sejeT0kWen7MLFYRUVGlGSr_GTwNL4YMOZGVg7acl2yPw2fVhDoxblEyoUrSL8RV9yAkK55ftKNhlAEcqjxgAYDOs-pr4T5_ognAnQZ7z6GHyoX7bI2qrJNWsrSClAWL4YVxx6Qz4gOXdPphEFZrlWx4jT_ukksh4B3Aw.m3u8?u=1695020099
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
-https://179720687.global.cdnfastest.com/live/sd-y39mp1hz5kvvmoj/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 2
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2ekOXYaxz4AQ7bkY4QS-Po47oeyYgrZRtbXJ-79Id3df46_DXiwR38UD-gGjAnUVYw-KbYDz5SPo3qWHhNUGLNOh2t3sHmt5RZc5LgMoRgKJXo-sYx22sDEX6m74FmAUTyV0KgcdEI2LrkHqjplFIHtIHJ8YwT6FEFw5fL_J38NBpaoxIFyP7lsRjmdaCqxs4nMBZJR5nvYALuzhsvi6SYXfSOIPKzQIalzJrukiHocBxetJ-bWwjSPD8-chjFvUlw.m3u8?u=1695020099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 4
 https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwdolxql0/playlist.m3u8
 
