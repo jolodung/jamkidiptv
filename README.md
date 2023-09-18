@@ -31,8 +31,8 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/69380
 http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="LIVE EVENT",MOTO GP 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
- 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="LIVE EVENT",MOTO GP 4
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=507710&extension=ts&play_token=Sz8tR5qbs6 canal.sport 
  
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg" group-title="LIVE EVENT"​, BWF 1
@@ -280,17 +280,12 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/756
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298577
- 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298578
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298578 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvNCzk0j/spotv.png" group-title="SPORTS", SPOTV
 https://anv-live-cdn-118.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jtbTG3r/spotv2.png" group-title="SPORTS", SPOTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -337,8 +332,7 @@ http://kuchini.site:8080/dooby1312/b244f7ab/157558
 http://kuchini.site:8080/dooby1312/b244f7ab/287792
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzTt2TXD/A-SPORT.png" group-title="SPORTS", A SPORT
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=281100&extension=ts&play_token=SNFibxjSSv   
- 
-#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/hGVShNJV/Sports18.png" ,18 SPORT
+#EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/hGVShNJV/Sports18.png",18 SPORT
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1057243&extension=ts&play_token=hD9xbee4BC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​,Arena Sport 1 HD
