@@ -711,7 +711,12 @@ http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3245.ts
 http://zeintv.xyz:8080/moha/2020/129165
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 7
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49383.ts
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beiN SP⚽️RTS 1 ENGLISH 4K
+http://4k.boxip.org:8080/698018479252002/2063753535/110746.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beiN SP⚽️RTS 2 ENGLISH 4K
+http://4k.boxip.org:8080/698018479252002/2063753535/110747.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beiN SP⚽️RTS 3 ENGLISH 4K
+http://4k.boxip.org:8080/698018479252002/2063753535/110748.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Low
 http://new-pro.tv:8080/99622282/etbVXafU6f/381749
  
