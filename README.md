@@ -13,7 +13,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/421
 http://smartv.pro:80/live/828282/484848/39531.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="LIVE EVENT",VOLLY
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
-#EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="LIVE EVENT",BRI LIGA1
+#EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="LIVE EVENT",BRI LIGA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 http://202.147.204.114/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
