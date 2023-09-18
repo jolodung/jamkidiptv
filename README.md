@@ -20,7 +20,7 @@ http://202.147.204.114/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="LIVE EVENT",BRI LIGA
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/162138
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="LIVE EVENT",BRI LIGA 1
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162138
+http://69.30.219.195:8060/hls/R_AiJYCAJ3vP3-To6HhX3uZneD8dgL7DVLnwZhsHw_jRlG8DMG2r8tLgizR0qwjwZP4QoxGza6AaoLIra7mJSH9OhhmQXGkTtqa7BehRzAn8-nAGpeKtEdaQru5JxsgPP0miSYuXg86DoMHQf7VTsHn-MSp1W3KYHJSIiq2jROGCeZhT0i1Z-sCmTM8n9NmyBShZ0GbTVJBRisWjlg_Lq12XX_WPE3ObzKIMPULsxmgVYZ06K49j5kFikCwEY5XJ77C_OHZaj3b84H3yC05RiwiBi9mojZjbdeNT1pXBjrGF14LzuxO6JkFdPIbDW2y8kFdfqM-9kzgJ-SKSGJajAqS9tdl-nuTDtyfQFp9KtnxTTRLPBQrezWh2C8QkIw9FdMC7bz9krZ66fhHFNF2K71AQxuYD5goi6dLtKuruarL0nqQhdaQF5Ef_Tf63uBYnMwtt-wai_oLMZaX3lDFhug.ts
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="LIVE EVENT",MOTO GP 1
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/69380
@@ -161,10 +161,16 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="NASIONAL", MNCTV HD
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/165054
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="NASIONAL", MNCTV HD
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2YcK31-rlxN_Pl_-ovm-Q2185gpb-gL2tLEYTbmy2K9Hp2L9KSbQ31Rusaa9uT3PoBBactSkswqYG7-W-N7T3EjP2pwxOLNv4OuP95m8zFcHFVIEjxX8NICWydQbzOtV6IPUHu95AkUzmcsTKbn8H7MuGGgEI2256Ieudb5xfywom6HSj-656CK-9aXpdUOeFJ3dtyPcR6fhl1PcBV5K2ywFeIs1oBIwzq_Uvsr8RKne1JkiLXeiIPqoC27x5gBv5w.m3u8?u=1695002902
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2WeJXPqQ06C3-1-W2UTGCB9q69VSO6OGGsQI1MPAYFiSarRRTQkgwZcGsvBT9fwBSPPsNFX3Hx-jdtMukJN58L4Q2HCTEhD7f1XYg5oSCAZJFdD_nFjbHlpIqwKyJRqw_0hRH7Fo8zNJweXYDq-wgOaxZ85xWLS-KQUFk7hw0AMf7XcYnIKJY25YCjK_lU6AJdLWzVBoCEjoXTOWpIrFr_H4NtqZW0mk4I32O0UlyejbQPdhSaugk9uh-AL2BPMwmA.m3u8?u=1695004827
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/157591
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD 2
 http://sysadminhost.net:8080/stadnik/6a627b52a9/157591
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="NASIONAL", GTV HD
+http://31.40.216.56:61980/hls/live.m3u8?token=c_KGmDh9atbhofsCmBJNYjwUpZEj2yeMTNDB4Ap8C__WK9ZfqDd0LqE1Q3jzMcg94LREekHcj-EWxLarTbAwTZ24TN0jVdCkvDbSQPKMTAFMe6za5MNtlH92aGzvRmpeTuVb7EdcCPTZljvKAptQj1b6VNl9fY1lS5t_w5pN2vGikpCNFJHBucf-zZBxJy2tPOhSZVuXhKX-0fEPZFUNMHkM2jCkYCY0u5lRGQ8xsqQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="NASIONAL", GTV HD
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/157578
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTtkH4sq/INews1.png" group-title="NASIONAL", iNews 
