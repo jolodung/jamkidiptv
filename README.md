@@ -160,19 +160,13 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 --------------------------------------------------LOKAL--------------------------------------------------------------------------
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="NASIONAL", MNCTV HD
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/165054
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="NASIONAL", MNCTV HD
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2YcK31-rlxN_Pl_-ovm-Q2185gpb-gL2tLEYTbmy2K9Hp2L9KSbQ31Rusaa9uT3PoBBactSkswqYG7-W-N7T3EjP2pwxOLNv4OuP95m8zFcHFVIEjxX8NICWydQbzOtV6IPUHu95AkUzmcsTKbn8H7MuGGgEI2256Ieudb5xfywom6HSj-656CK-9aXpdUOeFJ3dtyPcR6fhl1PcBV5K2ywFeIs1oBIwzq_Uvsr8RKne1JkiLXeiIPqoC27x5gBv5w.m3u8?u=1695002902
+https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2WeJXPqQ06C3-1-W2UTGCB9q69VSO6OGGsQI1MPAYFiSarRRTQkgwZcGsvBT9fwBSPPsNFX3Hx-jdtMukJN58L4Q2HCTEhD7f1XYg5oSCAZJFdD_nFjbHlpIqwKyJRqw_0hRH7Fo8zNJweXYDq-wgOaxZ85xWLS-KQUFk7hw0AMf7XcYnIKJY25YCjK_lU6AJdLWzVBoCEjoXTOWpIrFr_H4NtqZW0mk4I32O0UlyejbQPdhSaugk9uh-AL2BPMwmA.m3u8?u=1695004827
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/157591
+http://newanv-live-cdn.mncnow.id:80/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3-mp4a_98800=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD 2
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157591
+https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="NASIONAL", GTV HD
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2ZoMtS8aT23Nq2uCLdQXnVgBsjtxxfMNA1laShkbebBVDrtVRqXKTKZVTnHTsX1wLeg0W-Zlc9xuSz7SroZDzMXGQ-tmihEMQh_F5eErwE4_6JkqV1GQ8rRrc6jQEqVxTc-1OOKHR9Duf4TJ3yAEQOUFvzgafyL9Qbt1aRgzsBSbs0jvCjGK0y51Kr2VaMbkliMD6fsfQwAaEKKbsfQmSnjlKOV3E4tiS0sfHu1zKdgS1bGrX9HnPmKEkPR5XZZQgw.m3u8?u=1695005614
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="NASIONAL", GTV HD
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/157578
+https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTtkH4sq/INews1.png" group-title="NASIONAL", iNews 
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/157579
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="NASIONAL", Indosiar
