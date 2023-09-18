@@ -141,9 +141,9 @@ http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJV
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2XUZvXv4Z_9XxYi6NnkyPisGz8rP4qIonnCrUx07liMiIO25BUse6aUE0bTQNefpOo4AcadsKBKXbQrs3v2TnV33bQap_sejeT0kWen7MLFYRUVGlGSr_GTwNL4YMOZGVg7acl2yPw2fVhDoxblEyoUrSL8RV9yAkK55ftKNhlAEcqjxgAYDOs-pr4T5_ognAnQZ7z6GHyoX7bI2qrJNWsrSClAWL4YVxx6Qz4gOXdPphEFZrlWx4jT_ukksh4B3Aw.m3u8?u=1695020099
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ONLY 5
-https://etslive-2-vidio-com.akamaized.net/exp=1694519162~acl=/hls-p/ingest_6686_*/*~hmac=49f9dc4ea6e5b626d559564b3ba817ed9c1db53832702bd0a9d567cd29427f4e/hls-p/ingest_6686_720p/index.m3u8
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2SCQnwqZCZ1EV6HwevccwzD_WS-pozYqf_BfrrHKDGnIEZT_sb6z2h_TW8m4XjhwPUWxPt5m8OnbCNGoMPaGzRcWOWzC7z5C-oS_AKqFMh6qDf9O76PPO1LFnmuc1wZ9oVuMZ8oBGyuiK82Fyc-4CeyaZXYKlOaVHaAS_fYGfLedXZvAFL0YyIJjliRmtAzcUGTImwQn0OsXSH-meaq7wyOWBPsAUWVYFTqGkc4aj_nGAwgsN3pe11lhLVwJShO6iQ.m3u8?u=1695020099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 6
-https://179720687.global.cdnfastest.com/live/sd-3glrw7h71yzzqdy/chunklist_w1503880330.m3u8
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2SCQnwqZCZ1EV6HwevccwzD_WS-pozYqf_BfrrHKDGnIEZT_sb6z2h_TW8m4XjhwPUWxPt5m8OnbCNGoMPaGzRcWOWzC7z5C-oS_AKqFMh6qDf9O76PPO1LFnmuc1wZ9oVuMZ8oBGyuiK82Fyc-4CeyaZXYKlOaVHaAS_fYGfLedXZvAFL0YyIJjliRmtAzcUGTImwQn0OsXSH-meaq7wyOWBPsAUWVYFTqGkc4aj_nGAwgsN3pe11lhLVwJShO6iQ.m3u8?u=1695020099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 8
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ONLY 9
