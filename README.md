@@ -130,8 +130,8 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY
-https://etslive-2-vidio-com.akamaized.net/exp=1695043394~acl=/hls-p/ingest_206_*/*~hmac=ea4ad740953ab5aa5fb4d78d293fbc41d31b82e11e300a94eb218c98f10fa59d/hls-p/ingest_206_720p/1695029015000.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE AG 2022 huangzhou
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1r3xI-kR5Btlyi4ML56legPzmR574rUvk4P3-WmnCYXrgMSn8EtLHrRdBdHYbQr2K2EXPbzfun2jq4-f0fEbs1mShk7OwRoXuPi8s2RQtyqTvdKuezL-tKA0ZFNehVH-f-smuL3W54ryDM7rUGa_j-A7PJYtPDUZZVStYxQumJwXtbLmXPGhRSDm1Y7elWM0W3aPGZh3hxADQA_ZvONFRhG_ZJulpeMbnyxBI2crVADXqa60_wTOFqNm46IfdH0Z9tJoGbR9JrfpKpXroUXKQKRUOFXbUQXUunN5wsKRxLbg.m3u8?u=1695089384
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 2
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2ekOXYaxz4AQ7bkY4QS-Po47oeyYgrZRtbXJ-79Id3df46_DXiwR38UD-gGjAnUVYw-KbYDz5SPo3qWHhNUGLNOh2t3sHmt5RZc5LgMoRgKJXo-sYx22sDEX6m74FmAUTyV0KgcdEI2LrkHqjplFIHtIHJ8YwT6FEFw5fL_J38NBpaoxIFyP7lsRjmdaCqxs4nMBZJR5nvYALuzhsvi6SYXfSOIPKzQIalzJrukiHocBxetJ-bWwjSPD8-chjFvUlw.m3u8?u=1695020099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
@@ -323,7 +323,7 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/57
  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="SPORTS",astro Super Sport 1
-http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068.ts
+http://kuchini.site:8080/dooby1312/b244f7ab/146068
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="SPORTS",astro Super Sport 2
 http://kuchini.site:8080/dooby1312/b244f7ab/157556
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfXgcrB9/Astro-ASSP3.png" group-title="SPORTS",astro Super Sport 3
@@ -337,10 +337,7 @@ http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=281100&exte
 #EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/hGVShNJV/Sports18.png",18 SPORT
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1057243&extension=ts&play_token=hD9xbee4BC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​,Arena Sport 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116136
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​,Arena Sport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/116137
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="ARENA SPORT PREMIUM 1" tvg-logo="https://tv.qreatifku.my.id/images/ap1.png",ARENA SPORT PREMIUM 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -368,21 +365,6 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032454&extensio
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032453&extension=ts&play_token=Y03rpkUlFR
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU",PEACOCK 5
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032452&extension=ts&play_token=Y03rpkUlFR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​, Sport Klub 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/116134
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​,Sport Klub HD 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/116131
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​, Sport Klub HD 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/116132
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="SPORTS"​,Sport Klub HD 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/116133
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Y6j9t5/tensport.png" group-title="SPORTS"​,TEN SPORT
-http://103.162.136.103:25461/live/FAH/fah/121.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLFR3KMN/download.jpg" group-title="SPORTS"​,PTV SPORT
-http://103.162.136.103:25461/live/FAH/fah/123.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646",SONY TEN SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14795_&extension=ts
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 2 HD 
