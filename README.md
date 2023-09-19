@@ -231,17 +231,17 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8ZrVdbN/cnn.png" group-title="NASIONAL", CNN Indonesia*
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.m3u8
 ---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES, LIVE asian games 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES", LIVE asian games 1
 http://103.84.206.91:80/stream/1/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES, LIVE asian games 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES", LIVE asian games 2
 http://103.84.206.91:80/stream/3/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES ,LIVE asian games 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES" ,LIVE asian games 3
 http://103.84.206.91:80/stream/4/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES, LIVE asian games 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES", LIVE asian games 4
 http://103.84.206.91:80/stream/5/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES, LIVE asian games 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="ASIAN GAMES", LIVE asian games 5
 http://103.84.206.91:80/stream/6/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",CCTV 5
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1r3xI-kR5Btlyi4ML56legPzmR574rUvk4P3-WmnCYXrr9MLxpCuqon3lLoZTGnKbS4WQbeIS13Sjanf4vPYmH-8hOpe8PT88kEVhQSLH721681LSx2LR1t9XPN244OLFerO7ePC2VLZtz2cT1YiMv-dKWdxYUgHQpTVNwM2uFPJnDC7oDyiFNxfPsKp0QggknDbZg4voedivwBGsuDAp_k-jjCKJOIXs7jU-tfha-1YSAfxObOL6DjyWmNQzpxeCDIcsFdIueQp_hhEoGAxhHAq1NBH4pOP-WPyHk6fW5bw.m3u8?u=1695100973
