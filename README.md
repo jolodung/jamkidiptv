@@ -254,21 +254,21 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce
 ---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/qvwF5yXg/pptvhd.png" group-title="ASIAN GAMES",PPTV HD
-http://meu02.cularu.com:8880/3mmk270004/71579989/61290
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/281639
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/pXpyTJyM/true4u.png" group-title="ASIAN GAMES",TRUE4U 
-http://meu02.cularu.com:8880/3mmk270004/71579989/61281
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/54319
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/sfBvfJMd/nbt.png" group-title="ASIAN GAMES",NBT
-http://meu02.cularu.com:8880/3mmk270004/71579989/61276
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23886
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/rsWV1Q4D/thai-tv.png" group-title="ASIAN GAMES",THAI TV5
-http://meu02.cularu.com:8880/3mmk270004/71579989/61275
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/162537
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/qq8rhgfn/thairat.png" group-title="ASIAN GAMES",THAIRAT TV
-http://meu02.cularu.com:8880/3mmk270004/71579989/61286
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23909
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/BbJYpvL2/workpoint.png" group-title="ASIAN GAMES",WORK POINT
-http://meu02.cularu.com:8880/3mmk270004/71579989/61280
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23405
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fbxfPNhC/gmm.jpg" group-title="ASIAN GAMES",GMM25
-http://meu02.cularu.com:8880/3mmk270004/71579989/61282
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146729
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/vZ5nYtSH/bbtv.jpg" group-title="ASIAN GAMES",BBTV
-http://meu02.cularu.com:8880/3mmk270004/71579989/61289
+http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
 
 ---------------------------------------------SPORT-----------------------------------------------------------
  
