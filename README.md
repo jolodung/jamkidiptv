@@ -146,7 +146,7 @@ http://103.84.206.91:80/stream/4/index.m3u8?username=vakwEBRTUf&password=LO2Oge1
 http://103.84.206.91:80/stream/5/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE asian games 5
 http://103.84.206.91:80/stream/6/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ONLY 9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE 
 https://179720687.global.cdnfastest.com/live/sd-23xmvkh8oo9wqg8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 10
 https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
