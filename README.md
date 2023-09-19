@@ -134,18 +134,18 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1r3xI-kR5Btlyi4ML56legPzmR574rUvk4P3-WmnCYXrgMSn8EtLHrRdBdHYbQr2K2EXPbzfun2jq4-f0fEbs1mShk7OwRoXuPi8s2RQtyqTvdKuezL-tKA0ZFNehVH-f-smuL3W54ryDM7rUGa_j-A7PJYtPDUZZVStYxQumJwXtbLmXPGhRSDm1Y7elWM0W3aPGZh3hxADQA_ZvONFRhG_ZJulpeMbnyxBI2crVADXqa60_wTOFqNm46IfdH0Z9tJoGbR9JrfpKpXroUXKQKRUOFXbUQXUunN5wsKRxLbg.m3u8?u=1695089384
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 2
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2ekOXYaxz4AQ7bkY4QS-Po47oeyYgrZRtbXJ-79Id3df46_DXiwR38UD-gGjAnUVYw-KbYDz5SPo3qWHhNUGLNOh2t3sHmt5RZc5LgMoRgKJXo-sYx22sDEX6m74FmAUTyV0KgcdEI2LrkHqjplFIHtIHJ8YwT6FEFw5fL_J38NBpaoxIFyP7lsRjmdaCqxs4nMBZJR5nvYALuzhsvi6SYXfSOIPKzQIalzJrukiHocBxetJ-bWwjSPD8-chjFvUlw.m3u8?u=1695020099
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 3
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2frIWvTJgvlI3TqRfC6GlLLCf_pKWLTnQvK2Lim1t8FDwYqzkm_X8MOjny7-qwd9feMpwLlMVZVqo_RGFLabt0F95XAgGpmZnivagXEbMqtGbh8x6K8tXO2j-vH0I_YXmr4VqskrzCEGFVZxEN4ul7GmGMaS55c8argDP3nM3khn-CpqrLKArZswRbCdMwDZn2kfQ8OWLuhh0ENu3bKZErCNPOguBIiPQgiQRsDQgfajiccgD3aPuBK4xnmUrrX0Dw.m3u8?u=1695020099
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE asian games 1
+http://103.84.206.91:80/stream/1/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 4
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2XUZvXv4Z_9XxYi6NnkyPisGz8rP4qIonnCrUx07liMiIO25BUse6aUE0bTQNefpOo4AcadsKBKXbQrs3v2TnV33bQap_sejeT0kWen7MLFYRUVGlGSr_GTwNL4YMOZGVg7acl2yPw2fVhDoxblEyoUrSL8RV9yAkK55ftKNhlAEcqjxgAYDOs-pr4T5_ognAnQZ7z6GHyoX7bI2qrJNWsrSClAWL4YVxx6Qz4gOXdPphEFZrlWx4jT_ukksh4B3Aw.m3u8?u=1695020099
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE asian games 2
+http://103.84.206.91:80/stream/3/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ONLY 5
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2SCQnwqZCZ1EV6HwevccwzD_WS-pozYqf_BfrrHKDGnIEZT_sb6z2h_TW8m4XjhwPUWxPt5m8OnbCNGoMPaGzRcWOWzC7z5C-oS_AKqFMh6qDf9O76PPO1LFnmuc1wZ9oVuMZ8oBGyuiK82Fyc-4CeyaZXYKlOaVHaAS_fYGfLedXZvAFL0YyIJjliRmtAzcUGTImwQn0OsXSH-meaq7wyOWBPsAUWVYFTqGkc4aj_nGAwgsN3pe11lhLVwJShO6iQ.m3u8?u=1695020099
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 6
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2SCQnwqZCZ1EV6HwevccwzD_WS-pozYqf_BfrrHKDGnIEZT_sb6z2h_TW8m4XjhwPUWxPt5m8OnbCNGoMPaGzRcWOWzC7z5C-oS_AKqFMh6qDf9O76PPO1LFnmuc1wZ9oVuMZ8oBGyuiK82Fyc-4CeyaZXYKlOaVHaAS_fYGfLedXZvAFL0YyIJjliRmtAzcUGTImwQn0OsXSH-meaq7wyOWBPsAUWVYFTqGkc4aj_nGAwgsN3pe11lhLVwJShO6iQ.m3u8?u=1695020099
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 8
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE asian games 3
+http://103.84.206.91:80/stream/4/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE asian games 4
+http://103.84.206.91:80/stream/5/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE asian games 5
+http://103.84.206.91:80/stream/6/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ONLY 9
 https://179720687.global.cdnfastest.com/live/sd-23xmvkh8oo9wqg8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 10
@@ -160,13 +160,13 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 --------------------------------------------------LOKAL--------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="NASIONAL", MNCTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTxfxKoPKVmOjR1Rr_dXW-Ss/m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT2aGwulgiOxQmB543P81d4U/m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="NASIONAL", GTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTwEIhONp6p386VXygoFKp0I/m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTtkH4sq/INews1.png" group-title="NASIONAL", iNews 
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzc9jRcDCn8uhD6O4bM4NJE/m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_1000000=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="NASIONAL", Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="NASIONAL", Indosiar
