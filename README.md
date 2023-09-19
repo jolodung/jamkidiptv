@@ -253,21 +253,21 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.m3u8
 ---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/qvwF5yXg/pptvhd.png" group-title="ASIAN GAMES",PPTV HD
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",PPTV HD
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/281639
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/pXpyTJyM/true4u.png" group-title="ASIAN GAMES",TRUE4U 
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",TRUE4U 
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/54319
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/sfBvfJMd/nbt.png" group-title="ASIAN GAMES",NBT
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",NBT
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23886
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/rsWV1Q4D/thai-tv.png" group-title="ASIAN GAMES",THAI TV5
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",THAI TV5
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/162537
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/qq8rhgfn/thairat.png" group-title="ASIAN GAMES",THAIRAT TV
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",THAIRAT TV
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23909
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/BbJYpvL2/workpoint.png" group-title="ASIAN GAMES",WORK POINT
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",WORK POINT
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23405
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fbxfPNhC/gmm.jpg" group-title="ASIAN GAMES",GMM25
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",GMM25
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146729
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/vZ5nYtSH/bbtv.jpg" group-title="ASIAN GAMES",BBTV
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",BBTV
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
 
 ---------------------------------------------SPORT-----------------------------------------------------------
