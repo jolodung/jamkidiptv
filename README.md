@@ -796,8 +796,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 http://humiptv.live:8080/live/0192838773/9948381838/147.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO Hits" tvg-logo="https://i.postimg.cc/k4cx8czc/HBO-HITS.jpg" group-title="MOVIES",HBO Hits
-http://sysadminhost.net:8080/stadnik/6a627b52a9/196480
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="http://postimg.cc/hztvbVJZ" group-title="MOVIES", HBO FAMILY
+http://sysadminhost.net:8080/stadnik/6a627b52a9/19
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="MOVIES", HBO FAMILY
 http://sysadminhost.net:8080/stadnik/6a627b52a9/197055
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3fWt0LJ/HBO-SIGNATURE.png" group-title="MOVIES", HBO Signature
 http://sysadminhost.net:8080/stadnik/6a627b52a9/221948
@@ -820,23 +820,23 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="MOVIES", Cinemachi Xtra
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg" group-title="MOVIES", HBO Xtreme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vv35JCkn/HBO-XTREAM.png" group-title="MOVIES", HBO Xtreme
 http://208.115.225.174:14165
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QN7wFDn7/20230519-231111.jpg" group-title="MOVIES", AXN HD V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzysk1Jw/AXN.png" group-title="MOVIES", AXN HD V
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QN7wFDn7/20230519-231111.jpg" group-title="MOVIES", AXN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzysk1Jw/AXN.png" group-title="MOVIES", AXN HD
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FjSTkvn/20230519-231315.jpg" group-title="MOVIES", KIX V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY51BSQC/KIX-LOGO.jpg" group-title="MOVIES", KIX V
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FjSTkvn/20230519-231315.jpg" group-title="MOVIES", KIX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY51BSQC/KIX-LOGO.jpg" group-title="MOVIES", KIX
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
