@@ -160,13 +160,13 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 --------------------------------------------------LOKAL--------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="NASIONAL", MNCTV HD
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/165054
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTxfxKoPKVmOjR1Rr_dXW-Ss/m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png" group-title="NASIONAL", RCTI HD
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/157591
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT2aGwulgiOxQmB543P81d4U/m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="NASIONAL", GTV HD
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/157578
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTwEIhONp6p386VXygoFKp0I/m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTtkH4sq/INews1.png" group-title="NASIONAL", iNews 
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/157579
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzc9jRcDCn8uhD6O4bM4NJE/m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="NASIONAL", Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="NASIONAL", Indosiar
