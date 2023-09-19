@@ -252,7 +252,8 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8ZrVdbN/cnn.png" group-title="NASIONAL", CNN Indonesia*
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.m3u8
 ---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
-
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",CCTV 5
+http://142.54.160.116:8060/hls/LMkpuUJR63OQcHnP103-rHLuoiQfsPB5AbVSs0BpIgAQO7kheg2XKcScrfKDWVCufYbnBaLGPXxvmkVpIaX0piu1XQlAYkLX67q3DrTbuFGdHJBRMyupA8o_iPGJkEOyJhrUl3Y_m76hgx2wGY1JVjJv0cG6OiVebckXax8xNAgpKD3DUHHdfMaHzC_c7fvy_zHbhk2OQjwcr_STiCpfVJpspHHep8Ct3b3hpW6x5iGkWoa7UnBiTk81wLjZsd_Iz4SM9OjvH_qbRbJ9SkxdVPiPh7OEVWCaEADlUvnEvaevEO-tnheuffwQhTW_o9rFsSn26Uuwh57__afc2OaLI6gkbpZcxqVIa7opP6xEEgU6z5ZpsU0pjfPY5kJxLwqAs-lu2NtKjpIyVwkLeZKKrzr2KEIfyzx3S1v0TSJohEI.ts
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",PPTV HD
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/281639
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="https://i.postimg.cc/fyC4S4Cs/ASIAN-GAMES.jpg" group-title="ASIAN GAMES",TRUE4U 
