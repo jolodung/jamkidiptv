@@ -238,8 +238,8 @@ https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnh46j4pm7v/chunklist_w80
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ANSAN VS JOENGNAM DRAGON
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph32kz4m2w/chunklist_w392400265.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 
-https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE COENAN CITY VS PUCHON
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhzwl8xqwz/chunklist_w354686176.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 11
 http://185.188.188.235/live/ctsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 12
