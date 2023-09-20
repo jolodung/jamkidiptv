@@ -250,7 +250,7 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/16621
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES" ,LIVE asian games 3
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/56191
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 4
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 5
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 
@@ -287,7 +287,10 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146729
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
 
 ---------------------------------------------SPORT-----------------------------------------------------------
- 
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",CHAMPION LEAGUE
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",CHAMPION LEAGUE
+
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 1
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/753
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 2
