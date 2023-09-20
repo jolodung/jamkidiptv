@@ -287,17 +287,17 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146729
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
 
 ---------------------------------------------SPORT-----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",CHAMPION LEAGUE
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",CHAMPION LEAGUE 1
 https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",CHAMPION LEAGUE
-
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 1
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",CHAMPION LEAGUE 2
+http://starshare.live:8080/live/Pirates/Pirates/150978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 1" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 3
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/753
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 2
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 2" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 4
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 3
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 5
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 4
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",Champions League 6
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/756
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298577
