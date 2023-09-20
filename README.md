@@ -236,8 +236,8 @@ https://179720687.global.cdnfastest.com/live/sd-vjxm8gh574lnr6o/chunklist_w73124
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE CHAMPION ASIA JEONBUK VS KITCHE
 https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnh46j4pm7v/chunklist_w80960172.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE 
-https://179720687.global.cdnfastest.com/live/sd-23xmvkh8oo9wqg8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ANSAN VS JOENGNAM DRAGON
+https://179720687.global.cdnfastest.com/live/sd-x7lm7ph32kz4m2w/chunklist_w392400265.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 
 https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 11
