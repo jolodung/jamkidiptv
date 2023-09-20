@@ -240,10 +240,10 @@ https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnh46j4pm7v/chunklist_w80
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph32kz4m2w/chunklist_w392400265.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE COENAN CITY VS PUCHON
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzwl8xqwz/chunklist_w354686176.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 11
-http://185.188.188.235/live/ctsport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 12
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE BURIRAM VS ZHEJIANG
+https://179720687.global.cdnfastest.com/live/hd-en-zp5rzgh5j66dq82/chunklist_w1009146133.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE SEOUTH VS BENGALRU
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhn4z7dqwz/chunklist_w136605919.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 13
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
