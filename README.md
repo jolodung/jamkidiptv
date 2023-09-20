@@ -231,8 +231,8 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE AG 2022 huangzhou
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1r3xI-kR5Btlyi4ML56legPzmR574rUvk4P3-WmnCYXrgMSn8EtLHrRdBdHYbQr2K2EXPbzfun2jq4-f0fEbs1mShk7OwRoXuPi8s2RQtyqTvdKuezL-tKA0ZFNehVH-f-smuL3W54ryDM7rUGa_j-A7PJYtPDUZZVStYxQumJwXtbLmXPGhRSDm1Y7elWM0W3aPGZh3hxADQA_ZvONFRhG_ZJulpeMbnyxBI2crVADXqa60_wTOFqNm46IfdH0Z9tJoGbR9JrfpKpXroUXKQKRUOFXbUQXUunN5wsKRxLbg.m3u8?u=1695089384
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE korean league ANYANG FC VS GYONGNAM
+https://179720687.global.cdnfastest.com/live/sd-vjxm8gh574lnr6o/chunklist_w731248872.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE ONLY 2
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2ekOXYaxz4AQ7bkY4QS-Po47oeyYgrZRtbXJ-79Id3df46_DXiwR38UD-gGjAnUVYw-KbYDz5SPo3qWHhNUGLNOh2t3sHmt5RZc5LgMoRgKJXo-sYx22sDEX6m74FmAUTyV0KgcdEI2LrkHqjplFIHtIHJ8YwT6FEFw5fL_J38NBpaoxIFyP7lsRjmdaCqxs4nMBZJR5nvYALuzhsvi6SYXfSOIPKzQIalzJrukiHocBxetJ-bWwjSPD8-chjFvUlw.m3u8?u=1695020099
 
@@ -260,7 +260,7 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?
 deviceId=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
-http://103.84.206.91:80/stream/1/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
+https://arjunaaaaa.github.io/astor/5130.html?lsbtv=https://1.yurend.xyz/dash-wv/linear/5130/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 
 http://103.84.206.91:80/stream/2/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
