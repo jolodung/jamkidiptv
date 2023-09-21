@@ -244,8 +244,8 @@ https://179720687.global.cdnfastest.com/live/sd-y0or5jhzwl8xqwz/chunklist_w35468
 https://179720687.global.cdnfastest.com/live/hd-en-zp5rzgh5j66dq82/chunklist_w1009146133.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE SEOUTH VS BENGALRU
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhn4z7dqwz/chunklist_w136605919.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE ONLY 13
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE criket
+https://m2.ballnaja.com/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
 
 ---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 1
