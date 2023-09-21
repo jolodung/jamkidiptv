@@ -348,13 +348,13 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/57
  
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="SPORTS",astro Super Sport 1
-http://kuchini.site:8080/dooby1312/b244f7ab/146068
+https://m3.ballnaja.com/live/assp1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="SPORTS",astro Super Sport 2
 https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfXgcrB9/Astro-ASSP3.png" group-title="SPORTS",astro Super Sport 3
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/157557
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV4m04Vy/Astro-ASSP4.png" group-title="SPORTS",ASTRO SUPER SPORT 4
-http://kuchini.site:8080/dooby1312/b244f7ab/157558
+https://m3.ballnaja.com/live/assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="SPORTS", ASTRO SUPER SPORT 5
 http://kuchini.site:8080/dooby1312/b244f7ab/287792
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzTt2TXD/A-SPORT.png" group-title="SPORTS", A SPORT
