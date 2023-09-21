@@ -231,18 +231,18 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE korean league ANYANG FC VS GYONGNAM
-https://179720687.global.cdnfastest.com/live/sd-vjxm8gh574lnr6o/chunklist_w731248872.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE CHAMPION ASIA JEONBUK VS KITCHE
-https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnh46j4pm7v/chunklist_w80960172.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE
+https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT", LIVE 
+https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE ANSAN VS JOENGNAM DRAGON
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE 
 https://179720687.global.cdnfastest.com/live/sd-x7lm7ph32kz4m2w/chunklist_w392400265.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE COENAN CITY VS PUCHON
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE 
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhzwl8xqwz/chunklist_w354686176.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE BURIRAM VS ZHEJIANG
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE 
 https://179720687.global.cdnfastest.com/live/hd-en-zp5rzgh5j66dq82/chunklist_w1009146133.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE SEOUTH VS BENGALRU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE 
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhn4z7dqwz/chunklist_w136605919.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE criket
 https://m2.ballnaja.com/ASTRO_CRICKET/tracks-v1a1/2023/09/21/01/38/07-06000.ts
