@@ -355,7 +355,6 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/55
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="▶️SPORTS◀️" tvg-logo="http://magott.net:80/images/4629368f3ebfb96fecf3f35c9263d9c6.png",BeINSport ENGLISH 3 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/57
  
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1
 https://m3.ballnaja.com/live/assp1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
@@ -366,13 +365,20 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/157557
 https://m3.ballnaja.com/live/assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="▶️SPORTS◀️", ASTRO SUPER SPORT 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzTt2TXD/A-SPORT.png" group-title="▶️SPORTS◀️", A SPORT
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=281100&extension=ts&play_token=SNFibxjSSv   
 #EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/hGVShNJV/Sports18.png",18 SPORT
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1057243&extension=ts&play_token=hD9xbee4BC
 
-
-
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="digisport1romania.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 
+https://webudi.webdicdn.lol/lb/premium400/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="digisport3romania.ro" tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudi.webdicdn.lol/lb/premium402/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="digisport4romania.ro" tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudi.webdicdn.lol/lb/premium403/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
 #EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="ARENA SPORT PREMIUM 2" tvg-logo="https://i.postimg.cc/44Qqhr8Y/EDGE-S.png",EDGE SPORT
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/54012
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="▶️SPORTS◀️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU",PEACOCK PL
@@ -389,6 +395,30 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032453&extensio
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032452&extension=ts&play_token=Y03rpkUlFR
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="▶️SPORTS◀️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646",SONY TEN SPORT 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14795_&extension=ts
+
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/jM1FeOX.png" ,Sky Sports Action
+https://webudit.webdicdn.lol/lb/premium37/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/eZwExGu.png" ,Sky Sports Arena
+https://webudit.webdicdn.lol/lb/premium36/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/J8zzS2v.png" ,Sky Sports Cricket
+https://webudit.webdicdn.lol/lb/premium65/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/2kPW5qw.png" ,Sky Sports F1
+https://webudit.webdicdn.lol/lb/premium60/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/EcFwNdj.png" ,Sky Sports Football
+https://webudit.webdicdn.lol/lb/premium35/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" ,Sky Sports Golf
+https://webudit.webdicdn.lol/lb/premium70/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️"tvg-logo="https://i.imgur.com/KHiae2e.png" ,Sky Sports Main Event
+https://webudit.webdicdn.lol/lb/premium38/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/PRF0DsV.png" ,Sky Sports Mix
+https://webudit.webdicdn.lol/lb/premium449/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+https://webudit.webdicdn.lol/lb/premium449/mono.m3u8
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/jcFnVbi.png" ,Sky Sports News UK
+https://webudit.webdicdn.lol/lb/premium366/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/wA3DieO.png" ,Sky Sports PREMIER HUB League
+https://webudit.webdicdn.lol/lb/premium130/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/vhYstlz.png" ,Sky Sports Racing
+https://webudit.webdicdn.lol/lb/premium554/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
 
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="▶️SPORTS◀️" tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%201.png",ORANGE SPORT 1
