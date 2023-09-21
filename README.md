@@ -10,7 +10,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/k4DT2g5C/Channel-Jowo.png" group-title="FREE FOR WATCH",Jowo Channel
 http://tvkuonline.my.id:25461/riyad/riyad/421
 --------------------------------------------------------------------LOKAL--------------------------------------------------------
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HWBv0nwd/MNCTV.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",MNCTV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",MNCTV
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/165054
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8kxG51R/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", MNCTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -20,9 +20,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/9Fv2fzzX/RCTI.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/fTZhnNNq/RCTI-lama3.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",RCTI
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/157591
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/Y9m26ZVw/GTV.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV
 https://nonton.site:8443/live/ekos/7483/49285.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -32,11 +32,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTtkH4sq/INews1.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",INews
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-http://202.147.204.114/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/MZmYmWL6/iNEWS.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",iNews
 https://nonton.site:8443/live/ekos/7483/49286.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwcSjdJc/Indosiar-Karya-Media.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
@@ -354,7 +350,7 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/57
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="SPORTS",astro Super Sport 1
 http://kuchini.site:8080/dooby1312/b244f7ab/146068
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="SPORTS",astro Super Sport 2
-http://kuchini.site:8080/dooby1312/b244f7ab/157556
+https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfXgcrB9/Astro-ASSP3.png" group-title="SPORTS",astro Super Sport 3
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/157557
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV4m04Vy/Astro-ASSP4.png" group-title="SPORTS",ASTRO SUPER SPORT 4
