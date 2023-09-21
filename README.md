@@ -147,65 +147,65 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 1
 http://starshare.live:8080/live/Agness/Agness/98867.ts
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 2
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 2
 http://starshare.live:8080/live/Agness/Agness/98868.ts
  
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 3
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 3
 https://stream.live12.ir/hls2/persiana.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 4
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 4
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162591
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 5
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162592
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 6
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 6
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE​ 7
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 7
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1327365&extension=ts&play_token=lwAilS7Izs
-#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="LIGA EROPA"​,PREMIER LEAGUE 8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/HLbTyy1V/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 8
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110622&extension=ts&play_token=BrD8bb6Q6I
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="LIGA EROPA",LA LIGA 1
+#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 1
 http://starshare.live:8080/live/Agness/Agness/6625.ts
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="LIGA EROPA"​,LA LIGA 2
+#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=16510_&extension=ts
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="LIGA EROPA",LA LIGA 3
+#EXTINF:0 tvg-logo="https://i.postimg.cc/LsCk185z/LALIGA.png" group-title="👉LIGA EROPA👈",LA LIGA 3
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Calcio" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/84505
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 2
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 2
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692383&extension=ts&play_token=SdRCQMYhc7
  
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 3
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 3
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=692322&extension=ts&play_token=j0EcaqQhY1
-#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="LIGA EROPA",LIGA ITALY 4
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.postimg.cc/5N5stvcG/SERI-A.jpg" group-title="👉LIGA EROPA👈",LIGA ITALY 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="LIGA EROPA" ,LIGA PRANCIS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126919
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="LIGA EROPA" ,LIGA PRANCIS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126946
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="LIGA EROPA" ,LIGA PRANCIS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkShsxND/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
 http://iptv-plus.net:25461/NURIFJMVSZ/WBBTDRUZLY/126935
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="LIGA EROPA" , BUNDES LIGA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="LIGA EROPA" , BUNDES LIGA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6097/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="LIGA EROPA" , BUNDES LIGA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8JPJDh/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈", BUNDES LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032470&extension=ts&play_token=qBeBPHlYKO
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 3
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=317021&extension=ts&play_token=WzEiY89Z7Q
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032468&extension=ts&play_token=rNx65mVDBT
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="LIGA EROPA",OPTUS SPORT 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3NTV7bJ/OPTUS.png" group-title="👉LIGA EROPA👈",OPTUS SPORT 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032467&extension=ts&play_token=raIZRUj5Fn
 
 #EXTINF:-1 tvg-ID="" tvg-name="APPLE+ 1 PPV " tvg-logo="https://i.postimg.cc/6p1XYCgj/Apple-TV.png" group-title="MLS SPORTS", APPLE+ 1 
