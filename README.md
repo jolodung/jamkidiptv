@@ -109,7 +109,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce
 
 
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="LIVE EVENT",PRO LIGA
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",PRO LIGA
 http://smartv.pro:80/live/828282/484848/39531.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="LIVE EVENT",VOLLY
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
