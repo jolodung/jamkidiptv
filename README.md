@@ -237,15 +237,15 @@ https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT" ,LIVE 
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph32kz4m2w/chunklist_w392400265.m3u8
+https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE 
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhzwl8xqwz/chunklist_w354686176.m3u8
+https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE 
-https://179720687.global.cdnfastest.com/live/hd-en-zp5rzgh5j66dq82/chunklist_w1009146133.m3u8
+https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE 
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhn4z7dqwz/chunklist_w136605919.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE criket
-https://m2.ballnaja.com/ASTRO_CRICKET/tracks-v1a1/2023/09/21/01/38/07-06000.ts
+https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="LIVE EVENT",LIVE 
+https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 
 ---------------------------ASIAN GAMES CHANNEL---------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 1
@@ -257,10 +257,7 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/56191
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 4
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?
-deviceId=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
-https://arjunaaaaa.github.io/astor/5130.html?lsbtv=https://1.yurend.xyz/dash-wv/linear/5130/default_ott.mpd
+https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52R7GPrg/asian.jpg" group-title="ASIAN GAMES", LIVE asian games 
 http://103.84.206.91:80/stream/2/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
