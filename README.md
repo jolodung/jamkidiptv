@@ -302,7 +302,7 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/146729
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/23853
 
 ---------------------------------------------SPORT-----------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",CHAMPION LEAGUE 1
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="▶️SPORTS◀️",CHAMPION LEAGUE 1
 https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORTS",CHAMPION LEAGUE 2
 http://starshare.live:8080/live/Pirates/Pirates/150978.ts
