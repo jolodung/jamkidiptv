@@ -240,8 +240,8 @@ https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h24gl4rz8/chunklist_w1712649805.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE PHONG VS PSM MAKASAR
 https://179720687.global.cdnfastest.com/live/sd-vjxm8ghl4k6pr6o/chunklist_w142439949.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
-https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE SABAH FC VS HOUGANG  UNITED
+https://179720687.global.cdnfastest.com/live/sd-jw2r09h2l5gorz8/chunklist_w1951577221.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
 
