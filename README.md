@@ -136,11 +136,12 @@ http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJV
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/298570
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/298571
-
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3616
+#EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
- 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 5
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1426
 #EXTINF:0 tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg" group-title="🚩LIVE EVENT🚩"​, BWF 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
