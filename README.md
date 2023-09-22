@@ -128,7 +128,7 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 http://202.147.204.114/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",BRI LIGA
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/162138
+https://etslive-2-vidio-com.akamaized.net/exp=1695399212~acl=/hls-p/ingest_205_*/*~hmac=5015f415fcc321ae47872d9792dcfebde34beedebbb690defad406ddceb5e716/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",BRI LIGA 1
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2Sl4k4f-nKzIxMahPHj6zW3mB49HJ9cqQeOjTy6ugwVwyWWVFHDGu_HrTe0ACnfGGISoC4xZWzpWGBzeYPnFFAhSgrvM3SVGyf1hugzsQKE6-QcgetH8GZbSMeYxbZtSKgOYPTJU-F9MRa1oyp4hQxaIYKOUq0VePxF5I2y-1ppXUspU7hxYvFnkfeWVCTrQMYLt-sU45mcyV3AviN1MnHI3OKGwsodsGZnizudADQ8r8-yVVwD0PCGlivO6_CkGCg.m3u8?u=1695005614
  
