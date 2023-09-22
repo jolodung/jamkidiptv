@@ -229,18 +229,18 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE THAILAND VS KORSEL
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE KYRZIGTAN VS KORUT
-https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT9rLJtKTf7ODumbv0xCn7p3zlfiD2BkP2JDH21vAxnGLxfPoVu08rxjDdF-v_U-UI8s0CP_OvJzN9WbAscWnJxCuJmlWrj0e-gUXlDd19ufgfcRWnOsiQV7Cx_r6oqmBNcfjvm4NuAjJhnLquom5CcgD7_RhZglsTernnRcLAo3v77SBWkCkZP3FeA3lpvoe8OUbecuMa-o7QGKRfIxJL8RpQdshYoUBEV0Yvxl2sOg4XfpetHq6EWp1pVEhjo6ccQ.m3u8?u=1695356408
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE 
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT3m3VChjDhofd6dh5hpGkFNdt09Em9qt1x16H3iW9WlGxOpFFR4Ke4zPf_sHPiCRrAIGIqrMfouXlzspGQQItxuAzFSOWeG6RBEVc5cZnwaxKv2YWEmDUyHspWEFBw77kLiv23MnMTfREDLlrUJiZvD9vT5aYhjCJOJxhvFFF6KZYlCvB8Mf-rLILiu6sJhpNlIgYHXSMc4Irrm2_1iyDcJ2rdlbfgpDg3K5cgV_Kh5zmb5sw33CcvZ7shTJHXiACw.m3u8?u=1695356408
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE IRAN VS VIETNAM
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE MYANMAR VS CHNA
-https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h24gl4rz8/chunklist_w1712649805.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE PHONG VS PSM MAKASAR
-https://179720687.global.cdnfastest.com/live/sd-vjxm8ghl4k6pr6o/chunklist_w142439949.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE SABAH FC VS HOUGANG  UNITED
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE 
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT-vIe_yosi594BrcNTxGpLEToykfn1DU3pem-YPmv9Q3QFBsmx3Z3gdpUue-LqRYiUgxO6EjAsw-T3Ovm_HbLGJgLNViUeH2SnVOGzk7q2SI3NIa5eq87WJX_FVIlAnNew5ECd8oGTkAUlGMh4EgkjQE9DkDmP4yY1Ls9DFuVqzwt6fM_rKeGnL3bqfhgdLdJeZdVBJdKfLHCwhycDAQGpV2EiFtpSPmrqNoFABQ02Txy5R2jn90xhhTQZG4tBOlRQ.m3u8?u=1695356408
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT84z42HGUaE9mCRKSQnrT4KIl8NGrVfiRnbgOf2kQm0VVo3J1DFVFKqIZ4peHhBjfDpeYGtmTA8NrnRuir541vWT6fu--gSuQSg7WLBtZohTHVaPjdh_XbOQEl28tmJN8Igeo6dK2viRPWq8HTI41HUTTzmeg06tMaVtYbmKF8CorazX1NK-Yb6htVfqcATO04FZ_2o-FYmYcnUeZI0ZBsNnjL8kzydWy-8wxivujd_OgOXPSDz0f78L6h_XSwSdvA.m3u8?u=1695356408
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT9eDNeD3xaGOYMs-POA3lIw4mwcxBiBDYq2xePF7UAw9oyHPQlbcQV-79CN4zFYXndnOlth_Tw5ANjybacEHRjgO2zMgpiPmBRcHhO7hZp95anPGxQ0DuqbsTEY3YpvSdXE2F4kE-od6PI3x_QMqPAJHjAscqUD2ASFwoj8oyw0JXXajIVopA7tdgjcdqkLp8Q9P2FZ9qA0QxAbNmqWyelHyRQfKhuhwRdu2GPCYaFhSyYLsUJwcL4aTLjEXDJo-gQ.m3u8?u=1695356408
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h2l5gorz8/chunklist_w1951577221.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://raw.githubusercontent.com/vibetv/comingsoon/main/allcomingsoon.mp4
