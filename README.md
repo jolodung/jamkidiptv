@@ -11,6 +11,11 @@ https://www.dropbox.com/scl/fi/b6be7lm1qymmr9264c3au/NEMU-Difarina-Indra-Adella-
 https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-Indra-Adella-ft-Fendik-Adella-OM-ADELLA.mp4?rlkey=qdn5p6x383pvsu9bssxkth22x&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 4
 https://www.dropbox.com/scl/fi/wofixur7weq872n1lwams/NEMEN-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=gvocvnt103r994mcalpgsd9rm&dl=1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 5
+https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA 6
+https://www.dropbox.com/scl/fi/vrwej8ka3drq8v7ve7nt2/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=u3m77is2noft4ct7t7ex26hmp&dl=1
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XvPwDcVM/DJ.jpg" group-title="FREE FOR 🖥 WATCH",​DJ
 http://tvkuonline.my.id:25461/riyad/riyad/6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/k4DT2g5C/Channel-Jowo.png" group-title="FREE FOR 🖥 WATCH",JOWO CHANNEL
@@ -132,13 +137,15 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/69380
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+http://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:0 tvg-id="SPOTV2.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
 http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 5
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=507710&extension=ts&play_token=Sz8tR5qbs6 canal.sport 
- 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd 
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg" group-title="🚩LIVE EVENT🚩"​, BWF 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
