@@ -538,89 +538,76 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109" group-title="▶️SPORTS◀️", UNIFY SPORT2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 -----------------------------------------------------------------YACINE TV--------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SPORT 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS 1
 http://zeintv.xyz:8080/moha/2020/129172
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2
 http://zeintv.xyz:8080/moha/2020/203304
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3
 http://zeintv.xyz:8080/moha/2020/129167
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  4
 http://zeintv.xyz:8080/moha/2020/203309
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  5
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3245.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  6
 http://zeintv.xyz:8080/moha/2020/129165
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  7
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/49383.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beiN SP⚽️RTS 1 ENGLISH 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110746.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beiN SP⚽️RTS 2 ENGLISH 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110747.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beiN SP⚽️RTS 3 ENGLISH 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3 ENGLISH 4K
 http://4k.boxip.org:8080/698018479252002/2063753535/110748.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SP⚽️RTS 1 UHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106636.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SP⚽️RTS 2 UHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106637.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SPORTS 3 UHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106638.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SPORTS 4 UHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  4 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106639.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",beIN SPORTS 5 UHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  5 UHD
 http://4k.boxip.org:8080/698018479252002/2063753535/106640.ts 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 1 HD
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/1.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 2 HD
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/48878.ts
-#EXTIhttp://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3246.tsNF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Premium 3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS Premium 3
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57803_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 4
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57806_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 2 SD
 http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=57734_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Premium 2 Low
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS s Premium 2 Low
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/54473.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 3 HD
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41810_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 3
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE"Bein Sports Premium 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  Premium 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=1989_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sport 5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  5
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" ,Bein Sport AFC HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  AFC HD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sport AFC SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  AFC SD
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sport AFC 1 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  AFC 1 4K
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/165105
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sport AFC 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  AFC 3
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298506
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" , BEIN 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  1 HD
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/54470.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", BEIN 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  2 HD
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/54469.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", BEIN 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SP⚽️RTS  3 HD
 http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3246.ts
-
- 
- 
- 
-
- 
- 
- 
- 
 
  
 ----------------------------------------------------MOVIES-------------------------------------------------------------------
