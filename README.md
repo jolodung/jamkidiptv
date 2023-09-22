@@ -1203,13 +1203,13 @@ http://meu02.cularu.com:8880/3mmk270004/71579989/1732
 #EXTINF:-1 tvg-id="" tvg-name="MY: ARENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ARENA
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303839
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: ARENA_HD_50fps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾"ARENA_HD_50fps
+#EXTINF:-1 tvg-id="" tvg-name="MY: ARENA_HD_50fps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",ARENA_HD
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303841
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Astro Arena 
 
-#EXTINF:-1 tvg-id="AstroArenaBola" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png",Arena Bola
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" group-title="🇲🇾MALAYSIA🇲🇾",Arena Bola
 http://meu02.cularu.com:8880/3mmk270004/71579989/1703
-#EXTINF:-1 tvg-id="AstroArenaBola2" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://telegra.ph/file/5b6fa9894d886d15e7a6b.png",Arena Bola 2
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://telegra.ph/file/5b6fa9894d886d15e7a6b.png" group-title="🇲🇾MALAYSIA🇲🇾",Arena Bola 2
 http://meu02.cularu.com:8880/3mmk270004/71579989/1696
 #EXTINF:-1 tvg-id="" ch-number="1408" tvg-name="Astro SuperSport HD" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport
 http://meu02.cularu.com:8880/3mmk270004/71579989/59220
@@ -1431,12 +1431,12 @@ http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303968
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303969
 #EXTINF:-1 tvg-id="" tvg-name="MY: SPOTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",SPOTV2
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303970
-#EXTINF:-1 tvg-id="" tvg-name="MY: Sun Life (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASTRO", Sun Life 
+#EXTINF:-1 tvg-id="" tvg-name="MY: Sun Life (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Sun Life 
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303971
 #EXTINF:-1 tvg-id="" tvg-name="MY: Sun News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾", Sun News
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303972
  "🇲🇾MALAYSIA🇲🇾"
-#EXTINF:-1 tvg-id="" tvg-name="MY: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASTRO",TLC
+#EXTINF:-1 tvg-id="" tvg-name="MY: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",TLC
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303974
 
  
@@ -1455,138 +1455,6 @@ http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303988
 #EXTINF:-1 tvg-id="" tvg-name="MY: WARNER_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="🇲🇾MALAYSIA🇲🇾",WARNER_TV
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303993
 
--------------------------------------------------------THAILAND----------------------------------------------------------- 
- #EXTINF:-1 tvg-id="" tvg-name="Black Cinema (Sling) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="🇨🇷Thailand🇨🇷",Black Cinema (Sling) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563014
-#EXTINF:-1 tvg-id="" tvg-name="-= Thailand =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Thailand.png" group-title="Thailand",-= Thailand =-
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/16619
-#EXTINF:-1 tvg-id="" tvg-name="&flix (Movies) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",&flix (Movies) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115601
-#EXTINF:-1 tvg-id="" tvg-name="&pictures TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",&pictures TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115602
-#EXTINF:-1 tvg-id="" tvg-name="&prive (Movies) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",&prive (Movies) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115603
-#EXTINF:-1 tvg-id="" tvg-name="69TV TH" tvg-logo="" group-title="Thailand",69TV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115604
-#EXTINF:-1 tvg-id="" tvg-name="ABC Australia TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",ABC Australia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115605
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Asia TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Al Jazeera Asia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115606
-#EXTINF:-1 tvg-id="" tvg-name="Amarin HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Amarin HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115297
-#EXTINF:-1 tvg-id="" tvg-name="AMARIN TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",AMARIN TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115608
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Animal Planet TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115610
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",ANIPLUS TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115609
-#EXTINF:-1 tvg-id="" tvg-name="Arirang TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Arirang TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115308
-#EXTINF:-1 tvg-id="asianfoodchannel.th" tvg-name="Asian Food Channel TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Asian Food Channel TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115611
-#EXTINF:-1 tvg-id="trueasianseries.th" tvg-name="Asian Series HD TH" tvg-logo="" group-title="Thailand",Asian Series HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115612
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Astro Cricket HD TH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115614
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",ASTRO SUPERSPORTS 1 HD TH MY
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115615
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115616
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",ASTRO SUPERSPORTS 3 HD TH MY
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115617
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115618
-#EXTINF:-1 tvg-id="" tvg-name="ASTV News HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",ASTV News HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38202
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",AXN HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115619
-#EXTINF:-1 tvg-id="" tvg-name="AXN TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",AXN TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115620
-#EXTINF:-1 tvg-id="" tvg-name="Asian More HD (Truevision) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Asian More HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563002
-#EXTINF:-1 tvg-id="" tvg-name="Asian More SD (Truevision) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Asian More SD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563003
- 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115410
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth /FoxFam HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",BBC Earth /FoxFam HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115622
-#EXTINF:-1 tvg-id="bbcearth.th" tvg-name="BBC Earth HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",BBC Earth HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115621
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth [Thai] TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",BBC Earth [Thai] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115624
-#EXTINF:-1 tvg-id="bbclife.th" tvg-name="BBC Lifestyle HD/Disc.Science [Thai] TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",BBC Lifestyle HD/Disc.Science [Thai] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115625
-#EXTINF:-1 tvg-id="bbclife.th" tvg-name="BBC Lifestyle HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",BBC Lifestyle HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115626
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD TH" tvg-logo=https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png"" group-title="Thailand",BBC World News HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115627
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Blue Ant Entertainment HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115628
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Blue Ant Entertainment TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115629
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Blue Ant Extreme HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115630
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Blue Ant Extreme TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115631
-
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CABLE SERIES 1 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115598
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 2 TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CABLE SERIES 2 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115599
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 3 HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CABLE SERIES 3 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115600
-#EXTINF:-1 tvg-id="" tvg-name="CableMovie TH [Thai]" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CableMovie TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115655
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Club TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Cartoon Club TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115324
-#EXTINF:-1 tvg-id="cartoonnetwork.th" tvg-name="Cartoon Network HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Cartoon Network HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115632
-#EXTINF:-1 tvg-id="cartoonnetwork.th" tvg-name="CartoonClub TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CartoonClub TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115633
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Celestial Classic Movies TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115635
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies [Thai-ENG] TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Celestial Classic Movies [Thai-ENG] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115636
-#EXTINF:-1 tvg-id="" tvg-name="Ch8 TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Ch8 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115341
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3 TH" tvg-logo=https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png"" group-title="Thailand",Channel 3 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115313
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Channel 5 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115640
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Channel 5 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115641
-#EXTINF:-1 tvg-id="" tvg-name="Channel 7 HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Channel 7 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115642
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8 TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Channel 8 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115644
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CINEMAX HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116078
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Cinemax TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115646
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CINEMAX TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116079
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CNN Indonesia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115307
-#EXTINF:-1 tvg-id="" tvg-name="CNN TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CNN TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115634
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Crime & Investigation TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115649
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+ Sport HD (CN) TH" tvg-logo="" group-title="Thailand",CCTV 5+ Sport HD (CN) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563008
-#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Channel News Asia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563000
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Asia TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",CNBC Asia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562999
-#EXTINF:-1 tvg-id="" tvg-name="Chinese More HD (Truevision) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Chinese More HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563004
-#EXTINF:-1 tvg-id="" tvg-name="Chinese More (Truevision) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Chinese More (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563005
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia HD TH [Thai-ENG]" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Discovery Asia HD TH [Thai-ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115650
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD TH [Thai-ENG]" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Discovery HD TH [Thai-ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115652
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Discovery TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115399
  
 -------------------------------------------------------------KNOWLEDGE--------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W38xSgR2/outdoor.png" group-title="KNOWLEDGE", OUTDOOR AU
