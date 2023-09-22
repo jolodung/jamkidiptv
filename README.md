@@ -133,19 +133,13 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/162138
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF1NIphJVEg8-5vk9r3T1NqnZRbO0lABZ0m_8PcAsPFo2Sl4k4f-nKzIxMahPHj6zW3mB49HJ9cqQeOjTy6ugwVwyWWVFHDGu_HrTe0ACnfGGISoC4xZWzpWGBzeYPnFFAhSgrvM3SVGyf1hugzsQKE6-QcgetH8GZbSMeYxbZtSKgOYPTJU-F9MRa1oyp4hQxaIYKOUq0VePxF5I2y-1ppXUspU7hxYvFnkfeWVCTrQMYLt-sU45mcyV3AviN1MnHI3OKGwsodsGZnizudADQ8r8-yVVwD0PCGlivO6_CkGCg.m3u8?u=1695005614
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 1
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/69380
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/298570
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-http://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#EXTINF:0 tvg-id="SPOTV2.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
-http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/298571
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-#EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd 
+
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/R0rsC34J/BWF.jpg" group-title="🚩LIVE EVENT🚩"​, BWF 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
