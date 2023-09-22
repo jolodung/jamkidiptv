@@ -538,7 +538,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109" group-title="▶️SPORTS◀️", UNIFY SPORT2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 -----------------------------------------------------------------YACINE TV--------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="🇸🇦YACINE🇸🇦",BEIN SPORT 1
 http://zeintv.xyz:8080/moha/2020/129172
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BEIN SPORT 2
 http://zeintv.xyz:8080/moha/2020/203304
