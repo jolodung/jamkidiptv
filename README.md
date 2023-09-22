@@ -1456,7 +1456,7 @@ http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303988
 http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303993
 
 -------------------------------------------------------THAILAND----------------------------------------------------------- 
- #EXTINF:-1 tvg-id="" tvg-name="Black Cinema (Sling) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="Thailand",Black Cinema (Sling) TH
+ #EXTINF:-1 tvg-id="" tvg-name="Black Cinema (Sling) TH" tvg-logo="https://i.postimg.cc/R0RPNQ3m/TRUEVISION.png" group-title="🇨🇷Thailand🇨🇷",Black Cinema (Sling) TH
 http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563014
 #EXTINF:-1 tvg-id="" tvg-name="-= Thailand =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Thailand.png" group-title="Thailand",-= Thailand =-
 http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/16619
