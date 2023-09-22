@@ -1614,7 +1614,7 @@ http://5.255.90.238:5002/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREO9IBFHrUrcw-d6ay59hzoCuZtZ2iGaIivw&usqp=CAU" group-title="KNOWLEDGE", Arirang Korea
 http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u8
  ----------------------------------------------------------musik-------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIK", Musik Indonesia
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="🎸MUSIK🎸", Musik Indonesia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165108
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://tinyurl.com/yk8qucz9",Biarku Sendiri
 https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
