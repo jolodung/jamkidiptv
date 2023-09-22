@@ -5,6 +5,8 @@
 http://tvkuonline.my.id:25461/riyad/riyad/1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA
 http://tvkuonline.my.id:25461/riyad/riyad/2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XNHy2vqd/adella.png" group-title="FREE FOR 🖥 WATCH",ADELLA
+https://www.dropbox.com/scl/fi/b6be7lm1qymmr9264c3au/NEMU-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=2pbiflnjiu2toaiizgcymjf2g&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/XvPwDcVM/DJ.jpg" group-title="FREE FOR 🖥 WATCH",​DJ
 http://tvkuonline.my.id:25461/riyad/riyad/6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.postimg.cc/k4DT2g5C/Channel-Jowo.png" group-title="FREE FOR 🖥 WATCH",JOWO CHANNEL
