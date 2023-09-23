@@ -630,18 +630,6 @@ http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3012.m3u8
  
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN: SONY PIX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="MOVIES", SONY PIX HD
 http://humiptv.live:8080/live/0192838773/9948381838/147.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Hits" tvg-logo="https://i.postimg.cc/k4cx8czc/HBO-HITS.jpg" group-title="MOVIES",HBO Hits
-http://sysadminhost.net:8080/stadnik/6a627b52a9/19
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="MOVIES", HBO FAMILY
-http://sysadminhost.net:8080/stadnik/6a627b52a9/197055
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3fWt0LJ/HBO-SIGNATURE.png" group-title="MOVIES", HBO Signature
-http://sysadminhost.net:8080/stadnik/6a627b52a9/221948
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jLRhScf/CINEMAX.png" group-title="MOVIES", Cinemax
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197964
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRBqp_e3cfVmQA5wBhaakdWCC3pm2N1FPrA&usqp=CAU" group-title="MOVIES", Warner TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/157594
 #EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="MOVIES", Cinemachi HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
