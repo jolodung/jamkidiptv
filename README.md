@@ -247,7 +247,7 @@ http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGoux
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE C6
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT84z42HGUaE9mCRKSQnrT4KIl8NGrVfiRnbgOf2kQm0VUDrCVptpEAppFAvgDggF14NX3nnsriTFny76Sq9zYTrGiKjJe-XP4BDIKtkrhQ2_gk-_cLxd_bbqatA8rqoHX0fgbZk5bY3-x8Yt8SRy3I9PtooVSWg6YdbNcJuf9PAAZPUGrwqnfHrE7tPfbTUMlIJsa-Iaq5lqyGMmfd3Gw78BngEFUycHUUs71syNVle07QJToj-z5V6giRYif1xxpw.m3u8?u=1695440087
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT9eDNeD3xaGOYMs-POA3lIw4mwcxBiBDYq2xePF7UAw9oyHPQlbcQV-79CN4zFYXndnOlth_Tw5ANjybacEHRjgO2zMgpiPmBRcHhO7hZp95anPGxQ0DuqbsTEY3YpvSdXE2F4kE-od6PI3x_QMqPAJHjAscqUD2ASFwoj8oyw0JXXajIVopA7tdgjcdqkLp8Q9P2FZ9qA0QxAbNmqWyelHyRQfKhuhwRdu2GPCYaFhSyYLsUJwcL4aTLjEXDJo-gQ.m3u8?u=1695356408
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 https://179720687.global.cdnfastest.com/live/sd-jw2r09h2l5gorz8/chunklist_w1951577221.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
