@@ -237,8 +237,8 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 --------------------------------------------------------------LIVE ONLY---------------------------------------------------------
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT9rLJtKTf7ODumbv0xCn7p3zlfiD2BkP2JDH21vAxnGLxfPoVu08rxjDdF-v_U-UI8s0CP_OvJzN9WbAscWnJxCuJmlWrj0e-gUXlDd19ufgfcRWnOsiQV7Cx_r6oqmBNcfjvm4NuAjJhnLquom5CcgD7_RhZglsTernnRcLAo3v77SBWkCkZP3FeA3lpvoe8OUbecuMa-o7QGKRfIxJL8RpQdshYoUBEV0Yvxl2sOg4XfpetHq6EWp1pVEhjo6ccQ.m3u8?u=1695356408
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE japan vs argentina women
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhn48vxqwz/chunklist_w1490777512.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE 
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT3m3VChjDhofd6dh5hpGkFNdt09Em9qt1x16H3iW9WlGxOpFFR4Ke4zPf_sHPiCRrAIGIqrMfouXlzspGQQItxuAzFSOWeG6RBEVc5cZnwaxKv2YWEmDUyHspWEFBw77kLiv23MnMTfREDLlrUJiZvD9vT5aYhjCJOJxhvFFF6KZYlCvB8Mf-rLILiu6sJhpNlIgYHXSMc4Irrm2_1iyDcJ2rdlbfgpDg3K5cgV_Kh5zmb5sw33CcvZ7shTJHXiACw.m3u8?u=1695356408
 
