@@ -242,10 +242,10 @@ https://179720687.global.cdnfastest.com/live/sd-y0or5jhn48vxqwz/chunklist_w14907
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE mexico vs puertorico women
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhn4n6eqwz/chunklist_w1605132912.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE 
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT-vIe_yosi594BrcNTxGpLEToykfn1DU3pem-YPmv9Q3QFBsmx3Z3gdpUue-LqRYiUgxO6EjAsw-T3Ovm_HbLGJgLNViUeH2SnVOGzk7q2SI3NIa5eq87WJX_FVIlAnNew5ECd8oGTkAUlGMh4EgkjQE9DkDmP4yY1Ls9DFuVqzwt6fM_rKeGnL3bqfhgdLdJeZdVBJdKfLHCwhycDAQGpV2EiFtpSPmrqNoFABQ02Txy5R2jn90xhhTQZG4tBOlRQ.m3u8?u=1695356408
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT84z42HGUaE9mCRKSQnrT4KIl8NGrVfiRnbgOf2kQm0VVo3J1DFVFKqIZ4peHhBjfDpeYGtmTA8NrnRuir541vWT6fu--gSuQSg7WLBtZohTHVaPjdh_XbOQEl28tmJN8Igeo6dK2viRPWq8HTI41HUTTzmeg06tMaVtYbmKF8CorazX1NK-Yb6htVfqcATO04FZ_2o-FYmYcnUeZI0ZBsNnjL8kzydWy-8wxivujd_OgOXPSDz0f78L6h_XSwSdvA.m3u8?u=1695356408
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE C5
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT-vIe_yosi594BrcNTxGpLEToykfn1DU3pem-YPmv9Q36fE4_19L807oa8X5Vz0xNLjvhY1X2Zjdxdkf4JioZpbpOGQZQHHmYtdvzVb9kqBifge-H-wY1q8E2-xmnPGFD92heVmTORXaOr3xOwruF6B2e7XjWQcLGVSvM-iBAZfDYcZK5uSE31XlMdBvNBcReVsAkKJS0H76-YCVf0KWxYLOprn9CKVdQYlgkBeNIDfuQrvxGkCRnQMiNDRaPDJvvQ.m3u8?u=1695440087
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE C6
+http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT84z42HGUaE9mCRKSQnrT4KIl8NGrVfiRnbgOf2kQm0VUDrCVptpEAppFAvgDggF14NX3nnsriTFny76Sq9zYTrGiKjJe-XP4BDIKtkrhQ2_gk-_cLxd_bbqatA8rqoHX0fgbZk5bY3-x8Yt8SRy3I9PtooVSWg6YdbNcJuf9PAAZPUGrwqnfHrE7tPfbTUMlIJsa-Iaq5lqyGMmfd3Gw78BngEFUycHUUs71syNVle07QJToj-z5V6giRYif1xxpw.m3u8?u=1695440087
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT9eDNeD3xaGOYMs-POA3lIw4mwcxBiBDYq2xePF7UAw9oyHPQlbcQV-79CN4zFYXndnOlth_Tw5ANjybacEHRjgO2zMgpiPmBRcHhO7hZp95anPGxQ0DuqbsTEY3YpvSdXE2F4kE-od6PI3x_QMqPAJHjAscqUD2ASFwoj8oyw0JXXajIVopA7tdgjcdqkLp8Q9P2FZ9qA0QxAbNmqWyelHyRQfKhuhwRdu2GPCYaFhSyYLsUJwcL4aTLjEXDJo-gQ.m3u8?u=1695356408
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE 
