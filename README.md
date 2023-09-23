@@ -239,8 +239,8 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩",LIVE japan vs argentina women
 https://179720687.global.cdnfastest.com/live/sd-y0or5jhn48vxqwz/chunklist_w1490777512.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE 
-http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT3m3VChjDhofd6dh5hpGkFNdt09Em9qt1x16H3iW9WlGxOpFFR4Ke4zPf_sHPiCRrAIGIqrMfouXlzspGQQItxuAzFSOWeG6RBEVc5cZnwaxKv2YWEmDUyHspWEFBw77kLiv23MnMTfREDLlrUJiZvD9vT5aYhjCJOJxhvFFF6KZYlCvB8Mf-rLILiu6sJhpNlIgYHXSMc4Irrm2_1iyDcJ2rdlbfgpDg3K5cgV_Kh5zmb5sw33CcvZ7shTJHXiACw.m3u8?u=1695356408
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩", LIVE mexico vs puertorico women
+https://179720687.global.cdnfastest.com/live/sd-y0or5jhn4n6eqwz/chunklist_w1605132912.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8khyVWvB/LIVE.jpg" group-title="🚩LIVE EVENT🚩" ,LIVE 
 http://8.219.138.150:8885/live/o0szEeiAP5atYbcqmyLAmfPI2XNu6UVJWDa9TiLdLF30BGouxqxF7vaVViXIYY4bwohGozJt8hubo2042srLT-vIe_yosi594BrcNTxGpLEToykfn1DU3pem-YPmv9Q3QFBsmx3Z3gdpUue-LqRYiUgxO6EjAsw-T3Ovm_HbLGJgLNViUeH2SnVOGzk7q2SI3NIa5eq87WJX_FVIlAnNew5ECd8oGTkAUlGMh4EgkjQE9DkDmP4yY1Ls9DFuVqzwt6fM_rKeGnL3bqfhgdLdJeZdVBJdKfLHCwhycDAQGpV2EiFtpSPmrqNoFABQ02Txy5R2jn90xhhTQZG4tBOlRQ.m3u8?u=1695356408
