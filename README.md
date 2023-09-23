@@ -128,7 +128,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
-https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxk37dryk/chunklist_w85621187.m3u8  
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/223.m3u8
  
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7Ly98png/GP.png" group-title="🚩LIVE EVENT🚩",MOTO GP 1
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/298570
