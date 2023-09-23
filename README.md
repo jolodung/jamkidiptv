@@ -124,6 +124,8 @@ http://smartv.pro:80/live/828282/484848/39531.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",VOLLY
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
