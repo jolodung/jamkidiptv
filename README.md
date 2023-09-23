@@ -124,11 +124,9 @@ http://smartv.pro:80/live/828282/484848/39531.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",VOLLY
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-http://202.147.204.114/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
-https://etslive-2-vidio-com.akamaized.net/exp=1695399212~acl=/hls-p/ingest_205_*/*~hmac=5015f415fcc321ae47872d9792dcfebde34beedebbb690defad406ddceb5e716/hls-p/ingest_205_720p/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
 https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxk37dryk/chunklist_w85621187.m3u8  
  
