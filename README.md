@@ -618,31 +618,15 @@ http://server.sibfungold.info:8080/live/dukoowmaxamed/bn0YAtRfb80YAtRfb8/3246.ts
  
 ----------------------------------------------------MOVIES-------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.postimg.cc/wTgGGfhr/HBO.jpg" group-title="MOVIES", HBO fhd
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT2oT3aJVr0-0TfxhZyHHWiQ/ts
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbop.openwindow040.workers.dev
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbosigp.openwindow040.workers.dev
-#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbohitsp.openwindow040.workers.dev
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="MOVIES",HBO SIGNATURE
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3009.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbofamp.openwindow040.workers.dev
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3010.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3011.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd 
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3012.m3u8
  
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN: SONY PIX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="MOVIES", SONY PIX HD
 http://humiptv.live:8080/live/0192838773/9948381838/147.ts
