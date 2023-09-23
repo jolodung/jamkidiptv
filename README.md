@@ -128,7 +128,7 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162138
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tgkMHgKR/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/223.m3u8
  
